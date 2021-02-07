@@ -1,0 +1,4584 @@
+Num	met_ID	met_Name
+1	m00003c	(10Z)-heptadecenoic acid
+2	m00003r	(10Z)-heptadecenoic acid
+3	m00003s	(10Z)-heptadecenoic acid
+4	m00004c	(10Z)-heptadecenoyl-CoA
+5	m00004m	(10Z)-heptadecenoyl-CoA
+6	m00004r	(10Z)-heptadecenoyl-CoA
+7	m00006c	(11Z)-docosenoyl-CoA
+8	m00006m	(11Z)-docosenoyl-CoA
+9	m00006r	(11Z)-docosenoyl-CoA
+10	m00007c	(11Z)-eicosenoyl-CoA
+11	m00007m	(11Z)-eicosenoyl-CoA
+12	m00007r	(11Z)-eicosenoyl-CoA
+13	m00008c	(11Z,14Z)-eicosadienoic acid
+14	m00008r	(11Z,14Z)-eicosadienoic acid
+15	m00008s	(11Z,14Z)-eicosadienoic acid
+16	m00009c	(11Z,14Z)-eicosadienoyl-CoA
+17	m00009m	(11Z,14Z)-eicosadienoyl-CoA
+18	m00009r	(11Z,14Z)-eicosadienoyl-CoA
+19	m00010c	(11Z,14Z,17Z)-eicosatrienoic acid
+20	m00010r	(11Z,14Z,17Z)-eicosatrienoic acid
+21	m00010s	(11Z,14Z,17Z)-eicosatrienoic acid
+22	m00011c	(11Z,14Z,17Z)-eicosatrienoylcarnitine
+23	m00011m	(11Z,14Z,17Z)-eicosatrienoylcarnitine
+24	m00011r	(11Z,14Z,17Z)-eicosatrienoylcarnitine
+25	m00012c	(11Z,14Z,17Z)-eicosatrienoyl-CoA
+26	m00012m	(11Z,14Z,17Z)-eicosatrienoyl-CoA
+27	m00012r	(11Z,14Z,17Z)-eicosatrienoyl-CoA
+28	m00013c	(13E)-11alpha-hydroxy-9,15-dioxoprost-13-enoate
+29	m00016c	(13Z)-docosenoyl-CoA
+30	m00016m	(13Z)-docosenoyl-CoA
+31	m00016r	(13Z)-docosenoyl-CoA
+32	m00017c	(13Z)-eicosenoic acid
+33	m00017r	(13Z)-eicosenoic acid
+34	m00017s	(13Z)-eicosenoic acid
+35	m00018c	(13Z)-eicosenoyl-CoA
+36	m00018m	(13Z)-eicosenoyl-CoA
+37	m00018p	(13Z)-eicosenoyl-CoA
+38	m00018r	(13Z)-eicosenoyl-CoA
+39	m00019c	(13Z)-octadecenoic acid
+40	m00019r	(13Z)-octadecenoic acid
+41	m00019s	(13Z)-octadecenoic acid
+42	m00020c	(13Z)-octadecenoyl-CoA
+43	m00020m	(13Z)-octadecenoyl-CoA
+44	m00020r	(13Z)-octadecenoyl-CoA
+45	m00021c	(13Z,16Z)-docosadienoic acid
+46	m00021r	(13Z,16Z)-docosadienoic acid
+47	m00021s	(13Z,16Z)-docosadienoic acid
+48	m00022c	(13Z,16Z)-docosadienoylcarnitine
+49	m00022m	(13Z,16Z)-docosadienoylcarnitine
+50	m00022r	(13Z,16Z)-docosadienoylcarnitine
+51	m00023c	(13Z,16Z)-docosadienoyl-CoA
+52	m00023m	(13Z,16Z)-docosadienoyl-CoA
+53	m00023r	(13Z,16Z)-docosadienoyl-CoA
+54	m00024c	(15Z)-tetracosenoylcarnitine
+55	m00024r	(15Z)-tetracosenoylcarnitine
+56	m00025c	(15Z)-tetracosenoyl-CoA
+57	m00025p	(15Z)-tetracosenoyl-CoA
+58	m00025r	(15Z)-tetracosenoyl-CoA
+59	m00026m	(18E)-20-oxo-20-CoA-LTB4
+60	m00026p	(18E)-20-oxo-20-CoA-LTB4
+61	m00027p	(18E)-20-oxo-20-CoA-LTE4
+62	m00028c	(18R)-HEPE
+63	m00030c	(1aalpha,2beta,3alpha,11calpha)-1a,2,3,11c-tetrahydro-6,11-dimethylbenzo[6,7]phenanthro[3,4-b]oxirene-2,3-diol
+64	m00031c	(1R)-hydroxy-(2R)-glutathionyl-1,2-dihydronaphthalene
+65	m00032c	(1R,2S)-naphthalene 1,2-oxide
+66	m00033c	(1S)-hydroxy-(2S)-glutathionyl-1,2-dihydronaphthalene
+67	m00034c	(1S,2R)-naphthalene 1,2-oxide
+68	m00035c	(24R)-24,25-dihydroxycalciol
+69	m00035m	(24R)-24,25-dihydroxycalciol
+70	m00037p	(24R,25R)3alpha,7alpha,24-trihydroxy-5beta-cholestanoyl-CoA
+71	m00038c	(2E)-decenoyl-[ACP]
+72	m00039m	(2E)-decenoyl-CoA
+73	m00039p	(2E)-decenoyl-CoA
+74	m00040c	(2E)-docosenoyl-CoA
+75	m00040m	(2E)-docosenoyl-CoA
+76	m00040p	(2E)-docosenoyl-CoA
+77	m00041c	(2E)-dodecenoyl-[ACP]
+78	m00042m	(2E)-dodecenoyl-CoA
+79	m00042p	(2E)-dodecenoyl-CoA
+80	m00043c	(2E)-eicosenoyl-CoA
+81	m00043m	(2E)-eicosenoyl-CoA
+82	m00043p	(2E)-eicosenoyl-CoA
+83	m00044c	(2E)-heneicosenoyl-CoA
+84	m00044m	(2E)-heneicosenoyl-CoA
+85	m00045c	(2E)-heptadecenoyl-[ACP]
+86	m00046m	(2E)-heptadecenoyl-CoA
+87	m00047c	(2E)-heptenoyl-[ACP]
+88	m00048m	(2E)-heptenoyl-CoA
+89	m00049c	(2E)-hexacosenoyl-CoA
+90	m00049p	(2E)-hexacosenoyl-CoA
+91	m00050c	(2E)-hexadecenoyl-[ACP]
+92	m00051m	(2E)-hexadecenoyl-CoA
+93	m00051p	(2E)-hexadecenoyl-CoA
+94	m00052c	(2E)-hexenoyl-[ACP]
+95	m00053m	(2E)-hexenoyl-CoA
+96	m00053p	(2E)-hexenoyl-CoA
+97	m00054c	(2E)-nonadecenoyl-CoA
+98	m00054m	(2E)-nonadecenoyl-CoA
+99	m00055c	(2E)-nonenoyl-[ACP]
+100	m00056m	(2E)-nonenoyl-CoA
+101	m00057c	(2E)-octadecenoyl-CoA
+102	m00057m	(2E)-octadecenoyl-CoA
+103	m00057p	(2E)-octadecenoyl-CoA
+104	m00058c	(2E)-octenoyl-[ACP]
+105	m00059m	(2E)-octenoyl-CoA
+106	m00059p	(2E)-octenoyl-CoA
+107	m00060c	(2E)-pentadecenoyl-[ACP]
+108	m00061m	(2E)-pentadecenoyl-CoA
+109	m00062c	(2E)-pentenoyl-[ACP]
+110	m00063m	(2E)-pentenoyl-CoA
+111	m00064c	(2E)-tetracosenoyl-CoA
+112	m00064p	(2E)-tetracosenoyl-CoA
+113	m00065c	(2E)-tetradecenoyl-[ACP]
+114	m00066m	(2E)-tetradecenoyl-CoA
+115	m00066p	(2E)-tetradecenoyl-CoA
+116	m00067c	(2E)-tricosenoyl-CoA
+117	m00068c	(2E)-tridecenoyl-[ACP]
+118	m00069m	(2E)-tridecenoyl-CoA
+119	m00070c	(2E)-undecenoyl-[ACP]
+120	m00071m	(2E)-undecenoyl-CoA
+121	m00072m	(2E,4Z,7Z,10Z)-hexadecatetraenoyl-CoA
+122	m00073m	(2E,6Z,9Z,12Z)-octadecatetraenoyl-CoA
+123	m00074c	(2E,7Z,10Z,13Z,16Z)-docosapentaenoyl-CoA
+124	m00075p	(2R)-pristanoyl-CoA
+125	m00077p	(2R,6S,10S)-pristanate
+126	m00078p	(2S)-pristanoyl-CoA
+127	m00081m	(3S)-3-hydroxy-cis,cis-palmito-7,10-dienoyl-CoA
+128	m00082m	(3S)-3-hydroxydodec-cis-6-enoyl-CoA
+129	m00083m	(3S)-3-hydroxylinoleoyl-CoA
+130	m00085c	(3S)-hydroxy-docasa-cis,cis-13,16-dienoyl-CoA
+131	m00086c	(3S)-hydroxy-eicosa-cis,cis,cis-11,14,17-trienoyl-CoA
+132	m00087c	(3S)-hydroxy-eicosa-cis,cis-11,14-dienoyl-CoA
+133	m00088m	(3Z)-dodecenoyl-CoA
+134	m00089m	(3Z,7Z,10Z)-hexadecatrienoyl-CoA
+135	m00090p	(4R,8R,12R)-trimethyl-(2E)-tridecenoyl-CoA
+136	m00091m	(4Z,7Z,10Z)-hexadecatrienoyl-CoA
+137	m00092c	(4Z,7Z,10Z,13Z,16Z)-docosapentaenoylcarnitine
+138	m00092m	(4Z,7Z,10Z,13Z,16Z)-docosapentaenoylcarnitine
+139	m00092r	(4Z,7Z,10Z,13Z,16Z)-docosapentaenoylcarnitine
+140	m00093c	(4Z,7Z,10Z,13Z,16Z)-docosapentaenoyl-CoA
+141	m00093m	(4Z,7Z,10Z,13Z,16Z)-docosapentaenoyl-CoA
+142	m00093p	(4Z,7Z,10Z,13Z,16Z)-docosapentaenoyl-CoA
+143	m00093r	(4Z,7Z,10Z,13Z,16Z)-docosapentaenoyl-CoA
+144	m00094c	(4Z,7Z,10Z,13Z,16Z)-DPA
+145	m00094l	(4Z,7Z,10Z,13Z,16Z)-DPA
+146	m00094r	(4Z,7Z,10Z,13Z,16Z)-DPA
+147	m00094s	(4Z,7Z,10Z,13Z,16Z)-DPA
+148	m00095c	(4Z,7Z,10Z,13Z,16Z,19Z)-docosahexaenoyl-CoA
+149	m00095m	(4Z,7Z,10Z,13Z,16Z,19Z)-docosahexaenoyl-CoA
+150	m00095p	(4Z,7Z,10Z,13Z,16Z,19Z)-docosahexaenoyl-CoA
+151	m00095r	(4Z,7Z,10Z,13Z,16Z,19Z)-docosahexaenoyl-CoA
+152	m00097s	(5-L-glutamyl)-L-amino acid
+153	m00098c	(5S,6S)-epoxy-(15R)-hydroxy-ETE
+154	m00098p	(5S,6S)-epoxy-(15R)-hydroxy-ETE
+155	m00098r	(5S,6S)-epoxy-(15R)-hydroxy-ETE
+156	m00099m	(5Z)-dodecenoyl-CoA
+157	m00100c	(5Z,8Z,11Z)-eicosatrienoylcarnitine
+158	m00100m	(5Z,8Z,11Z)-eicosatrienoylcarnitine
+159	m00100r	(5Z,8Z,11Z)-eicosatrienoylcarnitine
+160	m00101c	(5Z,8Z,11Z)-eicosatrienoyl-CoA
+161	m00101m	(5Z,8Z,11Z)-eicosatrienoyl-CoA
+162	m00101r	(5Z,8Z,11Z)-eicosatrienoyl-CoA
+163	m00102c	(5Z,8Z,11Z,14Z,17Z)-eicosapentaenoylcarnitine
+164	m00102m	(5Z,8Z,11Z,14Z,17Z)-eicosapentaenoylcarnitine
+165	m00102r	(5Z,8Z,11Z,14Z,17Z)-eicosapentaenoylcarnitine
+166	m00103c	(5Z,8Z,11Z,14Z,17Z)-eicosapentaenoyl-CoA
+167	m00103m	(5Z,8Z,11Z,14Z,17Z)-eicosapentaenoyl-CoA
+168	m00103r	(5Z,8Z,11Z,14Z,17Z)-eicosapentaenoyl-CoA
+169	m00104c	(6Z,9Z)-octadecadienoic acid
+170	m00104r	(6Z,9Z)-octadecadienoic acid
+171	m00104s	(6Z,9Z)-octadecadienoic acid
+172	m00105c	(6Z,9Z)-octadecadienoylcarnitine
+173	m00105m	(6Z,9Z)-octadecadienoylcarnitine
+174	m00105r	(6Z,9Z)-octadecadienoylcarnitine
+175	m00106c	(6Z,9Z)-octadecadienoyl-CoA
+176	m00106m	(6Z,9Z)-octadecadienoyl-CoA
+177	m00106r	(6Z,9Z)-octadecadienoyl-CoA
+178	m00107c	(6Z,9Z,12Z,15Z)-octadecatetraenoylcarnitine
+179	m00107m	(6Z,9Z,12Z,15Z)-octadecatetraenoylcarnitine
+180	m00107r	(6Z,9Z,12Z,15Z)-octadecatetraenoylcarnitine
+181	m00108c	(6Z,9Z,12Z,15Z)-octadecatetraenoyl-CoA
+182	m00108m	(6Z,9Z,12Z,15Z)-octadecatetraenoyl-CoA
+183	m00108r	(6Z,9Z,12Z,15Z)-octadecatetraenoyl-CoA
+184	m00109c	(6Z,9Z,12Z,15Z,18Z)-tetracosapentaenoylcarnitine
+185	m00109r	(6Z,9Z,12Z,15Z,18Z)-tetracosapentaenoylcarnitine
+186	m00110c	(6Z,9Z,12Z,15Z,18Z)-tetracosapentaenoyl-CoA
+187	m00110p	(6Z,9Z,12Z,15Z,18Z)-tetracosapentaenoyl-CoA
+188	m00110r	(6Z,9Z,12Z,15Z,18Z)-tetracosapentaenoyl-CoA
+189	m00111c	(6Z,9Z,12Z,15Z,18Z)-TPA
+190	m00111r	(6Z,9Z,12Z,15Z,18Z)-TPA
+191	m00111s	(6Z,9Z,12Z,15Z,18Z)-TPA
+192	m00112c	(6Z,9Z,12Z,15Z,18Z,21Z)-tetracosahexaenoylcarnitine
+193	m00112r	(6Z,9Z,12Z,15Z,18Z,21Z)-tetracosahexaenoylcarnitine
+194	m00113c	(6Z,9Z,12Z,15Z,18Z,21Z)-tetracosahexaenoyl-CoA
+195	m00113p	(6Z,9Z,12Z,15Z,18Z,21Z)-tetracosahexaenoyl-CoA
+196	m00113r	(6Z,9Z,12Z,15Z,18Z,21Z)-tetracosahexaenoyl-CoA
+197	m00114c	(6Z,9Z,12Z,15Z,18Z,21Z)-THA
+198	m00114r	(6Z,9Z,12Z,15Z,18Z,21Z)-THA
+199	m00114s	(6Z,9Z,12Z,15Z,18Z,21Z)-THA
+200	m00115c	(7Z)-octadecenoic acid
+201	m00115s	(7Z)-octadecenoic acid
+202	m00116c	(7Z)-octadecenoyl-CoA
+203	m00116m	(7Z)-octadecenoyl-CoA
+204	m00116r	(7Z)-octadecenoyl-CoA
+205	m00117c	(7Z)-tetradecenoic acid
+206	m00117r	(7Z)-tetradecenoic acid
+207	m00117s	(7Z)-tetradecenoic acid
+208	m00118c	(7Z)-tetradecenoyl-CoA
+209	m00118m	(7Z)-tetradecenoyl-CoA
+210	m00118p	(7Z)-tetradecenoyl-CoA
+211	m00118r	(7Z)-tetradecenoyl-CoA
+212	m00119c	(7Z,10Z,13Z,16Z)-docosatetraenoyl-CoA
+213	m00119m	(7Z,10Z,13Z,16Z)-docosatetraenoyl-CoA
+214	m00119r	(7Z,10Z,13Z,16Z)-docosatetraenoyl-CoA
+215	m00120c	(7Z,10Z,13Z,16Z,19Z)-docosapentaenoylcarnitine
+216	m00120m	(7Z,10Z,13Z,16Z,19Z)-docosapentaenoylcarnitine
+217	m00120r	(7Z,10Z,13Z,16Z,19Z)-docosapentaenoylcarnitine
+218	m00121c	(7Z,10Z,13Z,16Z,19Z)-docosapentaenoyl-CoA
+219	m00121m	(7Z,10Z,13Z,16Z,19Z)-docosapentaenoyl-CoA
+220	m00121r	(7Z,10Z,13Z,16Z,19Z)-docosapentaenoyl-CoA
+221	m00122c	(8Z,11Z)-eicosadienoylcarnitine
+222	m00122m	(8Z,11Z)-eicosadienoylcarnitine
+223	m00122r	(8Z,11Z)-eicosadienoylcarnitine
+224	m00123c	(8Z,11Z)-eicosadienoyl-CoA
+225	m00123m	(8Z,11Z)-eicosadienoyl-CoA
+226	m00123r	(8Z,11Z)-eicosadienoyl-CoA
+227	m00124c	(8Z,11Z,14Z,17Z)-eicosatetraenoylcarnitine
+228	m00124m	(8Z,11Z,14Z,17Z)-eicosatetraenoylcarnitine
+229	m00124r	(8Z,11Z,14Z,17Z)-eicosatetraenoylcarnitine
+230	m00125c	(8Z,11Z,14Z,17Z)-eicosatetraenoyl-CoA
+231	m00125m	(8Z,11Z,14Z,17Z)-eicosatetraenoyl-CoA
+232	m00125r	(8Z,11Z,14Z,17Z)-eicosatetraenoyl-CoA
+233	m00126c	(9E)-octadecenoylcarnitine
+234	m00126m	(9E)-octadecenoylcarnitine
+235	m00126r	(9E)-octadecenoylcarnitine
+236	m00127c	(9E)-octadecenoyl-CoA
+237	m00127m	(9E)-octadecenoyl-CoA
+238	m00127r	(9E)-octadecenoyl-CoA
+239	m00128c	(9E)-tetradecenoic acid
+240	m00128r	(9E)-tetradecenoic acid
+241	m00128s	(9E)-tetradecenoic acid
+242	m00129c	(9E)-tetradecenoyl-CoA
+243	m00129m	(9E)-tetradecenoyl-CoA
+244	m00129r	(9E)-tetradecenoyl-CoA
+245	m00130c	(9Z,12Z,15Z,18Z)-tetracosatetraenoylcarnitine
+246	m00130r	(9Z,12Z,15Z,18Z)-tetracosatetraenoylcarnitine
+247	m00131c	(9Z,12Z,15Z,18Z)-tetracosatetraenoyl-CoA
+248	m00131p	(9Z,12Z,15Z,18Z)-tetracosatetraenoyl-CoA
+249	m00131r	(9Z,12Z,15Z,18Z)-tetracosatetraenoyl-CoA
+250	m00132c	(9Z,12Z,15Z,18Z)-TTA
+251	m00132r	(9Z,12Z,15Z,18Z)-TTA
+252	m00132s	(9Z,12Z,15Z,18Z)-TTA
+253	m00133c	(9Z,12Z,15Z,18Z,21Z)-tetracosapentaenoylcarnitine
+254	m00133r	(9Z,12Z,15Z,18Z,21Z)-tetracosapentaenoylcarnitine
+255	m00134c	(9Z,12Z,15Z,18Z,21Z)-tetracosapentaenoyl-CoA
+256	m00134p	(9Z,12Z,15Z,18Z,21Z)-tetracosapentaenoyl-CoA
+257	m00134r	(9Z,12Z,15Z,18Z,21Z)-tetracosapentaenoyl-CoA
+258	m00135c	(9Z,12Z,15Z,18Z,21Z)-TPA
+259	m00135r	(9Z,12Z,15Z,18Z,21Z)-TPA
+260	m00135s	(9Z,12Z,15Z,18Z,21Z)-TPA
+261	m00138r	(alpha-D-Glucosyl)-(alpha-D-mannosyl)8-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein)
+262	m00139r	(alpha-D-Glucosyl)2-(alpha-D-mannosyl)8-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein)
+263	m00140r	(alpha-D-Glucosyl)3-(alpha-D-mannosyl)8-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein)
+264	m00141l	(alpha-D-mannosyl)2-beta-D-mannosyl-N-acetylglucosamine
+265	m00142g	(alpha-D-mannosyl)4-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein)
+266	m00143g	(alpha-D-mannosyl)5-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein) (B1)
+267	m00144g	(alpha-D-mannosyl)5-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein) (B2)
+268	m00145g	(alpha-D-mannosyl)5-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein) (C)
+269	m00146g	(alpha-D-mannosyl)6-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein) (A)
+270	m00147g	(alpha-D-mannosyl)6-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein) (B1)
+271	m00148g	(alpha-D-mannosyl)6-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein) (B2)
+272	m00149g	(alpha-D-mannosyl)6-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein) (C)
+273	m00150g	(alpha-D-mannosyl)7-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine, isoform A (protein)
+274	m00151g	(alpha-D-mannosyl)7-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine, isoform B (protein)
+275	m00151r	(alpha-D-mannosyl)7-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine, isoform B (protein)
+276	m00152g	(alpha-D-mannosyl)7-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine, isoform C (protein)
+277	m00153g	(alpha-D-mannosyl)8-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein)
+278	m00153r	(alpha-D-mannosyl)8-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein)
+279	m00154r	(Glc)3 (GlcNAc)2 (Man)9 (PP-Dol)1
+280	m00157c	(R)-3-hydroxybutanoate
+281	m00157m	(R)-3-hydroxybutanoate
+282	m00157s	(R)-3-hydroxybutanoate
+283	m00158c	(R)-3-hydroxybutanoyl-[ACP]
+284	m00159m	(R)-3-hydroxybutanoyl-CoA
+285	m00160c	(R)-3-hydroxydecanoyl-[ACP]
+286	m00161c	(R)-3-hydroxyoctanoyl-[ACP]
+287	m00162c	(R)-3-hydroxypalmitoyl-[ACP]
+288	m00163c	(R)-4-phosphopantothenoyl-cysteine
+289	m00163m	(R)-4-phosphopantothenoyl-cysteine
+290	m00164c	(R)-5-diphosphomevalonate
+291	m00165c	(R)-5-phosphomevalonate
+292	m00166m	(R)-methylmalonyl-CoA
+293	m00167c	(R)-mevalonate
+294	m00167p	(R)-mevalonate
+295	m00168c	(R)-S-lactoylglutathione
+296	m00168m	(R)-S-lactoylglutathione
+297	m00170m	(S)-3-hydroxy-11-cis-octadecenoyl-CoA
+298	m00171m	(S)-3-hydroxy-2-methylbutyryl-CoA
+299	m00172m	(S)-3-hydroxy-7-hexadecenoyl-CoA
+300	m00174m	(S)-3-hydroxydodecanoyl-CoA
+301	m00175m	(S)-3-hydroxyhexadecanoyl-CoA
+302	m00176m	(S)-3-hydroxyoleyleoyl-CoA
+303	m00177m	(S)-3-hydroxypalmitoleoyl-CoA
+304	m00178m	(S)-3-hydroxytetradecanoyl-CoA
+305	m00179c	(S)-3-sulfolactate
+306	m00179m	(S)-3-sulfolactate
+307	m00180c	(S)-dihydroorotate
+308	m00181m	(S)-hydroxydecanoyl-CoA
+309	m00182m	(S)-hydroxyhexanoyl-CoA
+310	m00183m	(S)-hydroxyoctanoyl-CoA
+311	m00184c	[ACP]
+312	m00192c	[phosphorylase A]
+313	m00193c	[phosphorylase B]
+314	m00196c	[protein]
+315	m00197c	[protein]-L-arginine
+316	m00198l	[protein]-L-asparagine
+317	m00198r	[protein]-L-asparagine
+318	m00199c	[protein]-L-citrulline
+319	m00204c	[protein]-L-lysine
+320	m00204n	[protein]-L-lysine
+321	m00205g	[protein]-L-serine
+322	m00205l	[protein]-L-serine
+323	m00205r	[protein]-L-serine
+324	m00206c	[protein]-L-tyrosine
+325	m00211c	[protein]-N6,N6,N6-trimethyl-L-lysine
+326	m00211n	[protein]-N6,N6,N6-trimethyl-L-lysine
+327	m00211r	[protein]-N6,N6,N6-trimethyl-L-lysine
+328	m00212c	[protein]-N6,N6-dimethyl-L-lysine
+329	m00212n	[protein]-N6,N6-dimethyl-L-lysine
+330	m00213c	[protein]-N6-methyl-L-lysine
+331	m00215c	[protein]-omega-N-(ADP-D-ribosyl)-L-arginine
+332	m00218c	[protein]-tyrosine-phosphate
+333	m00219c	[pyruvate dehydrogenase (acetyl transferring)]
+334	m00220c	[pyruvate dehydrogenase (acetyl transferring)]-phosphate
+335	m00223c	1-(1-alkenyl)-sn-glycero-3-phosphoethanolamine
+336	m00228c	1,1-dichloroethylene
+337	m00228s	1,1-dichloroethylene
+338	m00229c	1,2,3,4-tetrahydro-alpha,7-dihydroxy-beta-(hydroxymethyl)-9-methoxy-3,4-dioxocyclopenta[c][1]benzopyran-6-propanal
+339	m00233c	1,2-diacylglycerol-bile-PC pool
+340	m00234s	1,2-diacylglycerol-chylomicron pool
+341	m00235c	1,2-diacylglycerol-LD-PC pool
+342	m00236c	1,2-diacylglycerol-LD-PE pool
+343	m00236r	1,2-diacylglycerol-LD-PE pool
+344	m00237c	1,2-diacylglycerol-LD-PI pool
+345	m00238c	1,2-diacylglycerol-LD-PS pool
+346	m00239c	1,2-diacylglycerol-LD-SM pool
+347	m00240c	1,2-diacylglycerol-LD-TAG pool
+348	m00240n	1,2-diacylglycerol-LD-TAG pool
+349	m00241s	1,2-diacylglycerol-VLDL pool
+350	m00242c	1,2-dibromoethane
+351	m00242s	1,2-dibromoethane
+352	m00243c	1,2-dihydronaphthalene-1,2-diol
+353	m00245c	1,2-dihydroxy-5-(methylthio)pent-1-en-3-one
+354	m00247c	1,3-bisphospho-D-glycerate
+355	m00248c	1,3-diaminopropane
+356	m00252c	10,11-dihydro-12-epi-LTB4
+357	m00252m	10,11-dihydro-12-epi-LTB4
+358	m00252p	10,11-dihydro-12-epi-LTB4
+359	m00253c	10,11-dihydro-12-oxo-LTB4
+360	m00253m	10,11-dihydro-12-oxo-LTB4
+361	m00253p	10,11-dihydro-12-oxo-LTB4
+362	m00254c	10,11-dihydro-12R-hydroxy-LTC4
+363	m00254m	10,11-dihydro-12R-hydroxy-LTC4
+364	m00254p	10,11-dihydro-12R-hydroxy-LTC4
+365	m00255c	10,11-dihydro-20-dihydroxy-LTB4
+366	m00256c	10,11-dihydro-20-trihydroxy-LTB4
+367	m00257c	10,11-dihydro-LTB4
+368	m00257m	10,11-dihydro-LTB4
+369	m00257p	10,11-dihydro-LTB4
+370	m00257r	10,11-dihydro-LTB4
+371	m00258c	10,11-dihydro-LTB4-CoA
+372	m00258m	10,11-dihydro-LTB4-CoA
+373	m00258p	10,11-dihydro-LTB4-CoA
+374	m00258r	10,11-dihydro-LTB4-CoA
+375	m00259c	10,11-epoxy-(4Z,7Z)-hexadecadienoic acid
+376	m00260c	10,13,16,19-docosatetraenoic acid
+377	m00260s	10,13,16,19-docosatetraenoic acid
+378	m00261c	10,13,16,19-docosatetraenoylcarnitine
+379	m00261m	10,13,16,19-docosatetraenoylcarnitine
+380	m00261r	10,13,16,19-docosatetraenoylcarnitine
+381	m00262c	10,13,16,19-docosatetraenoyl-CoA
+382	m00262m	10,13,16,19-docosatetraenoyl-CoA
+383	m00262r	10,13,16,19-docosatetraenoyl-CoA
+384	m00263c	10,13,16-docosatrienoylcarnitine
+385	m00263m	10,13,16-docosatrienoylcarnitine
+386	m00263r	10,13,16-docosatrienoylcarnitine
+387	m00264c	10,13,16-docosatrienoyl-CoA
+388	m00264m	10,13,16-docosatrienoyl-CoA
+389	m00264r	10,13,16-docosatrienoyl-CoA
+390	m00265c	10,13,16-docosatriynoic acid
+391	m00265s	10,13,16-docosatriynoic acid
+392	m00266c	10-formyl-THF
+393	m00266l	10-formyl-THF
+394	m00266m	10-formyl-THF
+395	m00266s	10-formyl-THF
+396	m00267c	10-formyl-THF-glu(5)
+397	m00267l	10-formyl-THF-glu(5)
+398	m00267m	10-formyl-THF-glu(5)
+399	m00267s	10-formyl-THF-glu(5)
+400	m00268c	10-formyl-THF-glu(6)
+401	m00268l	10-formyl-THF-glu(6)
+402	m00268m	10-formyl-THF-glu(6)
+403	m00268s	10-formyl-THF-glu(6)
+404	m00269c	10-formyl-THF-glu(7)
+405	m00269l	10-formyl-THF-glu(7)
+406	m00269m	10-formyl-THF-glu(7)
+407	m00269s	10-formyl-THF-glu(7)
+408	m00270c	10-HETE
+409	m00276c	11,12,15-THETA
+410	m00277c	11,12-DHET
+411	m00279c	11,12-EET
+412	m00280c	11,14,15-THETA
+413	m00286m	11-carboxy-alpha-chromanol
+414	m00287m	11-carboxy-alpha-tocotrienol
+415	m00288m	11-carboxy-gamma-chromanol
+416	m00289m	11-carboxy-gamma-tocotrienol
+417	m00290c	11-cis-retinal
+418	m00291c	11-cis-retinol
+419	m00296c	11h-14,15-EETA
+420	m00297c	11-HETE
+421	m00305c	12(13)-EpOME
+422	m00305r	12(13)-EpOME
+423	m00307c	12(S)-HETE
+424	m00309c	12(S)-HPETE
+425	m00309p	12(S)-HPETE
+426	m00309r	12(S)-HPETE
+427	m00309s	12(S)-HPETE
+428	m00310c	12,13-epoxy-(6Z,9Z)-octadecadienoic acid
+429	m00314c	12,13-hydroxyoctadec-9(z)-enoate
+430	m00314r	12,13-hydroxyoctadec-9(z)-enoate
+431	m00315c	12,15,18,21-tetracosatetraenoic acid
+432	m00315s	12,15,18,21-tetracosatetraenoic acid
+433	m00316c	12,15,18,21-tetracosatetraenoylcarnitine
+434	m00316r	12,15,18,21-tetracosatetraenoylcarnitine
+435	m00317c	12,15,18,21-tetracosatetraenoyl-CoA
+436	m00317p	12,15,18,21-tetracosatetraenoyl-CoA
+437	m00317r	12,15,18,21-tetracosatetraenoyl-CoA
+438	m00321c	12-hetre
+439	m00326c	12-keto-LTB4
+440	m00326m	12-keto-LTB4
+441	m00326p	12-keto-LTB4
+442	m00326r	12-keto-LTB4
+443	m00328c	12-oxo-10,11-dihydro-20-COOH-LTB4
+444	m00328r	12-oxo-10,11-dihydro-20-COOH-LTB4
+445	m00329c	12-oxo-20-carboxy-LTB4
+446	m00329r	12-oxo-20-carboxy-LTB4
+447	m00333c	12-oxo-c-LTB3
+448	m00333m	12-oxo-c-LTB3
+449	m00333p	12-oxo-c-LTB3
+450	m00333r	12-oxo-c-LTB3
+451	m00336c	13(S)-HODE
+452	m00337c	13(S)-HPODE
+453	m00339c	13,14-dihydro-15-oxo-lipoxin A4
+454	m00341c	13,16,19-docosatrienoic acid
+455	m00341r	13,16,19-docosatrienoic acid
+456	m00341s	13,16,19-docosatrienoic acid
+457	m00342c	13,16,19-docosatrienoylcarnitine
+458	m00342m	13,16,19-docosatrienoylcarnitine
+459	m00342r	13,16,19-docosatrienoylcarnitine
+460	m00343c	13,16,19-docosatrienoyl-CoA
+461	m00343m	13,16,19-docosatrienoyl-CoA
+462	m00343r	13,16,19-docosatrienoyl-CoA
+463	m00344c	13-carboxy-alpha-tocopherol
+464	m00344m	13-carboxy-alpha-tocopherol
+465	m00345c	13-carboxy-alpha-tocotrienol
+466	m00345m	13-carboxy-alpha-tocotrienol
+467	m00346c	13-carboxy-gamma-tocopherol
+468	m00346m	13-carboxy-gamma-tocopherol
+469	m00346r	13-carboxy-gamma-tocopherol
+470	m00347c	13-carboxy-gamma-tocotrienol
+471	m00347m	13-carboxy-gamma-tocotrienol
+472	m00349c	13-cis-retinal
+473	m00349r	13-cis-retinal
+474	m00350c	13-cis-retinoate
+475	m00350r	13-cis-retinoate
+476	m00351c	13-cis-retinol
+477	m00354c	13-HETE
+478	m00356c	13-hydroxy-alpha-tocopherol
+479	m00357c	13-hydroxy-alpha-tocotrienol
+480	m00360r	13-hydroxy-gamma-tocopherol
+481	m00361c	13-hydroxy-gamma-tocotrienol
+482	m00364c	14,15-DHET
+483	m00366c	14,15-EET
+484	m00366r	14,15-EET
+485	m00367c	14-demethyllanosterol
+486	m00373c	15(R)-HEPE
+487	m00373p	15(R)-HEPE
+488	m00373r	15(R)-HEPE
+489	m00374c	15(R)-HETE
+490	m00374p	15(R)-HETE
+491	m00374r	15(R)-HETE
+492	m00375c	15(R)-HpEPE
+493	m00375n	15(R)-HpEPE
+494	m00375p	15(R)-HpEPE
+495	m00375r	15(R)-HpEPE
+496	m00378c	15(S)-HETrE
+497	m00380c	15(S)-HPETE
+498	m00386c	15-epi-lipoxin A4
+499	m00386p	15-epi-lipoxin A4
+500	m00386r	15-epi-lipoxin A4
+501	m00387c	15-epi-lipoxin A5
+502	m00387p	15-epi-lipoxin A5
+503	m00387r	15-epi-lipoxin A5
+504	m00388c	15-epi-lipoxin B4
+505	m00388p	15-epi-lipoxin B4
+506	m00388r	15-epi-lipoxin B4
+507	m00389c	15-epi-lipoxin B5
+508	m00389p	15-epi-lipoxin B5
+509	m00389r	15-epi-lipoxin B5
+510	m00390c	15H-11,12-EETA
+511	m00394c	15-oxo-lipoxin A4
+512	m00396c	16(R)-HETE
+513	m00399r	16alpha-hydroxydehydroepiandrosterone
+514	m00400c	16alpha-hydroxyestrone
+515	m00400r	16alpha-hydroxyestrone
+516	m00410c	17beta-estradiol-2,3-quinone
+517	m00410m	17beta-estradiol-2,3-quinone
+518	m00410p	17beta-estradiol-2,3-quinone
+519	m00410r	17beta-estradiol-2,3-quinone
+520	m00411c	17beta-estradiol-2,3-semiquinone
+521	m00411l	17beta-estradiol-2,3-semiquinone
+522	m00412c	17beta-estradiol-3,4-quinone
+523	m00412m	17beta-estradiol-3,4-quinone
+524	m00412p	17beta-estradiol-3,4-quinone
+525	m00412r	17beta-estradiol-3,4-quinone
+526	m00413c	17beta-estradiol-3,4-semiquinone
+527	m00413l	17beta-estradiol-3,4-semiquinone
+528	m00414c	17-HETE
+529	m00420m	18,20-dioxo-20-CoA-LTB4
+530	m00421m	18-CoA-18-oxo-dinor-LTB4
+531	m00422p	18-COOH-(15E)-dinor-LTE4-CoA
+532	m00423p	18-COOH-(16E)-dinor-LTE5-CoA
+533	m00425p	18-COOH-LTE4
+534	m00426c	18-HETE
+535	m00427c	18-hydroxy-all-trans-retinoate
+536	m00427r	18-hydroxy-all-trans-retinoate
+537	m00430c	19(S)-HETE
+538	m00431c	19-hydroxyandrostenedione
+539	m00432c	19-hydroxytestosterone
+540	m00432r	19-hydroxytestosterone
+541	m00433c	19-oxoandrostenedione
+542	m00434c	19-oxo-testosterone
+543	m00435c	1a,11b-dihydro-4,9-dimethylbenz[a]anthra[3,4-b]oxirene
+544	m00436c	1-acylglycerol-3P-10,13,16,19-doco
+545	m00437c	1-acylglycerol-3P-10,13,16-docosa
+546	m00438c	1-acylglycerol-3P-10-heptade
+547	m00439c	1-acylglycerol-3P-11,14,17-eico
+548	m00440c	1-acylglycerol-3P-11,14-eicosa
+549	m00441c	1-acylglycerol-3P-11-docose
+550	m00442c	1-acylglycerol-3P-11-eico
+551	m00443c	1-acylglycerol-3P-12,15,18,21-tetra
+552	m00444c	1-acylglycerol-3P-13,16,19-doco
+553	m00445c	1-acylglycerol-3P-13,16-docosa
+554	m00446c	1-acylglycerol-3P-13-docose
+555	m00447c	1-acylglycerol-3P-13-eicose
+556	m00448c	1-acylglycerol-3P-13-octade
+557	m00449c	1-acylglycerol-3P-15-tetra
+558	m00450c	1-acylglycerol-3P-4,7,10,13,16,19-doco
+559	m00451c	1-acylglycerol-3P-4,7,10,13,16-docosa
+560	m00452c	1-acylglycerol-3P-5,8,11,14,17-eico
+561	m00453c	1-acylglycerol-3P-5,8,11-eico
+562	m00454c	1-acylglycerol-3P-5-tetrade
+563	m00455c	1-acylglycerol-3P-6,9,12,15,18,21-tetra
+564	m00456c	1-acylglycerol-3P-6,9,12,15,18-tetraco
+565	m00457c	1-acylglycerol-3P-6,9,12,15-octa
+566	m00458c	1-acylglycerol-3P-6,9-octa
+567	m00459c	1-acylglycerol-3P-7,10,13,16,19-docosa
+568	m00460c	1-acylglycerol-3P-7,10,13,16-docosa
+569	m00461c	1-acylglycerol-3P-7-hexade
+570	m00462c	1-acylglycerol-3P-7-octade
+571	m00463c	1-acylglycerol-3P-7-tetrade
+572	m00464c	1-acylglycerol-3P-8,11,14,17-eico
+573	m00465c	1-acylglycerol-3P-8,11-eico
+574	m00466c	1-acylglycerol-3P-9,12,15,18,21-tetra
+575	m00467c	1-acylglycerol-3P-9,12,15,18-tetraco
+576	m00468c	1-acylglycerol-3P-9-eicose
+577	m00469c	1-acylglycerol-3P-9-heptade
+578	m00470c	1-acylglycerol-3P-9-octade
+579	m00471c	1-acylglycerol-3P-9-tetrade
+580	m00472c	1-acylglycerol-3P-arach
+581	m00473c	1-acylglycerol-3P-bile-PC pool
+582	m00474c	1-acylglycerol-3P-cis-vac
+583	m00476c	1-acylglycerol-3P-dihomo-gamma
+584	m00477c	1-acylglycerol-3P-docosa
+585	m00478c	1-acylglycerol-3P-eico
+586	m00479c	1-acylglycerol-3P-gamma-lin
+587	m00480c	1-acylglycerol-3P-heneico
+588	m00481c	1-acylglycerol-3P-heptade
+589	m00482c	1-acylglycerol-3P-hexacosa
+590	m00483c	1-acylglycerol-3P-hexecose
+591	m00484c	1-acylglycerol-3P-laur
+592	m00491c	1-acylglycerol-3P-lin
+593	m00492c	1-acylglycerol-3P-linolen
+594	m00493c	1-acylglycerol-3P-myrist
+595	m00494c	1-acylglycerol-3P-nanode
+596	m00495c	1-acylglycerol-3P-ol
+597	m00496c	1-acylglycerol-3P-palm
+598	m00497c	1-acylglycerol-3P-palmn
+599	m00498c	1-acylglycerol-3P-pentade
+600	m00499c	1-acylglycerol-3P-stea
+601	m00500c	1-acylglycerol-3P-tetraco
+602	m00501c	1-acylglycerol-3P-trico
+603	m00502c	1-acylglycerol-3P-tridec
+604	m00503c	1-acylglycerol-chylomicron pool
+605	m00503s	1-acylglycerol-chylomicron pool
+606	m00504c	1-acylglycerol-LD-PC pool
+607	m00505c	1-acylglycerol-LD-PE pool
+608	m00506c	1-acylglycerol-LD-PI pool
+609	m00507c	1-acylglycerol-LD-PS pool
+610	m00508c	1-acylglycerol-LD-SM pool
+611	m00509c	1-acylglycerol-LD-TG1 pool
+612	m00510c	1-acylglycerol-VLDL pool
+613	m00510s	1-acylglycerol-VLDL pool
+614	m00511c	1-acyl-PE pool
+615	m00513c	1-alkyl-2-acetyl-sn-glycerol
+616	m00514c	1-alkyl-2-acylglycerol
+617	m00516c	1-alkyl-2-lysoglycerol-3-phosphocholine
+618	m00516s	1-alkyl-2-lysoglycerol-3-phosphocholine
+619	m00521c	1D-myo-inositol-1,3,4,5,6-pentakisphosphate
+620	m00521n	1D-myo-inositol-1,3,4,5,6-pentakisphosphate
+621	m00522c	1D-myo-inositol-1,3,4,5-tetrakisphosphate
+622	m00522n	1D-myo-inositol-1,3,4,5-tetrakisphosphate
+623	m00523c	1D-myo-inositol-1,3,4,6-tetrakisphosphate
+624	m00524c	1D-myo-inositol-1,3,4-trisphosphate
+625	m00525c	1D-myo-inositol-1,4,5,6-tetrakisphosphate
+626	m00525n	1D-myo-inositol-1,4,5,6-tetrakisphosphate
+627	m00526c	1D-myo-inositol-1,4-bisphosphate
+628	m00528c	1D-myo-inositol-3,4-bisphosphate
+629	m00529c	1D-myo-inositol-3-phosphate
+630	m00530c	1D-myo-inositol-4-phosphate
+631	m00531c	1D-myo-inositol-bisdiphosphate-tetrakisphosphate
+632	m00531n	1D-myo-inositol-bisdiphosphate-tetrakisphosphate
+633	m00536c	1-methylnicotinamide
+634	m00540c	1-nitro-5,6-dihydroxy-dihydronaphthalene
+635	m00541c	1-nitro-5-glutathionyl-6-hydroxy-5,6-dihydronaphthalene
+636	m00542c	1-nitro-5-hydroxy-6-glutathionyl-5,6-dihydronaphthalene
+637	m00543c	1-nitro-7-glutathionyl-8-hydroxy-7,8-dihydronaphthalene
+638	m00544c	1-nitro-7-hydroxy-8-glutathionyl-7,8-dihydronaphthalene
+639	m00545c	1-nitronaphthalene
+640	m00545s	1-nitronaphthalene
+641	m00546c	1-nitronaphthalene-5,6-oxide
+642	m00547c	1-nitronaphthalene-7,8-oxide
+643	m00549c	1-organyl-2-lyso-sn-glycero-3-phosphocholine
+644	m00551c	1-phosphatidyl-1D-myo-inositol-3,4-bisphosphate
+645	m00551n	1-phosphatidyl-1D-myo-inositol-3,4-bisphosphate
+646	m00552c	1-phosphatidyl-1D-myo-inositol-3-phosphate
+647	m00552n	1-phosphatidyl-1D-myo-inositol-3-phosphate
+648	m00553c	1-phosphatidyl-1D-myo-inositol-4-phosphate
+649	m00553n	1-phosphatidyl-1D-myo-inositol-4-phosphate
+650	m00554c	1-phosphatidyl-1D-myo-inositol-5-phosphate
+651	m00554g	1-phosphatidyl-1D-myo-inositol-5-phosphate
+652	m00554n	1-phosphatidyl-1D-myo-inositol-5-phosphate
+653	m00554r	1-phosphatidyl-1D-myo-inositol-5-phosphate
+654	m00555c	1-phosphatidyl-myo-inositol-3,5-bisphosphate
+655	m00556c	1-piperideine-6-carboxylate
+656	m00557c	1-pyrroline
+657	m00559c	1-pyrroline-5-carboxylate
+658	m00559m	1-pyrroline-5-carboxylate
+659	m00560c	1-radyl-2-acyl-sn-glycero-3-phosphocholine
+660	m00562m	2(R),6-dimethyl-heptanoyl-CoA
+661	m00563m	2(S),6-dimethyl-heptanoyl-CoA
+662	m00564p	2(S)-pristanal
+663	m00568c	2,2-dichloroacetaldehyde
+664	m00569c	2,3-bisphospho-D-glycerate
+665	m00571c	2,3-dihydro-2-S-glutathionyl-3-hydroxy bromobenzene
+666	m00572c	2,3-diketo-5-methylthiopentyl-1-phosphate
+667	m00578m	2,6-dimethyl-trans-2-heptenoyl-CoA
+668	m00581m	20-CoA-20-oxo-18r-hydroxy-LTB4
+669	m00582c	20-CoA-20-oxo-LTB4
+670	m00582m	20-CoA-20-oxo-LTB4
+671	m00582p	20-CoA-20-oxo-LTB4
+672	m00582r	20-CoA-20-oxo-LTB4
+673	m00583c	20-COOH-10,11-dihydro-LTB4
+674	m00583m	20-COOH-10,11-dihydro-LTB4
+675	m00583p	20-COOH-10,11-dihydro-LTB4
+676	m00585c	20-COOH-LTB4
+677	m00585m	20-COOH-LTB4
+678	m00585p	20-COOH-LTB4
+679	m00585r	20-COOH-LTB4
+680	m00586p	20-COOH-LTE4
+681	m00587p	20-COOH-LTE4-CoA
+682	m00596p	20-hydroxy-LTE4
+683	m00597c	20-OH-10,11-dihydro-LTB4
+684	m00599c	20-OH-LTB4
+685	m00599m	20-OH-LTB4
+686	m00599r	20-OH-LTB4
+687	m00600c	20-oxo-LTB4
+688	m00600m	20-oxo-LTB4
+689	m00600r	20-oxo-LTB4
+690	m00601p	20-oxo-LTE4
+691	m00606m	22beta-hydroxycholesterol
+692	m00607c	23S,25,26-trihydroxyvitamin D3
+693	m00607m	23S,25,26-trihydroxyvitamin D3
+694	m00608c	23s,25-dihydroxyvitamin D3
+695	m00608m	23s,25-dihydroxyvitamin D3
+696	m00609c	24,25-dihydrolanosterol
+697	m00611c	24-oxo-1alpha,23,25-trihydroxyvitamin D3
+698	m00611m	24-oxo-1alpha,23,25-trihydroxyvitamin D3
+699	m00612c	24-oxo-1alpha,25-dihydroxyvitamin D3
+700	m00612m	24-oxo-1alpha,25-dihydroxyvitamin D3
+701	m00614p	25(R)DHCA-CoA
+702	m00616c	25(R)THCA-CoA
+703	m00616m	25(R)THCA-CoA
+704	m00616p	25(R)THCA-CoA
+705	m00617p	25(S)DHCA-CoA
+706	m00618m	25(S)THCA-CoA
+707	m00618p	25(S)THCA-CoA
+708	m00619r	25-hydroxycholesterol
+709	m00621c	25-hydroxyvitamin D3-26,23-lactol
+710	m00621m	25-hydroxyvitamin D3-26,23-lactol
+711	m00622c	25-hydroxyvitamin D3-26,23-lactone
+712	m00622m	25-hydroxyvitamin D3-26,23-lactone
+713	m00623c	26-hydroxycholesterol
+714	m00623m	26-hydroxycholesterol
+715	m00624c	27alpha-hydroxy-7-dehydrocholesterol
+716	m00625m	27-hydroxycholesterol
+717	m00626c	2-acetyl-1-alkyl-sn-glycero-3-phosphocholine
+718	m00626s	2-acetyl-1-alkyl-sn-glycero-3-phosphocholine
+719	m00628c	2-acyl-1-alkyl-sn-glycero-3-phosphate
+720	m00630m	2-amino-3-oxoadipate
+721	m00631c	2-aminoadipate 6-semialdehyde
+722	m00631m	2-aminoadipate 6-semialdehyde
+723	m00636c	2-bromoacetaldehyde
+724	m00639c	2-deoxy-D-ribose-1-phosphate
+725	m00640c	2-deoxy-D-ribose-5-phosphate
+726	m00641c	2-hydroxy-17beta-estradiol-1-S-glutathione
+727	m00641m	2-hydroxy-17beta-estradiol-1-S-glutathione
+728	m00641p	2-hydroxy-17beta-estradiol-1-S-glutathione
+729	m00641r	2-hydroxy-17beta-estradiol-1-S-glutathione
+730	m00642c	2-hydroxy-17beta-estradiol-4-S-glutathione
+731	m00642m	2-hydroxy-17beta-estradiol-4-S-glutathione
+732	m00642p	2-hydroxy-17beta-estradiol-4-S-glutathione
+733	m00642r	2-hydroxy-17beta-estradiol-4-S-glutathione
+734	m00644c	2-hydroxy-3-methoxy-17beta-estradiol
+735	m00645c	2-hydroxy-3-methoxyestrone
+736	m00648c	2-hydroxybutyrate
+737	m00648s	2-hydroxybutyrate
+738	m00649c	2-hydroxyestradiol-17beta
+739	m00649l	2-hydroxyestradiol-17beta
+740	m00649r	2-hydroxyestradiol-17beta
+741	m00650c	2-hydroxyestrone
+742	m00650r	2-hydroxyestrone
+743	m00651c	2-hydroxyestrone-1-S-glutathione
+744	m00651m	2-hydroxyestrone-1-S-glutathione
+745	m00651p	2-hydroxyestrone-1-S-glutathione
+746	m00651r	2-hydroxyestrone-1-S-glutathione
+747	m00652c	2-hydroxyestrone-4-S-glutathione
+748	m00652m	2-hydroxyestrone-4-S-glutathione
+749	m00652p	2-hydroxyestrone-4-S-glutathione
+750	m00652r	2-hydroxyestrone-4-S-glutathione
+751	m00654c	2-hydroxyphenylacetate
+752	m00655p	2-hydroxyphytanoyl-CoA
+753	m00656c	2-lysolecithin pool
+754	m00656l	2-lysolecithin pool
+755	m00657m	2-methoxy-6-(all-trans-decaprenyl)phenol
+756	m00658m	2-methoxy-6-all trans-decaprenyl-2-methoxy-1,4-benzoquinol
+757	m00659c	2-methoxyestradiol-17beta
+758	m00660c	2-methoxyestrone
+759	m00660r	2-methoxyestrone
+760	m00661c	2-methyl-3-oxopropanoate
+761	m00661m	2-methyl-3-oxopropanoate
+762	m00662m	2-methylacetoacetyl-CoA
+763	m00663m	2-methylbutyryl-CoA
+764	m00669c	2-oxo-3-methylvalerate
+765	m00669m	2-oxo-3-methylvalerate
+766	m00670c	2-oxoadipate
+767	m00670m	2-oxoadipate
+768	m00671c	2-oxobutyrate
+769	m00671m	2-oxobutyrate
+770	m00672c	2-oxoglutaramate
+771	m00672m	2-oxoglutaramate
+772	m00673c	2-phenylacetamide
+773	m00674c	2-phospho-D-glycerate
+774	m00678m	2-trans-4-cis-decadienoyl-CoA
+775	m00678p	2-trans-4-cis-decadienoyl-CoA
+776	m00679c	2-trans-7,10,13,16,19-all-cis-docosahexaenoyl-CoA
+777	m00680c	2-trans-9,12,15,18,21-all-cis-tetracosahexaenoyl-CoA
+778	m00681c	2-trans-9,12,15,18-all-cis-tetracosapentaenoyl-CoA
+779	m00687m	3(S),10(R)-OH-octadeca-6-trans-4,12-cis-trienoate
+780	m00688m	3(S),10(R)-OH-octadeca-6-trans-4,12-cis-trienoyl-CoA
+781	m00689m	3(S),12(R)-dihydroxy-5-oxo-eicosa-(8E,10E,14Z)-trienoyl-CoA
+782	m00690m	3(S),12(S)-dihydroxy-5-oxo-eicosa-(8E,10E,14Z)-trienoyl-CoA
+783	m00691m	3(S),5(S),12(R)-trihydroxy-eicosa-8-trans-6,14-cis-trienoyl-CoA
+784	m00692m	3(S),6(R)-dihydroxy-tetradec-(8Z)-enoate
+785	m00693m	3(S),6(S)-dihydroxy-tetradec-(8Z)-enoate
+786	m00694m	3(S),8(R)-dihydroxy-(6E,10Z)-hexadecadienoate
+787	m00695m	3(S),8(S)-dihydroxy-(6E,10Z)-hexadecadienoate
+788	m00696m	3(S)-hydroxy-(5Z,8Z)-tetradecadienoyl-CoA
+789	m00697m	3(S)-hydroxy-(6Z,9Z,12Z)-octadecatrienoyl-CoA
+790	m00698c	3(S)-hydroxy-10,13,16-all-cis-docosatrienoyl-CoA
+791	m00699c	3(S)-hydroxy-11-cis-docosenoyl-CoA
+792	m00700c	3(S)-hydroxy-11-cis-eicosenoyl-CoA
+793	m00700m	3(S)-hydroxy-11-cis-eicosenoyl-CoA
+794	m00701c	3(S)-hydroxy-13-cis-docosenoyl-CoA
+795	m00701m	3(S)-hydroxy-13-cis-docosenoyl-CoA
+796	m00702c	3(S)-hydroxy-13-cis-eicosenoyl-CoA
+797	m00702m	3(S)-hydroxy-13-cis-eicosenoyl-CoA
+798	m00703m	3(S)-hydroxy-2(S),6-dimethyl-heptanoyl-CoA
+799	m00704c	3(S)-hydroxy-3-oxo-eicosadienoyl-CoA
+800	m00705m	3(S)-hydroxy-4(R),8-dimethyl-nonanoyl-CoA
+801	m00706m	3(S)-hydroxy-4-methyl-pentanoyl-CoA
+802	m00707c	3(S)-hydroxy-9-cis-eicosenoyl-CoA
+803	m00708c	3(S)-hydroxy-all-cis-8,11,14,17-eicosatetraenoyl-CoA
+804	m00709c	3(S)-hydroxy-cis-15-tetracosaenoyl-CoA
+805	m00711c	3(S)-hydroxy-docosa-10,13,16,19-all-cis-tetraenoyl-CoA
+806	m00712c	3(S)-hydroxy-docosa-13,16,19-all-cis-trienoyl-CoA
+807	m00713c	3(S)-hydroxy-docosa-7,10,13,16,19-all-cis-pentaenoyl-CoA
+808	m00714c	3(S)-hydroxy-docosa-7,10,13,16-all-cis-tetraenoyl-CoA
+809	m00715c	3(S)-hydroxy-hexacosenoyl-CoA
+810	m00715p	3(S)-hydroxy-hexacosenoyl-CoA
+811	m00716c	3(S)-hydroxy-tetracosa-12,15,18,21-all-cis-tetraenoyl-CoA
+812	m00718c	3(S)-hydroxy-tetracosa-9,12,15,18,21-all-cis-pentaenoyl-CoA
+813	m00720c	3,3-diiodo-L-thyronine
+814	m00721c	3,3-diiodo-L-thyronine-4-O-sulfate
+815	m00725m	3,4-dihydroxy-5-all-trans-decaprenylbenzoate
+816	m00726c	3,4-dihydroxymandelaldehyde
+817	m00727c	3,4-dihydroxymandelate
+818	m00728c	3,4-dihydroxyphenylacetaldehyde
+819	m00729c	3,4-dihydroxyphenylacetate
+820	m00730c	3,4-dihydroxyphenylethyleneglycol
+821	m00734c	3,5,3-triiodothyronine-4-sulfate
+822	m00740m	3,5-dioxo-12(R)-hydroxy-eicosa-(8E,10E,14Z)-trienoyl-CoA
+823	m00741m	3,5-dioxo-12(S)-hydroxy-eicosa-(8E,10E,14Z)-trienoyl-CoA
+824	m00742m	3,7,24THCA
+825	m00747r	3alpha,7alpha,12alpha,25-tetrahydroxy-5beta-cholestane-24-one
+826	m00748p	3alpha,7alpha,12alpha-trihydroxy-5beta-24-oxocholestanoyl-CoA
+827	m00749m	3alpha,7alpha,12alpha-trihydroxy-5beta-cholest-24-enoyl-CoA
+828	m00749p	3alpha,7alpha,12alpha-trihydroxy-5beta-cholest-24-enoyl-CoA
+829	m00750c	3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-26-al
+830	m00750m	3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-26-al
+831	m00751m	3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-27-al
+832	m00752c	3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanate
+833	m00752m	3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanate
+834	m00752p	3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanate
+835	m00753m	3alpha,7alpha,24(S)-trihydroxy-5beta-cholestan-27-al
+836	m00754p	3alpha,7alpha-dihydroxy-24-oxo-5beta-cholestanoyl coa
+837	m00755p	3alpha,7alpha-dihydroxy-5beta-cholest-24-enoyl-CoA
+838	m00756c	3alpha,7alpha-dihydroxy-5beta-cholestan-26-al
+839	m00756m	3alpha,7alpha-dihydroxy-5beta-cholestan-26-al
+840	m00757m	3alpha,7alpha-dihydroxy-5beta-cholestan-27-al
+841	m00758c	3alpha,7alpha-dihydroxy-5beta-cholestanate
+842	m00758m	3alpha,7alpha-dihydroxy-5beta-cholestanate
+843	m00758p	3alpha,7alpha-dihydroxy-5beta-cholestanate
+844	m00760c	3-amino-propanal
+845	m00762g	3-beta-D-glucuronosyl-3-beta-D-galactosyl-4-beta-D-galactosyl-O-beta-D-xylosylprotein
+846	m00765m	3-carboxy-1-hydroxypropyl-ThPP
+847	m00766c	3-carboxy-alpha-chromanol
+848	m00766m	3-carboxy-alpha-chromanol
+849	m00767m	3-decaprenyl-4-hydroxybenzoate
+850	m00768c	3-dehydro-L-gulonate
+851	m00769c	3-dehydrosphinganine
+852	m00770m	3-demethylubiquinol-10
+853	m00772c	3-deoxy-D-glycero-D-galacto-2-nonulosonic acid-9-phosphate
+854	m00776c	3-hydroxydocosanoyl-CoA
+855	m00776m	3-hydroxydocosanoyl-CoA
+856	m00777c	3-hydroxyeicosanoyl-CoA
+857	m00777m	3-hydroxyeicosanoyl-CoA
+858	m00778c	3-hydroxyheneicosanoyl-CoA
+859	m00778m	3-hydroxyheneicosanoyl-CoA
+860	m00779c	3-hydroxyheptadecanoyl-[ACP]
+861	m00780m	3-hydroxyheptadecanoyl-CoA
+862	m00781c	3-hydroxyheptanoyl-[ACP]
+863	m00782m	3-hydroxyheptanoyl-CoA
+864	m00783c	3-hydroxyhexacosanoyl-CoA
+865	m00784m	3-hydroxyisobutyrate
+866	m00785m	3-hydroxyisobutyryl-CoA
+867	m00788c	3-hydroxy-L-kynurenine
+868	m00789c	3-hydroxy-N6,N6,N6-trimethyl-L-lysine
+869	m00790c	3-hydroxynonadecanoyl-CoA
+870	m00790m	3-hydroxynonadecanoyl-CoA
+871	m00791c	3-hydroxynonanoyl-[ACP]
+872	m00792m	3-hydroxynonanoyl-CoA
+873	m00793c	3-hydroxyoctadecanoyl-CoA
+874	m00793m	3-hydroxyoctadecanoyl-CoA
+875	m00794c	3-hydroxypentadecanoyl-[ACP]
+876	m00795m	3-hydroxypentadecanoyl-CoA
+877	m00796c	3-hydroxypentanoyl-[ACP]
+878	m00797m	3-hydroxypentanoyl-CoA
+879	m00799m	3-hydroxypropionyl-CoA
+880	m00800c	3-hydroxytetracosanoyl-CoA
+881	m00802c	3-hydroxytricosanoyl-CoA
+882	m00803c	3-hydroxytridecanoyl-[ACP]
+883	m00804m	3-hydroxytridecanoyl-CoA
+884	m00805c	3-hydroxyundecanoyl-[ACP]
+885	m00806m	3-hydroxyundecanoyl-CoA
+886	m00809c	3-keto-4-methylzymosterol
+887	m00811c	3-keto-eicosa-8,11,14,17-all-cis-tetraenoyl-CoA
+888	m00815c	3-mercaptolactate
+889	m00817m	3-methoxy-4-hydroxy-5-all-trans-decaprenylbenzoate
+890	m00818c	3-methoxy-4-hydroxyphenylacetaldehyde
+891	m00820c	3-methoxy-4-hydroxyphenylglycolaldehyde
+892	m00821c	3-methoxytyramine
+893	m00824c	3-methyl-2-oxobutyrate
+894	m00824m	3-methyl-2-oxobutyrate
+895	m00826m	3-methylcrotonyl-CoA
+896	m00827m	3-methylglutaconyl-CoA
+897	m00830c	3-O-methyldopa
+898	m00831m	3-oxo-(2S)-methylisocapryloyl-CoA
+899	m00834m	3-oxo-(6Z,9Z,12Z)-octadecatrienoyl-CoA
+900	m00835m	3-oxo-10(R)-hydroxy-octadeca-(6E,8E,12Z)-trienoate
+901	m00836m	3-oxo-10(R)-hydroxy-octadeca-(6E,8E,12Z)-trienoyl-CoA
+902	m00837m	3-oxo-10(S)-hydroxy-octadeca-(6E,8E,12Z)-trienoate
+903	m00838m	3-oxo-10(S)-hydroxy-octadeca-(6E,8E,12Z)-trienoyl-CoA
+904	m00839c	3-oxo-11cis-docosenoyl-CoA
+905	m00840c	3-oxo-11-cis-eicosenoyl-CoA
+906	m00840m	3-oxo-11-cis-eicosenoyl-CoA
+907	m00841m	3-oxo-11-cis-octadecenoyl-CoA
+908	m00842c	3-oxo-13cis-docosenoyl-CoA
+909	m00842m	3-oxo-13cis-docosenoyl-CoA
+910	m00843c	3-oxo-13-cis-eicosenoyl-CoA
+911	m00843m	3-oxo-13-cis-eicosenoyl-CoA
+912	m00844m	3-oxo-4(R),8-dimethyl-nonanoyl-CoA
+913	m00845m	3-oxo-4-methyl-pentanoyl-CoA
+914	m00846m	3-oxo-5(S),12(R)-dihydroxy-eicosa-8-trans-6,14-cis-trienoyl-CoA
+915	m00847m	3-oxo-6(R)-hydroxy-tetradec-8-cis-enoate
+916	m00848m	3-oxo-6(S)-hydroxy-tetradec-(8Z)-enoate
+917	m00849m	3-oxo-7-hexadecenoyl-CoA
+918	m00850m	3-oxo-8(R)-hydroxy-hexadeca-(6E,10Z)-dienoate
+919	m00851m	3-oxo-8(S)-hydroxy-hexadeca-(6E,10Z)-dienoate
+920	m00852c	3-oxo-9-cis-eicosenoyl-CoA
+921	m00853p	3-oxo-all-cis-6,9,12,15,18-tetracosapentaenoyl-CoA
+922	m00854m	3-oxo-cis,cis-5,8-tetradecadienoyl-CoA
+923	m00855m	3-oxo-cis,cis-7,10-hexadecadienoyl-CoA
+924	m00856c	3-oxo-cis-15-tetracosaenoyl-CoA
+925	m00857c	3-oxodecanoyl-[ACP]
+926	m00858m	3-oxodecanoyl-CoA
+927	m00859c	3-oxo-dihomo-gamma-linolenoyl-CoA
+928	m00860c	3-oxodocasa-cis,cis-13,16-dienoyl-CoA
+929	m00861c	3-oxo-docosa-10,13,16,19-all-cis-tetraenoyl-CoA
+930	m00862c	3-oxo-docosa-13,16,19-all-cis-trienoyl-CoA
+931	m00863c	3-oxo-docosa-7,10,13,16,19-all-cis-pentaenoyl-CoA
+932	m00864c	3-oxo-docosa-7,10,13,16-all-cis-tetraenoyl-CoA
+933	m00865c	3-oxo-docosa-cis,cis,cis-10,13,16-trienoyl-CoA
+934	m00866c	3-oxodocosanoyl-CoA
+935	m00866m	3-oxodocosanoyl-CoA
+936	m00867c	3-oxododecanoyl-[ACP]
+937	m00868m	3-oxododecanoyl-CoA
+938	m00869c	3-oxoeicosa-cis,cis,cis-11,14,17-trienoyl-CoA
+939	m00870c	3-oxoeicosa-cis,cis-11,14-dienoyl-CoA
+940	m00871c	3-oxo-eicosadienoyl-CoA
+941	m00872c	3-oxoeicosanoyl-CoA
+942	m00872m	3-oxoeicosanoyl-CoA
+943	m00873c	3-oxoheneicosanoyl-CoA
+944	m00873m	3-oxoheneicosanoyl-CoA
+945	m00874c	3-oxoheptadecanoyl-[ACP]
+946	m00875m	3-oxoheptadecanoyl-CoA
+947	m00876c	3-oxoheptanoyl-[ACP]
+948	m00877m	3-oxoheptanoyl-CoA
+949	m00878c	3-oxohexacosanoyl-CoA
+950	m00879c	3-oxo-hexacosenoyl-CoA
+951	m00879p	3-oxo-hexacosenoyl-CoA
+952	m00880c	3-oxohexadecanoyl-[ACP]
+953	m00881c	3-oxohexanoyl-[ACP]
+954	m00882m	3-oxohexanoyl-CoA
+955	m00883m	3-oxolaur-6-cis-enoyl-CoA
+956	m00884m	3-oxolinoleoyl-CoA
+957	m00885m	3-oxomyrist-5-enoyl-CoA
+958	m00886m	3-oxomyrist-7-enoyl-CoA
+959	m00887c	3-oxononadecanoyl-CoA
+960	m00887m	3-oxononadecanoyl-CoA
+961	m00888c	3-oxononanoyl-[ACP]
+962	m00889m	3-oxononanoyl-CoA
+963	m00890c	3-oxooctadecanoyl-CoA
+964	m00890m	3-oxooctadecanoyl-CoA
+965	m00891c	3-oxooctanoyl-[ACP]
+966	m00892m	3-oxooctanoyl-CoA
+967	m00893m	3-oxooleoyl-CoA
+968	m00894m	3-oxopalmitoleoyl-CoA
+969	m00895m	3-oxopalmitoyl-CoA
+970	m00896c	3-oxopentadecanoyl-[ACP]
+971	m00897m	3-oxopentadecanoyl-CoA
+972	m00898c	3-oxopentanoyl-[ACP]
+973	m00899m	3-oxopentanoyl-CoA
+974	m00900m	3-oxopropanoate
+975	m00901c	3-oxo-tetracosa-12,15,18,21-all-cis-tetraenoyl-CoA
+976	m00902c	3-oxo-tetracosa-9,12,15,18,21-all-cis-pentaenoyl-CoA
+977	m00903c	3-oxo-tetracosa-9,12,15,18-all-cis-tetraenoyl-CoA
+978	m00904c	3-oxotetracosanoyl-CoA
+979	m00905c	3-oxotetradecanoyl-[ACP]
+980	m00906m	3-oxotetradecanoyl-CoA
+981	m00907c	3-oxotricosanoyl-CoA
+982	m00908c	3-oxotridecanoyl-[ACP]
+983	m00909m	3-oxotridecanoyl-CoA
+984	m00910c	3-oxoundecanoyl-[ACP]
+985	m00911m	3-oxoundecanoyl-CoA
+986	m00912c	3-phosphoadenylylselenate
+987	m00913c	3-phospho-D-glycerate
+988	m00913m	3-phospho-D-glycerate
+989	m00914c	3-phosphonooxypyruvate
+990	m00916c	3-phosphoserine
+991	m00918c	3-sulfinoalanine
+992	m00918m	3-sulfinoalanine
+993	m00919c	3-sulfinylpyruvic acid
+994	m00919m	3-sulfinylpyruvic acid
+995	m00920c	3-sulfopyruvate
+996	m00920m	3-sulfopyruvate
+997	m00923c	3-ureidopropionate
+998	m00924c	4-(2-amino-3-hydroxyphenyl)-2,4-dioxobutanoate
+999	m00926c	4-(2-aminophenyl)-2,4-dioxobutanoate
+1000	m00929c	4-(methylnitrosamino)-1-(3-pyridyl)-1-butanol
+1001	m00932c	4-(n-nitrosomethylamino)-1-(3-pyridyl)-1-butanone
+1002	m00932s	4-(n-nitrosomethylamino)-1-(3-pyridyl)-1-butanone
+1003	m00933m	4(R),8-dimethyl-nonanoyl-CoA
+1004	m00934m	4(R),8-dimethyl-trans-2-nonenoyl-CoA
+1005	m00935m	4(R)-hydroxy-dodec-(6Z)-enoate
+1006	m00936m	4(S)-hydroxy-dodec-(6Z)-enoate
+1007	m00937c	4,4-dimethyl-14alpha-formyl-5alpha-cholesta-8,24-dien-3beta-ol
+1008	m00938c	4,4-dimethyl-14alpha-formyl-5alpha-cholesta-8-en-3beta-ol
+1009	m00939c	4,4-dimethyl-14alpha-hydroxymethyl-5alpha-cholesta-8,24-dien-3beta-ol
+1010	m00940c	4,4-dimethyl-14alpha-hydroxymethyl-5alpha-cholesta-8-en-3beta-ol
+1011	m00941c	4,4-dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol
+1012	m00942c	4,4-dimethyl-5alpha-cholesta-8,14-dien-3-beta-ol
+1013	m00943c	4,4-dimethyl-5alpha-cholesta-8-en-3-beta-ol
+1014	m00944c	4,5-dihydro-4-hydroxy-5-S-glutathionyl-benzo[a]pyrene
+1015	m00948p	4,8,12-trimethyltridecanoyl-CoA
+1016	m00950c	4,8-dimethylnonanoylcarnitine
+1017	m00950m	4,8-dimethylnonanoylcarnitine
+1018	m00951c	4-[(hydroxymethyl)nitrosoamino]-1-(3-pyridinyl)-1-butanone
+1019	m00952c	4-acetamidobutanoate
+1020	m00953c	4alpha-carboxy-4beta-methyl-5alpha-cholesta-8,24-dien-3beta-ol
+1021	m00954c	4alpha-carboxy-4beta-methyl-5alpha-cholesta-8-en-3beta-ol
+1022	m00955c	4alpha-carboxy-5alpha-cholesta-8,24-dien-3beta-ol
+1023	m00956c	4alpha-carboxy-5alpha-cholesta-8-en-3beta-ol
+1024	m00957c	4alpha-formyl-4beta-methyl-5alpha-cholesta-8,24-dien-3beta-ol
+1025	m00958c	4alpha-formyl-4beta-methyl-5alpha-cholesta-8-en-3beta-ol
+1026	m00959c	4alpha-formyl-5alpha-cholesta-8,24-dien-3beta-ol
+1027	m00960c	4alpha-formyl-5alpha-cholesta-8-en-3beta-ol
+1028	m00961c	4alpha-hydroxymethyl-4beta-methyl-5alpha-cholesta-8,24-dien-3beta-ol
+1029	m00962c	4alpha-hydroxymethyl-4beta-methyl-5alpha-cholesta-8-en-3beta-ol
+1030	m00963c	4alpha-hydroxymethyl-5alpha-cholesta-8,24-dien-3beta-ol
+1031	m00964c	4alpha-hydroxymethyl-5alpha-cholesta-8-en-3beta-ol
+1032	m00965c	4alpha-hydroxytetrahydrobiopterin
+1033	m00965n	4alpha-hydroxytetrahydrobiopterin
+1034	m00966c	4alpha-methyl-5alpha-cholesta-8-en-3-one
+1035	m00967c	4alpha-methyl-cholesta-8-enol
+1036	m00968c	4alpha-methylzymosterol
+1037	m00969c	4-aminobutanal
+1038	m00970c	4-aminobutyrate
+1039	m00970m	4-aminobutyrate
+1040	m00971c	4-androstene-3,17-dione
+1041	m00971r	4-androstene-3,17-dione
+1042	m00978c	4-cholesten-7alpha,24(S)-diol-3-one
+1043	m00979c	4-cholesten-7alpha,27-diol-3-one
+1044	m00980m	4-cis-decenoyl-CoA
+1045	m00980p	4-cis-decenoyl-CoA
+1046	m00986c	4-hydroxy-17beta-estradiol
+1047	m00986l	4-hydroxy-17beta-estradiol
+1048	m00987c	4-hydroxy-17beta-estradiol-2-S-glutathione
+1049	m00987m	4-hydroxy-17beta-estradiol-2-S-glutathione
+1050	m00987p	4-hydroxy-17beta-estradiol-2-S-glutathione
+1051	m00987r	4-hydroxy-17beta-estradiol-2-S-glutathione
+1052	m00989m	4-hydroxy-2-oxoglutarate
+1053	m00990c	4-hydroxy-2-quinolinecarboxylic acid
+1054	m00993c	4-hydroxy-all-trans-retinoate
+1055	m00993r	4-hydroxy-all-trans-retinoate
+1056	m00995m	4-hydroxybenzoate
+1057	m01000c	4-hydroxyestrone
+1058	m01000r	4-hydroxyestrone
+1059	m01001c	4-hydroxyestrone-2-S-glutathione
+1060	m01001m	4-hydroxyestrone-2-S-glutathione
+1061	m01001p	4-hydroxyestrone-2-S-glutathione
+1062	m01001r	4-hydroxyestrone-2-S-glutathione
+1063	m01002c	4-hydroxyphenylacetaldehyde
+1064	m01005c	4-hydroxyphenylpyruvate
+1065	m01005m	4-hydroxyphenylpyruvate
+1066	m01008c	4-hydroxyvitamin A1
+1067	m01008r	4-hydroxyvitamin A1
+1068	m01011c	4-methoxy-17beta-estradiol
+1069	m01012c	4-methoxyestrone
+1070	m01013c	4-methyl-2-oxopentanoate
+1071	m01013m	4-methyl-2-oxopentanoate
+1072	m01015m	4-methyl-pentanoyl-CoA
+1073	m01016c	4-methylthio-2-oxobutanoic acid
+1074	m01017m	4-methyl-trans-2-pentenoyl-CoA
+1075	m01020s	4-nitrophenyl-phosphate
+1076	m01021c	4-nitrophenyl-sulfate
+1077	m01022c	4-OH-13-cis-retinal
+1078	m01022r	4-OH-13-cis-retinal
+1079	m01023c	4-OH-9-cis-retinal
+1080	m01023r	4-OH-9-cis-retinal
+1081	m01024c	4-OH-retinal
+1082	m01024r	4-OH-retinal
+1083	m01026r	4-oxo-13-cis-retinoate
+1084	m01028c	4-oxo-9-cis-retinal
+1085	m01028r	4-oxo-9-cis-retinal
+1086	m01029c	4-oxo-9-cis-retinoate
+1087	m01029r	4-oxo-9-cis-retinoate
+1088	m01030c	4-oxo-9-cis-retinoyl-beta-glucuronide
+1089	m01030r	4-oxo-9-cis-retinoyl-beta-glucuronide
+1090	m01031c	4-oxo-all-trans-retinoate
+1091	m01031r	4-oxo-all-trans-retinoate
+1092	m01032c	4-oxoretinol
+1093	m01034c	4-trimethylammoniobutanal
+1094	m01037m	5(S),12(R)-dihydroxy-eicosa-2,8-trans-6,14-cis-tetraenoyl-CoA
+1095	m01037p	5(S),12(R)-dihydroxy-eicosa-2,8-trans-6,14-cis-tetraenoyl-CoA
+1096	m01038c	5(S),6(S)-epoxy-15(R)-HEPE
+1097	m01038p	5(S),6(S)-epoxy-15(R)-HEPE
+1098	m01038r	5(S),6(S)-epoxy-15(R)-HEPE
+1099	m01039c	5(S)-HEPE
+1100	m01039p	5(S)-HEPE
+1101	m01040c	5(S)-HETE
+1102	m01040m	5(S)-HETE
+1103	m01042c	5(S)-HPETE
+1104	m01042m	5(S)-HPETE
+1105	m01044c	5,10-methenyl-THF
+1106	m01044m	5,10-methenyl-THF
+1107	m01045c	5,10-methylene-THF
+1108	m01045m	5,10-methylene-THF
+1109	m01048c	5,12-DiHETE
+1110	m01051c	5,6-DHET
+1111	m01052c	5,6-Dihydrouracil
+1112	m01054c	5,6-EET
+1113	m01054r	5,6-EET
+1114	m01055c	5,6-epoxy-(8Z)-tetradecenoic acid
+1115	m01058c	5,6-epoxytetraene
+1116	m01058n	5,6-epoxytetraene
+1117	m01058p	5,6-epoxytetraene
+1118	m01058r	5,6-epoxytetraene
+1119	m01060c	5,8-epoxy-13-cis-retinoate
+1120	m01064c	5alpha-androstane-3,17-dione
+1121	m01064r	5alpha-androstane-3,17-dione
+1122	m01066c	5alpha-cholesta-7,24-dien-3beta-ol
+1123	m01067c	5alpha-cholesta-8,24-dien-3-one
+1124	m01068c	5alpha-cholesta-8-en-3-one
+1125	m01069c	5-alpha-dihydrotestosterone
+1126	m01069r	5-alpha-dihydrotestosterone
+1127	m01072c	5alpha-pregnane-3,20-dione
+1128	m01074c	5-aminolevulinate
+1129	m01074m	5-aminolevulinate
+1130	m01078c	5beta-cholestan-3alpha,7alpha,12alpha-triol
+1131	m01078m	5beta-cholestan-3alpha,7alpha,12alpha-triol
+1132	m01079m	5beta-cholestan-3alpha,7alpha,24(S),27-tetrol
+1133	m01080c	5beta-cholestan-3alpha,7alpha,24(S)-triol
+1134	m01080m	5beta-cholestan-3alpha,7alpha,24(S)-triol
+1135	m01083c	5beta-cholestan-7alpha,24(S)-diol-3-one
+1136	m01087r	5beta-cholestane-3alpha,7alpha,12alpha,24s,25-pentol
+1137	m01090c	5beta-cholestane-3alpha,7alpha,12alpha,26-tetrol
+1138	m01090m	5beta-cholestane-3alpha,7alpha,12alpha,26-tetrol
+1139	m01091c	5beta-cholestane-3alpha,7alpha,12alpha,27,27-pentaol
+1140	m01091m	5beta-cholestane-3alpha,7alpha,12alpha,27,27-pentaol
+1141	m01092c	5beta-cholestane-3alpha,7alpha,12alpha,27-tetraol
+1142	m01092m	5beta-cholestane-3alpha,7alpha,12alpha,27-tetraol
+1143	m01093c	5beta-cholestane-3alpha,7alpha,26-triol
+1144	m01093m	5beta-cholestane-3alpha,7alpha,26-triol
+1145	m01094m	5beta-cholestane-3alpha,7alpha,27-triol
+1146	m01095c	5beta-cholestane-3alpha,7alpha-diol
+1147	m01095m	5beta-cholestane-3alpha,7alpha-diol
+1148	m01096m	5-carboxy-alpha-chromanol
+1149	m01097m	5-carboxy-gamma-chromanol
+1150	m01100c	5-formyl-THF
+1151	m01100s	5-formyl-THF
+1152	m01102c	5-hydroxyindoleacetaldehyde
+1153	m01103c	5-hydroxyindoleacetate
+1154	m01110c	5-hydroxytryptophol
+1155	m01111s	5-L-gamma-glutamyl
+1156	m01113c	5-methoxytryptophol
+1157	m01115c	5-methyl-THF
+1158	m01116c	5-methylthioadenosine
+1159	m01118c	5-oxo-(6E)-12-epi-LTB4
+1160	m01118m	5-oxo-(6E)-12-epi-LTB4
+1161	m01118p	5-oxo-(6E)-12-epi-LTB4
+1162	m01118r	5-oxo-(6E)-12-epi-LTB4
+1163	m01119m	5-oxo-12(R)-hydroxy-eicosa-(2E,8E,10E,14Z)-tetraenoyl-CoA
+1164	m01119p	5-oxo-12(R)-hydroxy-eicosa-(2E,8E,10E,14Z)-tetraenoyl-CoA
+1165	m01120c	5-oxo-12(R)-hydroxy-eicosa-(8E,10E,14Z)-trienoyl-CoA
+1166	m01120m	5-oxo-12(R)-hydroxy-eicosa-(8E,10E,14Z)-trienoyl-CoA
+1167	m01120p	5-oxo-12(R)-hydroxy-eicosa-(8E,10E,14Z)-trienoyl-CoA
+1168	m01120r	5-oxo-12(R)-hydroxy-eicosa-(8E,10E,14Z)-trienoyl-CoA
+1169	m01121m	5-oxo-12(S)-hydroxy-eicosa-(2E,8E,10E,14Z)-tetraenoyl-CoA
+1170	m01121p	5-oxo-12(S)-hydroxy-eicosa-(2E,8E,10E,14Z)-tetraenoyl-CoA
+1171	m01122c	5-oxo-12(S)-hydroxy-eicosa-(8E,10E,14Z)-trienoyl-CoA
+1172	m01122m	5-oxo-12(S)-hydroxy-eicosa-(8E,10E,14Z)-trienoyl-CoA
+1173	m01122p	5-oxo-12(S)-hydroxy-eicosa-(8E,10E,14Z)-trienoyl-CoA
+1174	m01122r	5-oxo-12(S)-hydroxy-eicosa-(8E,10E,14Z)-trienoyl-CoA
+1175	m01123c	5-oxo-12-HETE
+1176	m01124c	5-oxo-6-trans-LTB4
+1177	m01124m	5-oxo-6-trans-LTB4
+1178	m01124p	5-oxo-6-trans-LTB4
+1179	m01124r	5-oxo-6-trans-LTB4
+1180	m01125c	5-oxo-EPE
+1181	m01125p	5-oxo-EPE
+1182	m01126c	5-oxo-ETE
+1183	m01127c	5-oxoproline
+1184	m01130c	5-phosphoribosyl-4-carboxy-5-aminoimidazole
+1185	m01131c	5-phosphoribosylamine
+1186	m01132c	5-phosphoribosylformylglycinamidine
+1187	m01133c	5-pp-inspP5
+1188	m01133n	5-pp-inspP5
+1189	m01138c	5-S-glutathionyl-dopamine
+1190	m01139c	5-S-glutathionyl-L-dopa
+1191	m01141c	5-tetradecenoyl-CoA
+1192	m01141m	5-tetradecenoyl-CoA
+1193	m01141r	5-tetradecenoyl-CoA
+1194	m01143c	6-(alpha-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol
+1195	m01143r	6-(alpha-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol
+1196	m01144m	6(R)-hydroxy-tetradeca-(2E,4E,8Z)-trienoate
+1197	m01145m	6(R)-hydroxy-tetradeca-(2E,8Z)-dienoate
+1198	m01146m	6(R)-hydroxy-tetradeca-(4E,8Z)-dienoate
+1199	m01147m	6(S)-hydroxy-tetradeca-(2E,4E,8Z)-trienoate
+1200	m01148m	6(S)-hydroxy-tetradeca-(2E,8Z)-dienoate
+1201	m01149m	6(S)-hydroxy-tetradeca-(4E,8Z)-dienoate
+1202	m01151c	6,7-dihydro-5-oxo-12-epi-LTB4
+1203	m01151m	6,7-dihydro-5-oxo-12-epi-LTB4
+1204	m01151p	6,7-dihydro-5-oxo-12-epi-LTB4
+1205	m01151r	6,7-dihydro-5-oxo-12-epi-LTB4
+1206	m01152c	6,7-dihydro-5-oxo-LTB4
+1207	m01152m	6,7-dihydro-5-oxo-LTB4
+1208	m01152p	6,7-dihydro-5-oxo-LTB4
+1209	m01152r	6,7-dihydro-5-oxo-LTB4
+1210	m01153c	6,7-dihydro-LTB4
+1211	m01153m	6,7-dihydro-LTB4
+1212	m01153p	6,7-dihydro-LTB4
+1213	m01153r	6,7-dihydro-LTB4
+1214	m01155c	6-[(1S,2R)-1,2-dihydroxy-3-triphosphooxypropyl]-7,8-dihydropterin
+1215	m01155n	6-[(1S,2R)-1,2-dihydroxy-3-triphosphooxypropyl]-7,8-dihydropterin
+1216	m01156c	6-[2,3-dihydroxy-1-(hydroxymethyl)propyl]-1,2-dihydro-7-hydroxy-9-methoxy-cyclopenta[c][1]benzopyran-3,4-dione
+1217	m01159c	6-deoxy-L-galactose
+1218	m01159l	6-deoxy-L-galactose
+1219	m01159s	6-deoxy-L-galactose
+1220	m01161c	6-hydroxymelatonin
+1221	m01164c	6-lactoyl-5,6,7,8-tetrahydropterin
+1222	m01165m	6-methoxy-3-methyl-2-all-trans-decaprenyl-1,4-benzoquinol
+1223	m01169c	6-phospho-D-gluconate
+1224	m01169r	6-phospho-D-gluconate
+1225	m01170c	6-pyruvoyltetrahydropterin
+1226	m01170n	6-pyruvoyltetrahydropterin
+1227	m01171c	6-trans-12-epi-LTB4
+1228	m01171m	6-trans-12-epi-LTB4
+1229	m01171p	6-trans-12-epi-LTB4
+1230	m01172c	6-trans-LTB4
+1231	m01172m	6-trans-LTB4
+1232	m01172p	6-trans-LTB4
+1233	m01173c	7,12-dimethylbenz[a]anthracene 5,6-oxide
+1234	m01174c	7,12-dimethylbenz[a]anthracene
+1235	m01174s	7,12-dimethylbenz[a]anthracene
+1236	m01175c	7,8-dihydro-7-hydroxy-8-S-glutathionyl-benzo[a]pyrene
+1237	m01176c	7,8-epoxy-(4Z,10Z)-hexadecadienoic acid
+1238	m01182r	7alpha-hydroxycholest-4-en-3-one
+1239	m01183r	7alpha-hydroxycholesterol
+1240	m01185m	7-carboxy-alpha-chromanol
+1241	m01186m	7-carboxy-alpha-tocotrienol
+1242	m01187m	7-carboxy-gamma-chromanol
+1243	m01188m	7-carboxy-gamma-tocotrienol
+1244	m01189c	7-dehydrodesmosterol
+1245	m01190c	7-HETE
+1246	m01191c	7-hexadecenoyl-CoA
+1247	m01191m	7-hexadecenoyl-CoA
+1248	m01191r	7-hexadecenoyl-CoA
+1249	m01196c	7-hydroxymethyl-12-methylbenz[a]anthracene
+1250	m01197c	7-palmitoleic acid
+1251	m01197r	7-palmitoleic acid
+1252	m01197s	7-palmitoleic acid
+1253	m01199m	8(R)-hydroxy-hexadeca-(2E,4E,6E,10Z)-tetraenoate
+1254	m01200m	8(R)-hydroxy-hexadeca-(2E,6E,10Z)-trienoate
+1255	m01201m	8(R)-hydroxy-hexadeca-(4E,6E,10Z)-trienoate
+1256	m01204m	8(S)-hydroxy-hexadeca-(2E,4E,6E,10Z)-tetraenoate
+1257	m01205m	8(S)-hydroxy-hexadeca-(2E,6E,10Z)-trienoate
+1258	m01206m	8(S)-hydroxy-hexadeca-(4E,6E,10Z)-trienoate
+1259	m01207c	8,11-eicosadienoic acid
+1260	m01207r	8,11-eicosadienoic acid
+1261	m01207s	8,11-eicosadienoic acid
+1262	m01208c	8,9-DHET
+1263	m01209c	8,9-EET
+1264	m01209r	8,9-EET
+1265	m01210c	8,9-epoxy-(5Z)-tetradecenoic acid
+1266	m01213c	8-HETE
+1267	m01216c	9(10)-EpOME
+1268	m01216r	9(10)-EpOME
+1269	m01219c	9,10-epoxy-(6Z,12Z)-octadecadienoic acid
+1270	m01220c	9,10-hydroxyoctadec-12(Z)-enoate
+1271	m01220r	9,10-hydroxyoctadec-12(Z)-enoate
+1272	m01225m	9-carboxy-alpha-chromanol
+1273	m01226m	9-carboxy-alpha-tocotrienol
+1274	m01227m	9-carboxy-gamma-chromanol
+1275	m01228m	9-carboxy-gamma-tocotrienol
+1276	m01230c	9-cis-retinal
+1277	m01230r	9-cis-retinal
+1278	m01231c	9-cis-retinoate
+1279	m01231r	9-cis-retinoate
+1280	m01232c	9-cis-retinol
+1281	m01234c	9-deoxy-delta12-PGD2
+1282	m01235c	9-eicosenoic acid
+1283	m01235r	9-eicosenoic acid
+1284	m01235s	9-eicosenoic acid
+1285	m01236c	9-eicosenoyl-CoA
+1286	m01236m	9-eicosenoyl-CoA
+1287	m01236r	9-eicosenoyl-CoA
+1288	m01237c	9-heptadecenoyl-CoA
+1289	m01237m	9-heptadecenoyl-CoA
+1290	m01237r	9-heptadecenoyl-CoA
+1291	m01238c	9-heptadecylenic acid
+1292	m01238r	9-heptadecylenic acid
+1293	m01238s	9-heptadecylenic acid
+1294	m01239c	9-HETE
+1295	m01241c	9-hydroxybenzo[a]pyrene
+1296	m01242c	9-hydroxybenzo[a]pyrene-4,5-oxide
+1297	m01244g	9-O-acetylated-GD3
+1298	m01247c	A2PE
+1299	m01248c	A2PE-H2
+1300	m01249c	acetaldehyde
+1301	m01249m	acetaldehyde
+1302	m01249p	acetaldehyde
+1303	m01252c	acetate
+1304	m01252g	acetate
+1305	m01252m	acetate
+1306	m01252p	acetate
+1307	m01252r	acetate
+1308	m01252s	acetate
+1309	m01253c	acetoacetate
+1310	m01253m	acetoacetate
+1311	m01253s	acetoacetate
+1312	m01254c	acetoacetyl-[ACP]
+1313	m01255c	acetoacetyl-CoA
+1314	m01255m	acetoacetyl-CoA
+1315	m01255p	acetoacetyl-CoA
+1316	m01256c	acetone
+1317	m01256m	acetone
+1318	m01256s	acetone
+1319	m01257c	acetyl adenylate
+1320	m01258c	acetyl-[ACP]
+1321	m01260c	acetylcholine
+1322	m01260s	acetylcholine
+1323	m01261c	acetyl-CoA
+1324	m01261g	acetyl-CoA
+1325	m01261m	acetyl-CoA
+1326	m01261n	acetyl-CoA
+1327	m01261p	acetyl-CoA
+1328	m01261r	acetyl-CoA
+1329	m01265m	acrylyl-CoA
+1330	m01268c	activation-ppara
+1331	m01268n	activation-ppara
+1332	m01269c	acyl-CoA-bile-PC pool
+1333	m01278c	acylglycerone-phosphate
+1334	m01278p	acylglycerone-phosphate
+1335	m01279c	adenine
+1336	m01279s	adenine
+1337	m01280c	adenosine
+1338	m01280l	adenosine
+1339	m01280m	adenosine
+1340	m01280s	adenosine
+1341	m01282c	adenylosuccinate
+1342	m01283c	adenylyl sulfate
+1343	m01284c	adenylylselenate
+1344	m01285c	ADP
+1345	m01285g	ADP
+1346	m01285l	ADP
+1347	m01285m	ADP
+1348	m01285n	ADP
+1349	m01285p	ADP
+1350	m01285r	ADP
+1351	m01285s	ADP
+1352	m01286c	ADP-glucose
+1353	m01286s	ADP-glucose
+1354	m01287c	ADP-mannose
+1355	m01287s	ADP-mannose
+1356	m01288c	ADP-ribose
+1357	m01288s	ADP-ribose
+1358	m01289c	ADP-ribose-2-phosphate
+1359	m01289s	ADP-ribose-2-phosphate
+1360	m01290c	adrenaline
+1361	m01290s	adrenaline
+1362	m01291c	adrenic acid
+1363	m01291l	adrenic acid
+1364	m01291r	adrenic acid
+1365	m01291s	adrenic acid
+1366	m01294c	aflatoxin B1 dialdehyde
+1367	m01295c	aflatoxin B1 diol
+1368	m01296c	aflatoxin B1
+1369	m01296s	aflatoxin B1
+1370	m01298c	aflatoxin B1-exo-8,9-epoxide
+1371	m01299c	aflatoxin B1-exo-8,9-epoxide-GSH
+1372	m01300c	aflatoxin M1
+1373	m01301c	aflatoxin M1-8,9-epoxide
+1374	m01302c	aflatoxin Q1
+1375	m01304c	AICAR
+1376	m01305c	AIR
+1377	m01306c	AKG
+1378	m01306m	AKG
+1379	m01306p	AKG
+1380	m01306s	AKG
+1381	m01307c	alanine
+1382	m01307l	alanine
+1383	m01307m	alanine
+1384	m01307s	alanine
+1385	m01308c	albumin
+1386	m01311c	alkyl-glycerone-3-phosphate
+1387	m01311p	alkyl-glycerone-3-phosphate
+1388	m01315c	alloxan
+1389	m01315s	alloxan
+1390	m01316c	all-trans-decaprenyl-diphosphate
+1391	m01316m	all-trans-decaprenyl-diphosphate
+1392	m01318c	alpha-(1,2-dihydroxyethyl)-1,2,3,4-tetrahydro-7-hydroxy-9-methoxy-3,4-dioxocyclopenta[c][1]benzopyran-6-acetaldehyde
+1393	m01322c	alpha-D-galactose-1-phosphate
+1394	m01323c	alpha-D-mannosyl-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol
+1395	m01324c	alpha-GalNAc-globoside
+1396	m01324g	alpha-GalNAc-globoside
+1397	m01324l	alpha-GalNAc-globoside
+1398	m01327c	alpha-tocopherol
+1399	m01327s	alpha-tocopherol
+1400	m01330c	alpha-tocotrienol
+1401	m01330s	alpha-tocotrienol
+1402	m01334c	AMP
+1403	m01334g	AMP
+1404	m01334l	AMP
+1405	m01334m	AMP
+1406	m01334p	AMP
+1407	m01334r	AMP
+1408	m01334s	AMP
+1409	m01338c	androsterone
+1410	m01338r	androsterone
+1411	m01338s	androsterone
+1412	m01346c	APE
+1413	m01349c	apo-[ACP]
+1414	m01350c	apoA1
+1415	m01350l	apoA1
+1416	m01350s	apoA1
+1417	m01351l	apoB100
+1418	m01352l	apoB48
+1419	m01353c	apoC1
+1420	m01357c	apoC-lys_btn
+1421	m01359c	apoE
+1422	m01359l	apoE
+1423	m01361c	aquacob(III)alamin
+1424	m01361s	aquacob(III)alamin
+1425	m01362c	arachidonate
+1426	m01362l	arachidonate
+1427	m01362p	arachidonate
+1428	m01362r	arachidonate
+1429	m01362s	arachidonate
+1430	m01363c	arachidonyl-carnitine
+1431	m01363m	arachidonyl-carnitine
+1432	m01363r	arachidonyl-carnitine
+1433	m01364c	arachidonyl-CoA
+1434	m01364m	arachidonyl-CoA
+1435	m01364p	arachidonyl-CoA
+1436	m01364r	arachidonyl-CoA
+1437	m01365c	arginine
+1438	m01365l	arginine
+1439	m01365m	arginine
+1440	m01365s	arginine
+1441	m01366c	argininosuccinate
+1442	m01368c	ascorbate
+1443	m01368s	ascorbate
+1444	m01369c	asparagine
+1445	m01369l	asparagine
+1446	m01369m	asparagine
+1447	m01369s	asparagine
+1448	m01370c	aspartate
+1449	m01370l	aspartate
+1450	m01370m	aspartate
+1451	m01370s	aspartate
+1452	m01371c	ATP
+1453	m01371g	ATP
+1454	m01371l	ATP
+1455	m01371m	ATP
+1456	m01371n	ATP
+1457	m01371p	ATP
+1458	m01371r	ATP
+1459	m01371s	ATP
+1460	m01373c	behenic acid
+1461	m01373r	behenic acid
+1462	m01373s	behenic acid
+1463	m01374c	benzo[a]pyrene
+1464	m01374s	benzo[a]pyrene
+1465	m01375c	benzo[a]pyrene-4,5-oxide
+1466	m01376c	benzo[a]pyrene-7,8-dihydrodiol-9,10-oxide
+1467	m01377c	benzo[a]pyrene-7,8-diol
+1468	m01378c	benzo[a]pyrene-7,8-oxide
+1469	m01379c	benzo[a]pyrene-9,10-oxide
+1470	m01380c	benzoate
+1471	m01380r	benzoate
+1472	m01382l	beta-1,4-mannose-N-acetylglucosamine
+1473	m01383c	beta-alanine
+1474	m01383s	beta-alanine
+1475	m01388c	beta-D-glucose
+1476	m01389c	beta-D-glucose-6-phosphate
+1477	m01390c	beta-D-mannosyldiacetylchitobiosyldiphosphodolichol
+1478	m01395c	bile-PC pool
+1479	m01396c	bilirubin
+1480	m01397c	bilirubin-bisglucuronoside
+1481	m01397r	bilirubin-bisglucuronoside
+1482	m01397s	bilirubin-bisglucuronoside
+1483	m01398c	bilirubin-monoglucuronoside
+1484	m01398r	bilirubin-monoglucuronoside
+1485	m01398s	bilirubin-monoglucuronoside
+1486	m01399c	biliverdin
+1487	m01401c	biotin
+1488	m01401s	biotin
+1489	m01402c	biotinyl-5-AMP
+1490	m01403c	bromobenzene
+1491	m01403s	bromobenzene
+1492	m01405c	bromobenzene-2,3-oxide
+1493	m01406c	bromobenzene-3,4-dihydrodiol
+1494	m01407c	bromobenzene-3,4-oxide
+1495	m01409c	but-2-enoyl-[ACP]
+1496	m01410c	butyrate
+1497	m01410s	butyrate
+1498	m01411c	butyryl-[ACP]
+1499	m01412c	butyryl-CoA
+1500	m01412m	butyryl-CoA
+1501	m01412p	butyryl-CoA
+1502	m01413c	Ca2+
+1503	m01413s	Ca2+
+1504	m01415c	calcidiol
+1505	m01415m	calcidiol
+1506	m01416c	calcitetrol
+1507	m01416m	calcitetrol
+1508	m01419c	cAMP
+1509	m01419g	cAMP
+1510	m01419s	cAMP
+1511	m01420c	carbamoyl-phosphate
+1512	m01421c	carbonate
+1513	m01421s	carbonate
+1514	m01422c	carboxybiotin-carboxyl-carrier
+1515	m01424c	CDP
+1516	m01424m	CDP
+1517	m01424n	CDP
+1518	m01425c	CDP-choline
+1519	m01426m	CDP-diacylglycerol-CL pool
+1520	m01427c	CDP-diacylglycerol-LD-PI pool
+1521	m01427l	CDP-diacylglycerol-LD-PI pool
+1522	m01427r	CDP-diacylglycerol-LD-PI pool
+1523	m01428c	CDP-ethanolamine
+1524	m01430c	ceramide pool
+1525	m01430l	ceramide pool
+1526	m01430r	ceramide pool
+1527	m01431c	ceramide-1P pool
+1528	m01432c	cerotic acid
+1529	m01432r	cerotic acid
+1530	m01432s	cerotic acid
+1531	m01433c	cGMP
+1532	m01433g	cGMP
+1533	m01433n	cGMP
+1534	m01433s	cGMP
+1535	m01434c	chenodeoxycholoyl-CoA
+1536	m01434p	chenodeoxycholoyl-CoA
+1537	m01435c	chenodiol
+1538	m01435s	chenodiol
+1539	m01439l	chitobiose
+1540	m01439s	chitobiose
+1541	m01440c	chloral hydrate
+1542	m01441c	chloral
+1543	m01442c	chloride
+1544	m01442s	chloride
+1545	m01445c	cholate
+1546	m01445m	cholate
+1547	m01445p	cholate
+1548	m01446c	cholest-5-ene-3beta,7alpha,24(S)-triol
+1549	m01448c	cholest-5-ene-3beta,7alpha,27-triol
+1550	m01449c	cholestenol
+1551	m01450c	cholesterol
+1552	m01450g	cholesterol
+1553	m01450l	cholesterol
+1554	m01450m	cholesterol
+1555	m01450r	cholesterol
+1556	m01450s	cholesterol
+1557	m01451c	cholesterol-ester pool
+1558	m01451l	cholesterol-ester pool
+1559	m01451r	cholesterol-ester pool
+1560	m01451s	cholesterol-ester pool
+1561	m01452l	cholesterol-ester-10,13,16,19-docosa
+1562	m01452r	cholesterol-ester-10,13,16,19-docosa
+1563	m01453l	cholesterol-ester-10,13,16-docosa
+1564	m01453r	cholesterol-ester-10,13,16-docosa
+1565	m01454l	cholesterol-ester-10-hepta
+1566	m01454r	cholesterol-ester-10-hepta
+1567	m01455l	cholesterol-ester-11,14,17-eico
+1568	m01455r	cholesterol-ester-11,14,17-eico
+1569	m01456l	cholesterol-ester-11,14-eicosa
+1570	m01456r	cholesterol-ester-11,14-eicosa
+1571	m01457l	cholesterol-ester-11-docose
+1572	m01457r	cholesterol-ester-11-docose
+1573	m01458l	cholesterol-ester-11-eico
+1574	m01458r	cholesterol-ester-11-eico
+1575	m01459l	cholesterol-ester-12,15,18,21-tetracosa
+1576	m01459r	cholesterol-ester-12,15,18,21-tetracosa
+1577	m01460l	cholesterol-ester-13,16,19-doco
+1578	m01460r	cholesterol-ester-13,16,19-doco
+1579	m01461l	cholesterol-ester-13,16-docosa
+1580	m01461r	cholesterol-ester-13,16-docosa
+1581	m01462l	cholesterol-ester-13-docose
+1582	m01462r	cholesterol-ester-13-docose
+1583	m01463l	cholesterol-ester-13-eicose
+1584	m01463r	cholesterol-ester-13-eicose
+1585	m01464l	cholesterol-ester-13-octade
+1586	m01464r	cholesterol-ester-13-octade
+1587	m01465l	cholesterol-ester-15-tetra
+1588	m01465r	cholesterol-ester-15-tetra
+1589	m01466l	cholesterol-ester-4,7,10,13,16,19-doco
+1590	m01466r	cholesterol-ester-4,7,10,13,16,19-doco
+1591	m01467l	cholesterol-ester-4,7,10,13,16-docosa
+1592	m01467r	cholesterol-ester-4,7,10,13,16-docosa
+1593	m01468l	cholesterol-ester-5,8,11,14,17-eico
+1594	m01468r	cholesterol-ester-5,8,11,14,17-eico
+1595	m01469l	cholesterol-ester-5,8,11-eico
+1596	m01469r	cholesterol-ester-5,8,11-eico
+1597	m01470l	cholesterol-ester-5-tetra
+1598	m01470r	cholesterol-ester-5-tetra
+1599	m01471l	cholesterol-ester-6,9,12,15,18,21-tetra
+1600	m01471r	cholesterol-ester-6,9,12,15,18,21-tetra
+1601	m01472l	cholesterol-ester-6,9,12,15,18-tetraco
+1602	m01472r	cholesterol-ester-6,9,12,15,18-tetraco
+1603	m01473l	cholesterol-ester-6,9,12,15-octa
+1604	m01473r	cholesterol-ester-6,9,12,15-octa
+1605	m01474l	cholesterol-ester-6,9-octa
+1606	m01474r	cholesterol-ester-6,9-octa
+1607	m01475l	cholesterol-ester-7,10,13,16,19-docosa
+1608	m01475r	cholesterol-ester-7,10,13,16,19-docosa
+1609	m01476l	cholesterol-ester-7,10,13,16-docosa
+1610	m01476r	cholesterol-ester-7,10,13,16-docosa
+1611	m01477l	cholesterol-ester-7-hexa
+1612	m01477r	cholesterol-ester-7-hexa
+1613	m01478l	cholesterol-ester-7-octade
+1614	m01478r	cholesterol-ester-7-octade
+1615	m01479l	cholesterol-ester-7-tetrade
+1616	m01479r	cholesterol-ester-7-tetrade
+1617	m01480l	cholesterol-ester-8,11,14,17-eico
+1618	m01480r	cholesterol-ester-8,11,14,17-eico
+1619	m01481l	cholesterol-ester-8,11-eico
+1620	m01481r	cholesterol-ester-8,11-eico
+1621	m01482l	cholesterol-ester-9,12,15,18,21-tetra
+1622	m01482r	cholesterol-ester-9,12,15,18,21-tetra
+1623	m01483l	cholesterol-ester-9,12,15,18-tetraco
+1624	m01483r	cholesterol-ester-9,12,15,18-tetraco
+1625	m01484l	cholesterol-ester-9-eicose
+1626	m01484r	cholesterol-ester-9-eicose
+1627	m01485l	cholesterol-ester-9-heptade
+1628	m01485r	cholesterol-ester-9-heptade
+1629	m01486l	cholesterol-ester-9-octa
+1630	m01486r	cholesterol-ester-9-octa
+1631	m01487l	cholesterol-ester-9-tetrade
+1632	m01487r	cholesterol-ester-9-tetrade
+1633	m01488l	cholesterol-ester-arach
+1634	m01488r	cholesterol-ester-arach
+1635	m01489l	cholesterol-ester-cis-vac
+1636	m01489r	cholesterol-ester-cis-vac
+1637	m01490l	cholesterol-ester-dihomo-gamma
+1638	m01490r	cholesterol-ester-dihomo-gamma
+1639	m01491l	cholesterol-ester-docosa
+1640	m01491r	cholesterol-ester-docosa
+1641	m01492l	cholesterol-ester-eico
+1642	m01492r	cholesterol-ester-eico
+1643	m01493l	cholesterol-ester-gamma-lin
+1644	m01493r	cholesterol-ester-gamma-lin
+1645	m01494l	cholesterol-ester-heneico
+1646	m01494r	cholesterol-ester-heneico
+1647	m01495l	cholesterol-ester-hepta
+1648	m01495r	cholesterol-ester-hepta
+1649	m01496l	cholesterol-ester-hexacosa
+1650	m01496r	cholesterol-ester-hexacosa
+1651	m01497l	cholesterol-ester-hexecose
+1652	m01497r	cholesterol-ester-hexecose
+1653	m01498l	cholesterol-ester-laur
+1654	m01498r	cholesterol-ester-laur
+1655	m01499l	cholesterol-ester-lin
+1656	m01499r	cholesterol-ester-lin
+1657	m01500l	cholesterol-ester-linolen
+1658	m01500r	cholesterol-ester-linolen
+1659	m01501l	cholesterol-ester-myrist
+1660	m01501r	cholesterol-ester-myrist
+1661	m01502l	cholesterol-ester-nanode
+1662	m01502r	cholesterol-ester-nanode
+1663	m01503l	cholesterol-ester-ol
+1664	m01503r	cholesterol-ester-ol
+1665	m01504l	cholesterol-ester-palm
+1666	m01504r	cholesterol-ester-palm
+1667	m01505l	cholesterol-ester-palmn
+1668	m01505r	cholesterol-ester-palmn
+1669	m01506l	cholesterol-ester-penta
+1670	m01506r	cholesterol-ester-penta
+1671	m01507l	cholesterol-ester-stea
+1672	m01507r	cholesterol-ester-stea
+1673	m01508l	cholesterol-ester-tetraco
+1674	m01508r	cholesterol-ester-tetraco
+1675	m01509l	cholesterol-ester-trico
+1676	m01509r	cholesterol-ester-trico
+1677	m01510l	cholesterol-ester-tridec
+1678	m01510r	cholesterol-ester-tridec
+1679	m01511c	cholesterol-STAR
+1680	m01513c	choline
+1681	m01513g	choline
+1682	m01513r	choline
+1683	m01513s	choline
+1684	m01514c	choloyl-CoA
+1685	m01514m	choloyl-CoA
+1686	m01514p	choloyl-CoA
+1687	m01515g	chondroitin sulfate A (GalNAc4S-GlcA) and B (IdoA2S-GalNAc4S), precursor 2
+1688	m01516g	chondroitin sulfate A (GalNAc4S-GlcA) and B (IdoA2S-GalNAc4S), precursor 3
+1689	m01517g	chondroitin sulfate A (GalNAc4S-GlcA) proteoglycan
+1690	m01517l	chondroitin sulfate A (GalNAc4S-GlcA) proteoglycan
+1691	m01517s	chondroitin sulfate A (GalNAc4S-GlcA) proteoglycan
+1692	m01518g	chondroitin sulfate A (GalNAc4S-GlcA), B (IdoA2S-GalNAc4S), and E (GalNAc4,6diS-GlcA), precursor 1
+1693	m01519l	chondroitin sulfate A (GalNAc4S-GlcA), degradation product 1
+1694	m01520l	chondroitin sulfate A (GalNAc4S-GlcA), degradation product 2
+1695	m01521l	chondroitin sulfate A (GalNAc4S-GlcA), degradation product 3
+1696	m01522l	chondroitin sulfate A (GalNAc4S-GlcA), degradation product 4
+1697	m01523l	chondroitin sulfate A (GalNAc4S-GlcA), degradation product 5
+1698	m01524l	chondroitin sulfate A (GalNAc4S-GlcA), free chain
+1699	m01525g	chondroitin sulfate B - dermatan sulfate (IdoA2S-GalNAc4S) proteoglycan
+1700	m01525l	chondroitin sulfate B - dermatan sulfate (IdoA2S-GalNAc4S) proteoglycan
+1701	m01525s	chondroitin sulfate B - dermatan sulfate (IdoA2S-GalNAc4S) proteoglycan
+1702	m01526l	chondroitin sulfate B - dermatan sulfate (IdoA2S-GalNAc4S), degradation product 1
+1703	m01527l	chondroitin sulfate B - dermatan sulfate (IdoA2S-GalNAc4S), degradation product 2
+1704	m01528l	chondroitin sulfate B - dermatan sulfate (IdoA2S-GalNAc4S), degradation product 3
+1705	m01529l	chondroitin sulfate B - dermatan sulfate (IdoA2S-GalNAc4S), free chain
+1706	m01530g	chondroitin sulfate B (IdoA2S-GalNAc4S), precursor 4
+1707	m01531g	chondroitin sulfate B (IdoA2S-GalNAc4s), precursor 5
+1708	m01532g	chondroitin sulfate C (GalNAc6S-GlcA) and D (GlcNAc6S-GlcA2S), precursor 1
+1709	m01533g	chondroitin sulfate C (GalNAc6S-GlcA) proteoglycan
+1710	m01533l	chondroitin sulfate C (GalNAc6S-GlcA) proteoglycan
+1711	m01533s	chondroitin sulfate C (GalNAc6S-GlcA) proteoglycan
+1712	m01534l	chondroitin sulfate C (GalNAc6S-GlcA), degradation product 1
+1713	m01535l	chondroitin sulfate C (GalNAc6S-GlcA), degradation product 2
+1714	m01536l	chondroitin sulfate C (GalNAc6S-GlcA), degradation product 3
+1715	m01537l	chondroitin sulfate C (GalNAc6S-GlcA), degradation product 4
+1716	m01538l	chondroitin sulfate C (GalNAc6S-GlcA), degradation product 5
+1717	m01539l	chondroitin sulfate C (GalNAc6S-GlcA), free chain
+1718	m01540g	chondroitin sulfate C (GalNAc6S-GlcA), precursor 2
+1719	m01541g	chondroitin sulfate C (GalNAc6S-GlcA), precursor 3
+1720	m01542g	chondroitin sulfate D (GlcNAc6S-GlcA2S) precursor 2
+1721	m01543g	chondroitin sulfate D (GlcNAc6S-GlcA2S) proteoglycan
+1722	m01543l	chondroitin sulfate D (GlcNAc6S-GlcA2S) proteoglycan
+1723	m01543s	chondroitin sulfate D (GlcNAc6S-GlcA2S) proteoglycan
+1724	m01544l	chondroitin sulfate D (GlcNAc6S-GlcA2S), degradation product 1
+1725	m01545l	chondroitin sulfate D (GlcNAc6S-GlcA2S), degradation product 2
+1726	m01546l	chondroitin sulfate D (GlcNAc6S-GlcA2S), degradation product 3
+1727	m01547l	chondroitin sulfate D (GlcNAc6S-GlcA2S), degradation product 4
+1728	m01548l	chondroitin sulfate D (GlcNAc6S-GlcA2S), degradation product 5
+1729	m01549l	chondroitin sulfate D (GlcNAc6S-GlcA2S), degradation product 6
+1730	m01550l	chondroitin sulfate D (GlcNAc6S-GlcA2S), free chain
+1731	m01551g	chondroitin sulfate D (GlcNAc6S-GlcA2S), precursor 3
+1732	m01552g	chondroitin sulfate D (GlcNAc6S-GlcA2S), precursor 4
+1733	m01553g	chondroitin sulfate D (GlcNAc6S-GlcA2S), precursor 5
+1734	m01554g	chondroitin sulfate E (GalNAc4,6diS-GlcA) proteoglycan
+1735	m01554l	chondroitin sulfate E (GalNAc4,6diS-GlcA) proteoglycan
+1736	m01554s	chondroitin sulfate E (GalNAc4,6diS-GlcA) proteoglycan
+1737	m01555l	chondroitin sulfate E (GalNAc4,6diS-GlcA), degradation product 1
+1738	m01556l	chondroitin sulfate E (GalNAc4,6diS-GlcA), degradation product 2
+1739	m01557l	chondroitin sulfate E (GalNAc4,6diS-GlcA), degradation product 3
+1740	m01558l	chondroitin sulfate E (GalNAc4,6diS-GlcA), degradation product 4
+1741	m01559l	chondroitin sulfate E (GalNAc4,6diS-GlcA), degradation product 5
+1742	m01560l	chondroitin sulfate E (GalNAc4,6diS-GlcA), degradation product 6
+1743	m01561l	chondroitin sulfate E (GalNAc4,6diS-GlcA), degradation product 7
+1744	m01562l	chondroitin sulfate E (GalNAc4,6diS-GlcA), free chain
+1745	m01563g	chondroitin sulfate E (GalNAc4,6diS-GlcA), precursor 2
+1746	m01564g	chondroitin sulfate E (GalNAc4,6diS-GlcA), precursor 3
+1747	m01565g	chondroitin sulfate E (GalNAc4,6diS-GlcA), precursor 4
+1748	m01566g	chondroitin sulfate E (GalNAc4,6diS-GlcA), precursor 5a
+1749	m01567g	chondroitin sulfate E (GalNAc4,6diS-GlcA), precursor 5b
+1750	m01568g	chondroitin sulfate precursor (GalNAc-GlcA-(Gal)2-Xyl-L-Ser (protein))
+1751	m01569l	chylomicron remnant
+1752	m01569s	chylomicron remnant
+1753	m01570s	chylomicron
+1754	m01573m	cis-(3S)-hydroxytetradec-5-enoyl-CoA
+1755	m01574m	cis-(3S)-hydroxytetradec-7-enoyl-CoA
+1756	m01575m	cis,cis-3,6-dodecadienoyl-CoA
+1757	m01576m	cis,cis-myristo-5,8-dienoyl-CoA
+1758	m01576p	cis,cis-myristo-5,8-dienoyl-CoA
+1759	m01577m	cis,cis-palmito-7,10-dienoyl-CoA
+1760	m01577p	cis,cis-palmito-7,10-dienoyl-CoA
+1761	m01580c	cis-aconitate
+1762	m01580m	cis-aconitate
+1763	m01582c	cis-cetoleic acid
+1764	m01582r	cis-cetoleic acid
+1765	m01582s	cis-cetoleic acid
+1766	m01583c	cis-erucic acid
+1767	m01583r	cis-erucic acid
+1768	m01583s	cis-erucic acid
+1769	m01584c	cis-gondoic acid
+1770	m01584r	cis-gondoic acid
+1771	m01584s	cis-gondoic acid
+1772	m01585c	cis-vaccenic acid
+1773	m01585l	cis-vaccenic acid
+1774	m01585r	cis-vaccenic acid
+1775	m01585s	cis-vaccenic acid
+1776	m01586c	cis-vaccenoyl-CoA
+1777	m01586m	cis-vaccenoyl-CoA
+1778	m01586r	cis-vaccenoyl-CoA
+1779	m01587c	citrate
+1780	m01587m	citrate
+1781	m01587s	citrate
+1782	m01588c	citrulline
+1783	m01588m	citrulline
+1784	m01588s	citrulline
+1785	m01589c	CL pool
+1786	m01589m	CL pool
+1787	m01590c	CMP
+1788	m01590g	CMP
+1789	m01590l	CMP
+1790	m01590m	CMP
+1791	m01590n	CMP
+1792	m01590r	CMP
+1793	m01590s	CMP
+1794	m01592c	CMP-N-acetylneuraminate
+1795	m01592g	CMP-N-acetylneuraminate
+1796	m01592n	CMP-N-acetylneuraminate
+1797	m01593c	CMP-neuNGc
+1798	m01595c	CO
+1799	m01596c	CO2
+1800	m01596m	CO2
+1801	m01596p	CO2
+1802	m01596r	CO2
+1803	m01596s	CO2
+1804	m01597c	CoA
+1805	m01597g	CoA
+1806	m01597l	CoA
+1807	m01597m	CoA
+1808	m01597n	CoA
+1809	m01597p	CoA
+1810	m01597r	CoA
+1811	m01598m	cob(I)alamin
+1812	m01599c	cob(II)alamin
+1813	m01599m	cob(II)alamin
+1814	m01600m	cobamide-coenzyme
+1815	m01601c	cocaine
+1816	m01601r	cocaine
+1817	m01605c	coproporphyrinogen I
+1818	m01606c	coproporphyrinogen III
+1819	m01607g	core 2
+1820	m01608g	core 3
+1821	m01609g	core 4
+1822	m01611l	core 6
+1823	m01619c	creatine
+1824	m01619m	creatine
+1825	m01619s	creatine
+1826	m01620c	creatine-phosphate
+1827	m01620m	creatine-phosphate
+1828	m01622m	crotonyl-CoA
+1829	m01622p	crotonyl-CoA
+1830	m01623c	CTP
+1831	m01623m	CTP
+1832	m01623n	CTP
+1833	m01626c	cys-gly
+1834	m01626s	cys-gly
+1835	m01627c	cysteamine
+1836	m01628c	cysteine
+1837	m01628l	cysteine
+1838	m01628m	cysteine
+1839	m01628s	cysteine
+1840	m01629c	cystine
+1841	m01630c	cytidine
+1842	m01630l	cytidine
+1843	m01630m	cytidine
+1844	m01630s	cytidine
+1845	m01632c	cytosine
+1846	m01632s	cytosine
+1847	m01634c	D-3-hydroxydodecanoyl-[ACP]
+1848	m01635c	D-3-hydroxyhexanoyl-[ACP]
+1849	m01636c	D-4-phosphopantothenate
+1850	m01637c	dADP
+1851	m01637m	dADP
+1852	m01637n	dADP
+1853	m01638c	D-alanine
+1854	m01638p	D-alanine
+1855	m01639c	dAMP
+1856	m01642c	dATP
+1857	m01642m	dATP
+1858	m01642n	dATP
+1859	m01643c	dCDP
+1860	m01643m	dCDP
+1861	m01643n	dCDP
+1862	m01644c	dCMP
+1863	m01644m	dCMP
+1864	m01644n	dCMP
+1865	m01645c	dCTP
+1866	m01645m	dCTP
+1867	m01645n	dCTP
+1868	m01646c	deamido-NAD
+1869	m01646n	deamido-NAD
+1870	m01648c	decanoic acid
+1871	m01648s	decanoic acid
+1872	m01649c	decanoyl-[ACP]
+1873	m01650c	decanoyl-CoA
+1874	m01650m	decanoyl-CoA
+1875	m01650p	decanoyl-CoA
+1876	m01651l	de-Fuc form of PA6 (wo peptide linkage)
+1877	m01652l	de-Fuc form of PA6
+1878	m01652s	de-Fuc form of PA6
+1879	m01653l	de-Fuc, GlcNAc removed PA6 (wo peptide linkage)
+1880	m01654c	dehydroalanine
+1881	m01655c	dehydroascorbic acid
+1882	m01655s	dehydroascorbic acid
+1883	m01657c	dehydrodolichol-diphosphate
+1884	m01661c	dehydrospermidine
+1885	m01662c	delta-12-prostaglandin J2
+1886	m01664p	delta2-THA-CoA
+1887	m01666c	deoxyadenosine
+1888	m01666s	deoxyadenosine
+1889	m01668c	deoxycytidine
+1890	m01668m	deoxycytidine
+1891	m01668n	deoxycytidine
+1892	m01668s	deoxycytidine
+1893	m01669c	deoxyguanosine
+1894	m01669m	deoxyguanosine
+1895	m01669s	deoxyguanosine
+1896	m01671c	deoxyinosine
+1897	m01671s	deoxyinosine
+1898	m01672c	deoxyribose
+1899	m01673c	deoxyuridine
+1900	m01673m	deoxyuridine
+1901	m01673s	deoxyuridine
+1902	m01674c	dephospho-CoA
+1903	m01674l	dephospho-CoA
+1904	m01674m	dephospho-CoA
+1905	m01675c	desmosterol
+1906	m01679c	D-galactosyl-N-acylsphingosine
+1907	m01679g	D-galactosyl-N-acylsphingosine
+1908	m01679l	D-galactosyl-N-acylsphingosine
+1909	m01680c	dGDP
+1910	m01680m	dGDP
+1911	m01680n	dGDP
+1912	m01681c	D-glucarate
+1913	m01682c	D-glucitol
+1914	m01682s	D-glucitol
+1915	m01683c	D-gluconic acid
+1916	m01684c	D-glucuronate 1-phosphate
+1917	m01685c	D-glucurono-6,3-lactone
+1918	m01685r	D-glucurono-6,3-lactone
+1919	m01686c	dGMP
+1920	m01686m	dGMP
+1921	m01688c	dGTP
+1922	m01688m	dGTP
+1923	m01688n	dGTP
+1924	m01689c	DHA
+1925	m01689l	DHA
+1926	m01689r	DHA
+1927	m01689s	DHA
+1928	m01690c	DHAP
+1929	m01690m	DHAP
+1930	m01690s	DHAP
+1931	m01693c	dIDP
+1932	m01693n	dIDP
+1933	m01694c	digalactosylceramide
+1934	m01694g	digalactosylceramide
+1935	m01694l	digalactosylceramide
+1936	m01695c	digalactosylceramidesulfate
+1937	m01695g	digalactosylceramidesulfate
+1938	m01695s	digalactosylceramidesulfate
+1939	m01696c	dihomo-gamma-linolenate
+1940	m01696l	dihomo-gamma-linolenate
+1941	m01696r	dihomo-gamma-linolenate
+1942	m01696s	dihomo-gamma-linolenate
+1943	m01697c	dihomo-gamma-linolenoyl-CoA
+1944	m01697m	dihomo-gamma-linolenoyl-CoA
+1945	m01697r	dihomo-gamma-linolenoyl-CoA
+1946	m01698c	dihydrobiopterin
+1947	m01699c	dihydroceramide pool
+1948	m01700c	dihydrofolate
+1949	m01700l	dihydrofolate
+1950	m01700m	dihydrofolate
+1951	m01700s	dihydrofolate
+1952	m01701m	dihydrolipoamide
+1953	m01702c	dihydrolipoate
+1954	m01704c	dihydroneopterin
+1955	m01704s	dihydroneopterin
+1956	m01705c	dihydrothymine
+1957	m01706c	dimethylallyl-PP
+1958	m01708c	dimethylglycine
+1959	m01709c	dIMP
+1960	m01714c	dITP
+1961	m01714n	dITP
+1962	m01714s	dITP
+1963	m01715c	D-lactaldehyde
+1964	m01716c	D-lactate
+1965	m01716m	D-lactate
+1966	m01716s	D-lactate
+1967	m01718c	D-myo-inositol-1,4,5-trisphosphate
+1968	m01718n	D-myo-inositol-1,4,5-trisphosphate
+1969	m01721c	DNA
+1970	m01721n	DNA
+1971	m01723c	docosahexaenoylcarnitine
+1972	m01723m	docosahexaenoylcarnitine
+1973	m01723r	docosahexaenoylcarnitine
+1974	m01724c	docosanoylcarnitine
+1975	m01724m	docosanoylcarnitine
+1976	m01724r	docosanoylcarnitine
+1977	m01725c	docosanoyl-CoA
+1978	m01725m	docosanoyl-CoA
+1979	m01725p	docosanoyl-CoA
+1980	m01725r	docosanoyl-CoA
+1981	m01726c	docosenoylcarnitine(11)
+1982	m01726m	docosenoylcarnitine(11)
+1983	m01726r	docosenoylcarnitine(11)
+1984	m01727c	docosenoylcarnitine
+1985	m01727m	docosenoylcarnitine
+1986	m01727r	docosenoylcarnitine
+1987	m01728c	dodecanoyl-[ACP]
+1988	m01729c	dodecanoylcarnitine
+1989	m01729m	dodecanoylcarnitine
+1990	m01729r	dodecanoylcarnitine
+1991	m01730c	dolichol
+1992	m01730r	dolichol
+1993	m01731r	dolichyl-D-glucosyl-phosphate
+1994	m01732r	dolichyl-diphosphate
+1995	m01733c	dolichyl-phosphate
+1996	m01733r	dolichyl-phosphate
+1997	m01734c	dolichyl-phosphate-D-mannose
+1998	m01734r	dolichyl-phosphate-D-mannose
+1999	m01736c	dopamine
+2000	m01736s	dopamine
+2001	m01737c	dopamine-3-O-sulfate
+2002	m01738c	dopamine-O-quinone
+2003	m01739c	dopaminochrome
+2004	m01741c	DPA
+2005	m01741l	DPA
+2006	m01741r	DPA
+2007	m01741s	DPA
+2008	m01746c	D-tagatose-6-phosphate
+2009	m01747c	dTDP
+2010	m01747m	dTDP
+2011	m01747n	dTDP
+2012	m01752c	dTMP
+2013	m01752l	dTMP
+2014	m01752m	dTMP
+2015	m01753c	dTTP
+2016	m01753m	dTTP
+2017	m01753n	dTTP
+2018	m01754c	dUDP
+2019	m01754m	dUDP
+2020	m01754n	dUDP
+2021	m01755c	dUMP
+2022	m01755m	dUMP
+2023	m01755n	dUMP
+2024	m01756c	dUTP
+2025	m01756m	dUTP
+2026	m01756n	dUTP
+2027	m01758c	D-xylose
+2028	m01758s	D-xylose
+2029	m01759c	D-xylulose
+2030	m01760c	D-xylulose-1-phosphate
+2031	m01761c	D-xylulose-5-phosphate
+2032	m01767c	ecgonine-methyl ester
+2033	m01767r	ecgonine-methyl ester
+2034	m01769c	eicosa-(2E,8Z,11Z,14Z,17Z)-pentaenoyl-CoA
+2035	m01770c	eicosadienoylcarnitine
+2036	m01770m	eicosadienoylcarnitine
+2037	m01770r	eicosadienoylcarnitine
+2038	m01771c	eicosanoate
+2039	m01771r	eicosanoate
+2040	m01771s	eicosanoate
+2041	m01772c	eicosanoylcarnitine
+2042	m01772m	eicosanoylcarnitine
+2043	m01772r	eicosanoylcarnitine
+2044	m01773c	eicosanoyl-CoA
+2045	m01773m	eicosanoyl-CoA
+2046	m01773p	eicosanoyl-CoA
+2047	m01773r	eicosanoyl-CoA
+2048	m01774c	eicosatrienoylcarnitine
+2049	m01774m	eicosatrienoylcarnitine
+2050	m01774r	eicosatrienoylcarnitine
+2051	m01775c	eicosenoylcarnitine(11)
+2052	m01775m	eicosenoylcarnitine(11)
+2053	m01775r	eicosenoylcarnitine(11)
+2054	m01776c	eicosenoylcarnitine(7)
+2055	m01776m	eicosenoylcarnitine(7)
+2056	m01776r	eicosenoylcarnitine(7)
+2057	m01777c	eicosenoylcarnitine(9)
+2058	m01777m	eicosenoylcarnitine(9)
+2059	m01777r	eicosenoylcarnitine(9)
+2060	m01778c	elaidate
+2061	m01778r	elaidate
+2062	m01778s	elaidate
+2063	m01779r	em2emgacpail heparan sulfate
+2064	m01781r	em3gacpail heparan sulfate
+2065	m01782r	emem2gacpail heparan sulfate
+2066	m01783r	emgacpail heparan sulfate
+2067	m01784c	EPA
+2068	m01784l	EPA
+2069	m01784n	EPA
+2070	m01784p	EPA
+2071	m01784r	EPA
+2072	m01784s	EPA
+2073	m01785c	erythrose-4-phosphate
+2074	m01787c	estradiol-17beta
+2075	m01787r	estradiol-17beta
+2076	m01789c	estrone 3-sulfate
+2077	m01790c	estrone
+2078	m01790r	estrone
+2079	m01791c	estrone-2,3-quinone
+2080	m01791m	estrone-2,3-quinone
+2081	m01791p	estrone-2,3-quinone
+2082	m01791r	estrone-2,3-quinone
+2083	m01792c	estrone-2,3-semiquinone
+2084	m01792r	estrone-2,3-semiquinone
+2085	m01793c	estrone-3,4-quinone
+2086	m01793m	estrone-3,4-quinone
+2087	m01793p	estrone-3,4-quinone
+2088	m01793r	estrone-3,4-quinone
+2089	m01794c	estrone-3,4-semiquinone
+2090	m01794r	estrone-3,4-semiquinone
+2091	m01796c	ethanol
+2092	m01796p	ethanol
+2093	m01796s	ethanol
+2094	m01797c	ethanolamine
+2095	m01797s	ethanolamine
+2096	m01798c	ethanolamine-phosphate
+2097	m01798r	ethanolamine-phosphate
+2098	m01801l	F1alpha
+2099	m01802c	FAD
+2100	m01802m	FAD
+2101	m01802p	FAD
+2102	m01802r	FAD
+2103	m01802s	FAD
+2104	m01803c	FADH2
+2105	m01803m	FADH2
+2106	m01803p	FADH2
+2107	m01803r	FADH2
+2108	m01804c	FAICAR
+2109	m01806c	farnesyl-PP
+2110	m01807s	fatty acid-chylomicron pool
+2111	m01820s	fatty acid-VLDL pool
+2112	m01821c	Fe2+
+2113	m01821m	Fe2+
+2114	m01821s	Fe2+
+2115	m01822s	Fe3+
+2116	m01823c	ferricytochrome B5
+2117	m01824m	ferricytochrome C
+2118	m01825c	ferrocytochrome B5
+2119	m01826m	ferrocytochrome C
+2120	m01828c	FMN
+2121	m01829g	fn2m2masn
+2122	m01830c	folate
+2123	m01830m	folate
+2124	m01830s	folate
+2125	m01831c	formaldehyde
+2126	m01831l	formaldehyde
+2127	m01833c	formate
+2128	m01833m	formate
+2129	m01833n	formate
+2130	m01833r	formate
+2131	m01833s	formate
+2132	m01836p	formyl-CoA
+2133	m01837c	formylglutathione
+2134	m01840c	fructose
+2135	m01840s	fructose
+2136	m01841c	fructose-1,6-bisphosphate
+2137	m01843c	fructose-2,6-bisphosphate
+2138	m01845c	fructose-6-phosphate
+2139	m01862c	fumarate
+2140	m01862m	fumarate
+2141	m01865c	G00005
+2142	m01866c	G00006
+2143	m01866r	G00006
+2144	m01867r	G00007
+2145	m01868g	G00020
+2146	m01869g	G00021
+2147	m01871g	G00031
+2148	m01872g	G00032
+2149	m01895c	G10526
+2150	m01896r	G10595
+2151	m01897r	G10596
+2152	m01898r	G10597
+2153	m01899r	G10598
+2154	m01900r	G10599
+2155	m01904c	GA1
+2156	m01904g	GA1
+2157	m01905c	GA2
+2158	m01905g	GA2
+2159	m01906g	Gal2-Xyl-L-Ser-[protein]
+2160	m01909c	galactitol
+2161	m01910c	galactose
+2162	m01910l	galactose
+2163	m01910s	galactose
+2164	m01911c	galactose-1-phosphate
+2165	m01913s	galactosylglycerol
+2166	m01921g	Gal-Xyl-L-Ser-[protein]
+2167	m01922c	gamma-butyrobetaine
+2168	m01923c	gamma-carboxyethyl-hydroxychroman
+2169	m01923m	gamma-carboxyethyl-hydroxychroman
+2170	m01924c	gamma-CEHC-glucuronide
+2171	m01925s	gamma-glutamyl-3-aminopropiononitrile
+2172	m01926s	gamma-glutamyl-beta-cyanoalanine
+2173	m01927c	gamma-glutamyl-cysteine
+2174	m01932c	gamma-linolenate
+2175	m01932l	gamma-linolenate
+2176	m01932r	gamma-linolenate
+2177	m01932s	gamma-linolenate
+2178	m01933c	gamma-linolenoylcarnitine
+2179	m01933m	gamma-linolenoylcarnitine
+2180	m01933r	gamma-linolenoylcarnitine
+2181	m01934c	gamma-linolenoyl-CoA
+2182	m01934m	gamma-linolenoyl-CoA
+2183	m01934r	gamma-linolenoyl-CoA
+2184	m01935c	gamma-tocopherol
+2185	m01935r	gamma-tocopherol
+2186	m01935s	gamma-tocopherol
+2187	m01938c	gamma-tocotrienol
+2188	m01938s	gamma-tocotrienol
+2189	m01939c	GAP
+2190	m01940c	GAR
+2191	m01941c	GD1a
+2192	m01941g	GD1a
+2193	m01942g	GD1alpha
+2194	m01943c	GD1b
+2195	m01943g	GD1b
+2196	m01946g	GD2
+2197	m01947g	GD3
+2198	m01948c	GDP
+2199	m01948g	GDP
+2200	m01948m	GDP
+2201	m01948n	GDP
+2202	m01948s	GDP
+2203	m01949c	GDP-4-dehydro-6-deoxy-D-mannose
+2204	m01950c	GDP-L-fucose
+2205	m01950g	GDP-L-fucose
+2206	m01951c	GDP-mannose
+2207	m01953c	geranyl-PP
+2208	m01959c	globoside
+2209	m01959g	globoside
+2210	m01959l	globoside
+2211	m01960c	globotriaosylceramide
+2212	m01960g	globotriaosylceramide
+2213	m01960l	globotriaosylceramide
+2214	m01961c	glucono-1,5-lactone-6-phosphate
+2215	m01961r	glucono-1,5-lactone-6-phosphate
+2216	m01962c	glucosamine
+2217	m01962s	glucosamine
+2218	m01963c	glucosamine-6-phosphate
+2219	m01964c	glucosaminyl-acylphosphatidylinositol
+2220	m01964r	glucosaminyl-acylphosphatidylinositol
+2221	m01965c	glucose
+2222	m01965g	glucose
+2223	m01965l	glucose
+2224	m01965r	glucose
+2225	m01965s	glucose
+2226	m01966c	glucose-1,6-bisphosphate
+2227	m01967c	glucose-1-phosphate
+2228	m01968c	glucose-6-phosphate
+2229	m01968r	glucose-6-phosphate
+2230	m01969r	glucosyl-(alpha-D-mannosyl)6-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein)
+2231	m01970r	glucosyl-(alpha-D-mannosyl)7-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine, isoform B (protein)
+2232	m01971r	glucosyl-(alpha-D-mannosyl)7-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine, isoform C (protein)
+2233	m01972c	glucosylceramide pool
+2234	m01972l	glucosylceramide pool
+2235	m01972r	glucosylceramide pool
+2236	m01972s	glucosylceramide pool
+2237	m01973c	glucuronate
+2238	m01973l	glucuronate
+2239	m01973r	glucuronate
+2240	m01974c	glutamate
+2241	m01974l	glutamate
+2242	m01974m	glutamate
+2243	m01974r	glutamate
+2244	m01974s	glutamate
+2245	m01975c	glutamine
+2246	m01975l	glutamine
+2247	m01975m	glutamine
+2248	m01975s	glutamine
+2249	m01976m	glutamyl-5-phosphate
+2250	m01977m	glutaryl-CoA
+2251	m01978c	glutathione episulfonium ion
+2252	m01981c	glyceraldehyde
+2253	m01981m	glyceraldehyde
+2254	m01982c	glycerate
+2255	m01982m	glycerate
+2256	m01983c	glycerol
+2257	m01983m	glycerol
+2258	m01983s	glycerol
+2259	m01984s	glycerone
+2260	m01986c	glycine
+2261	m01986l	glycine
+2262	m01986m	glycine
+2263	m01986s	glycine
+2264	m01990c	glycogenin G11
+2265	m01991c	glycogenin G4G4
+2266	m01992c	glycogenin G4G7
+2267	m01993c	glycogenin G7
+2268	m01994c	glycogenin G7G1
+2269	m01995c	glycogenin G8
+2270	m01996c	glycogenin
+2271	m01997c	glycolaldehyde
+2272	m01997m	glycolaldehyde
+2273	m01998c	glycolate
+2274	m01998m	glycolate
+2275	m02006c	glycyl-tRNA(gly)
+2276	m02007c	glyoxalate
+2277	m02007m	glyoxalate
+2278	m02008c	GM1
+2279	m02008g	GM1
+2280	m02010c	GM1b
+2281	m02010g	GM1b
+2282	m02011c	GM2
+2283	m02011g	GM2
+2284	m02011l	GM2
+2285	m02012c	GM2A
+2286	m02012l	GM2A
+2287	m02013l	GM2A-GM2
+2288	m02015c	GM3
+2289	m02015l	GM3
+2290	m02016c	GMP
+2291	m02016g	GMP
+2292	m02016l	GMP
+2293	m02016m	GMP
+2294	m02016n	GMP
+2295	m02016s	GMP
+2296	m02020r	gpi heparan sulfate
+2297	m02023c	GQ1b
+2298	m02023s	GQ1b
+2299	m02024c	GQ1balpha
+2300	m02024g	GQ1balpha
+2301	m02026c	GSH
+2302	m02026m	GSH
+2303	m02026p	GSH
+2304	m02026r	GSH
+2305	m02026s	GSH
+2306	m02027c	GSSG
+2307	m02027m	GSSG
+2308	m02027s	GSSG
+2309	m02029g	GT1aalpha
+2310	m02030c	GT1b
+2311	m02030g	GT1b
+2312	m02034c	GTP
+2313	m02034m	GTP
+2314	m02034n	GTP
+2315	m02034s	GTP
+2316	m02035c	guanidine
+2317	m02035s	guanidine
+2318	m02036c	guanidinoacetate
+2319	m02037c	guanine
+2320	m02037s	guanine
+2321	m02038c	guanosine
+2322	m02038l	guanosine
+2323	m02038m	guanosine
+2324	m02038s	guanosine
+2325	m02039c	H+
+2326	m02039g	H+
+2327	m02039l	H+
+2328	m02039m	H+
+2329	m02039n	H+
+2330	m02039p	H+
+2331	m02039r	H+
+2332	m02039s	H+
+2333	m02040c	H2O
+2334	m02040g	H2O
+2335	m02040l	H2O
+2336	m02040m	H2O
+2337	m02040n	H2O
+2338	m02040p	H2O
+2339	m02040r	H2O
+2340	m02040s	H2O
+2341	m02041c	H2O2
+2342	m02041l	H2O2
+2343	m02041m	H2O2
+2344	m02041n	H2O2
+2345	m02041p	H2O2
+2346	m02041r	H2O2
+2347	m02041s	H2O2
+2348	m02042c	H2S
+2349	m02042s	H2S
+2350	m02043c	H2S2O3
+2351	m02046c	HCO3-
+2352	m02046m	HCO3-
+2353	m02046s	HCO3-
+2354	m02049c	heme
+2355	m02049m	heme
+2356	m02051c	heneicosanoylcarnitine
+2357	m02051m	heneicosanoylcarnitine
+2358	m02051r	heneicosanoylcarnitine
+2359	m02052c	heneicosanoyl-CoA
+2360	m02052m	heneicosanoyl-CoA
+2361	m02052r	heneicosanoyl-CoA
+2362	m02053c	henicosanoic acid
+2363	m02053r	henicosanoic acid
+2364	m02053s	henicosanoic acid
+2365	m02054l	heparan sulfate proteoglycan
+2366	m02054s	heparan sulfate proteoglycan
+2367	m02055l	heparan sulfate, degradation product 1
+2368	m02056l	heparan sulfate, degradation product 10
+2369	m02057l	heparan sulfate, degradation product 11
+2370	m02058l	heparan sulfate, degradation product 12
+2371	m02059l	heparan sulfate, degradation product 13
+2372	m02060l	heparan sulfate, degradation product 14
+2373	m02061l	heparan sulfate, degradation product 15
+2374	m02062l	heparan sulfate, degradation product 16
+2375	m02063l	heparan sulfate, degradation product 17
+2376	m02064l	heparan sulfate, degradation product 18
+2377	m02065l	heparan sulfate, degradation product 19
+2378	m02066l	heparan sulfate, degradation product 2
+2379	m02067l	heparan sulfate, degradation product 20
+2380	m02068l	heparan sulfate, degradation product 21
+2381	m02069l	heparan sulfate, degradation product 22
+2382	m02070l	heparan sulfate, degradation product 23
+2383	m02071l	heparan sulfate, degradation product 24
+2384	m02072l	heparan sulfate, degradation product 25
+2385	m02073l	heparan sulfate, degradation product 3
+2386	m02074l	heparan sulfate, degradation product 4
+2387	m02075l	heparan sulfate, degradation product 5
+2388	m02076l	heparan sulfate, degradation product 6
+2389	m02077l	heparan sulfate, degradation product 7
+2390	m02078l	heparan sulfate, degradation product 8
+2391	m02079l	heparan sulfate, degradation product 9
+2392	m02080l	heparan sulfate, free chain
+2393	m02081g	heparan sulfate, precursor 1
+2394	m02082g	heparan sulfate, precursor 10
+2395	m02083g	heparan sulfate, precursor 11
+2396	m02084g	heparan sulfate, precursor 12
+2397	m02085g	heparan sulfate, precursor 13
+2398	m02088g	heparan sulfate, precursor 2
+2399	m02089g	heparan sulfate, precursor 3
+2400	m02090g	heparan sulfate, precursor 4
+2401	m02091g	heparan sulfate, precursor 5
+2402	m02092g	heparan sulfate, precursor 6
+2403	m02093g	heparan sulfate, precursor 7
+2404	m02094g	heparan sulfate, precursor 8
+2405	m02095g	heparan sulfate, precursor 9
+2406	m02096c	hepoxilin A3
+2407	m02096p	hepoxilin A3
+2408	m02096r	hepoxilin A3
+2409	m02096s	hepoxilin A3
+2410	m02097c	hepoxilin A3-c
+2411	m02097p	hepoxilin A3-c
+2412	m02099c	heptadecanoyl-[ACP]
+2413	m02100c	heptadecanoylcarnitine
+2414	m02100m	heptadecanoylcarnitine
+2415	m02100r	heptadecanoylcarnitine
+2416	m02101c	heptadecanoyl-CoA
+2417	m02101m	heptadecanoyl-CoA
+2418	m02101r	heptadecanoyl-CoA
+2419	m02102c	heptadecenoylcarnitine(7)
+2420	m02102m	heptadecenoylcarnitine(7)
+2421	m02102r	heptadecenoylcarnitine(7)
+2422	m02103c	heptadecenoylcarnitine(8)
+2423	m02103m	heptadecenoylcarnitine(8)
+2424	m02103r	heptadecenoylcarnitine(8)
+2425	m02104c	heptaglutamyl-folate(DHF)
+2426	m02104l	heptaglutamyl-folate(DHF)
+2427	m02104m	heptaglutamyl-folate(DHF)
+2428	m02104s	heptaglutamyl-folate(DHF)
+2429	m02105c	heptaglutamyl-folate(THF)
+2430	m02105l	heptaglutamyl-folate(THF)
+2431	m02105m	heptaglutamyl-folate(THF)
+2432	m02105s	heptaglutamyl-folate(THF)
+2433	m02106c	heptanoyl-[ACP]
+2434	m02107m	heptanoyl-CoA
+2435	m02108c	heptylic acid
+2436	m02108s	heptylic acid
+2437	m02109c	hexacosanoylcarnitine
+2438	m02109r	hexacosanoylcarnitine
+2439	m02110c	hexacosanoyl-CoA
+2440	m02110p	hexacosanoyl-CoA
+2441	m02110r	hexacosanoyl-CoA
+2442	m02111c	hexacosenoylcarnitine
+2443	m02111r	hexacosenoylcarnitine
+2444	m02112c	hexacosenoyl-CoA
+2445	m02112p	hexacosenoyl-CoA
+2446	m02112r	hexacosenoyl-CoA
+2447	m02113c	hexadecanal
+2448	m02115c	hexadecanoyl-[ACP]
+2449	m02116c	hexadecenal
+2450	m02117c	hexadecenoylcarnitine(9)
+2451	m02117m	hexadecenoylcarnitine(9)
+2452	m02117r	hexadecenoylcarnitine(9)
+2453	m02118c	hexaglutamyl-folate(DHF)
+2454	m02118l	hexaglutamyl-folate(DHF)
+2455	m02118m	hexaglutamyl-folate(DHF)
+2456	m02118s	hexaglutamyl-folate(DHF)
+2457	m02119c	hexaglutamyl-folate(THF)
+2458	m02119l	hexaglutamyl-folate(THF)
+2459	m02119m	hexaglutamyl-folate(THF)
+2460	m02119s	hexaglutamyl-folate(THF)
+2461	m02120c	hexanoic acid
+2462	m02120s	hexanoic acid
+2463	m02121c	hexanoyl-[ACP]
+2464	m02122c	hexanoyl-CoA
+2465	m02122m	hexanoyl-CoA
+2466	m02122p	hexanoyl-CoA
+2467	m02124c	histamine
+2468	m02124s	histamine
+2469	m02125c	histidine
+2470	m02125l	histidine
+2471	m02125m	histidine
+2472	m02125s	histidine
+2473	m02129n	histone-N6-methyl-L-lysine
+2474	m02130c	HMA
+2475	m02131c	HMG-CoA
+2476	m02131m	HMG-CoA
+2477	m02131p	HMG-CoA
+2478	m02133c	homocysteine
+2479	m02134c	homocysteine-thiolactone
+2480	m02136c	homoserine
+2481	m02136s	homoserine
+2482	m02137c	homovanillate
+2483	m02139l	hyaluronan biosynthesis, precursor 1
+2484	m02139s	hyaluronan biosynthesis, precursor 1
+2485	m02140l	hyaluronan degradation product 1
+2486	m02141l	hyaluronate
+2487	m02141s	hyaluronate
+2488	m02142m	hydracrylate
+2489	m02143c	hydrobromic acid
+2490	m02144c	hydrochloride
+2491	m02145c	hydrogen-cyanide
+2492	m02145m	hydrogen-cyanide
+2493	m02145s	hydrogen-cyanide
+2494	m02147c	hydroxide
+2495	m02147s	hydroxide
+2496	m02148c	hydroxyacetone
+2497	m02151c	hydroxymethylbilane
+2498	m02152c	hydroxymethylglutathione
+2499	m02154c	hydroxypyruvate
+2500	m02154m	hydroxypyruvate
+2501	m02157c	hypotaurine
+2502	m02159c	hypoxanthine
+2503	m02159s	hypoxanthine
+2504	m02161c	IDP
+2505	m02161n	IDP
+2506	m02161s	IDP
+2507	m02165c	imidazole-4-acetaldehyde
+2508	m02166c	imidazole-4-acetate
+2509	m02167c	IMP
+2510	m02167s	IMP
+2511	m02168c	indole-3-acetaldehyde
+2512	m02168m	indole-3-acetaldehyde
+2513	m02169c	indoleacetate
+2514	m02169m	indoleacetate
+2515	m02170c	inosine
+2516	m02170s	inosine
+2517	m02171c	inositol
+2518	m02171r	inositol
+2519	m02171s	inositol
+2520	m02172c	inositol-1,3-bisphosphate
+2521	m02173c	inositol-1-phosphate
+2522	m02174c	iodide
+2523	m02180m	isobutyryl-CoA
+2524	m02183c	isocitrate
+2525	m02183m	isocitrate
+2526	m02183p	isocitrate
+2527	m02184c	isoleucine
+2528	m02184l	isoleucine
+2529	m02184m	isoleucine
+2530	m02184s	isoleucine
+2531	m02187c	isopentenyl-pPP
+2532	m02187p	isopentenyl-pPP
+2533	m02189m	isovaleryl-CoA
+2534	m02191m	itaconate
+2535	m02192m	itaconyl-CoA
+2536	m02193c	ITP
+2537	m02193n	ITP
+2538	m02193s	ITP
+2539	m02197c	IV3GalNAca-Gb4Cer
+2540	m02200c	K+
+2541	m02200s	K+
+2542	m02201g	keratan sulfate I biosynthesis, precursor 1
+2543	m02202g	keratan sulfate I biosynthesis, precursor 10
+2544	m02203g	keratan sulfate I biosynthesis, precursor 11
+2545	m02204g	keratan sulfate I biosynthesis, precursor 12
+2546	m02205g	keratan sulfate I biosynthesis, precursor 13
+2547	m02206g	keratan sulfate I biosynthesis, precursor 14
+2548	m02207g	keratan sulfate I biosynthesis, precursor 15
+2549	m02208g	keratan sulfate I biosynthesis, precursor 16
+2550	m02209g	keratan sulfate I biosynthesis, precursor 17
+2551	m02210g	keratan sulfate I biosynthesis, precursor 18
+2552	m02211g	keratan sulfate I biosynthesis, precursor 19
+2553	m02212g	keratan sulfate I biosynthesis, precursor 2
+2554	m02213g	keratan sulfate I biosynthesis, precursor 20
+2555	m02214g	keratan sulfate I biosynthesis, precursor 21
+2556	m02215g	keratan sulfate I biosynthesis, precursor 22
+2557	m02216g	keratan sulfate I biosynthesis, precursor 23
+2558	m02217g	keratan sulfate I biosynthesis, precursor 24
+2559	m02218g	keratan sulfate I biosynthesis, precursor 25
+2560	m02219g	keratan sulfate I biosynthesis, precursor 26
+2561	m02220g	keratan sulfate I biosynthesis, precursor 27
+2562	m02221g	keratan sulfate I biosynthesis, precursor 28
+2563	m02222g	keratan sulfate I biosynthesis, precursor 29
+2564	m02223g	keratan sulfate I biosynthesis, precursor 3
+2565	m02224g	keratan sulfate I biosynthesis, precursor 30
+2566	m02225g	keratan sulfate I biosynthesis, precursor 31
+2567	m02226g	keratan sulfate I biosynthesis, precursor 32
+2568	m02227g	keratan sulfate I biosynthesis, precursor 33
+2569	m02228g	keratan sulfate I biosynthesis, precursor 34
+2570	m02229g	keratan sulfate I biosynthesis, precursor 35
+2571	m02230g	keratan sulfate I biosynthesis, precursor 36
+2572	m02231g	keratan sulfate I biosynthesis, precursor 4
+2573	m02232g	keratan sulfate I biosynthesis, precursor 5
+2574	m02233g	keratan sulfate I biosynthesis, precursor 6
+2575	m02234g	keratan sulfate I biosynthesis, precursor 7
+2576	m02235g	keratan sulfate I biosynthesis, precursor 8
+2577	m02236g	keratan sulfate I biosynthesis, precursor 9
+2578	m02237l	keratan sulfate I, degradation product 1
+2579	m02237s	keratan sulfate I, degradation product 1
+2580	m02238l	keratan sulfate I, degradation product 10
+2581	m02239l	keratan sulfate I, degradation product 11
+2582	m02240l	keratan sulfate I, degradation product 12
+2583	m02241l	keratan sulfate I, degradation product 13
+2584	m02242l	keratan sulfate I, degradation product 14
+2585	m02243l	keratan sulfate I, degradation product 15
+2586	m02244l	keratan sulfate I, degradation product 16
+2587	m02245l	keratan sulfate I, degradation product 17
+2588	m02246l	keratan sulfate I, degradation product 18
+2589	m02247l	keratan sulfate I, degradation product 19
+2590	m02248l	keratan sulfate I, degradation product 2
+2591	m02249l	keratan sulfate I, degradation product 20
+2592	m02250l	keratan sulfate I, degradation product 21
+2593	m02251l	keratan sulfate I, degradation product 22
+2594	m02252l	keratan sulfate I, degradation product 23
+2595	m02253l	keratan sulfate I, degradation product 24
+2596	m02254l	keratan sulfate I, degradation product 25
+2597	m02255l	keratan sulfate I, degradation product 26
+2598	m02256l	keratan sulfate I, degradation product 27
+2599	m02257l	keratan sulfate I, degradation product 28
+2600	m02258l	keratan sulfate I, degradation product 29
+2601	m02259l	keratan sulfate I, degradation product 3
+2602	m02260l	keratan sulfate I, degradation product 30
+2603	m02261l	keratan sulfate I, degradation product 31
+2604	m02262l	keratan sulfate I, degradation product 32
+2605	m02263l	keratan sulfate I, degradation product 33
+2606	m02264l	keratan sulfate I, degradation product 34
+2607	m02265l	keratan sulfate I, degradation product 35
+2608	m02266l	keratan sulfate I, degradation product 36
+2609	m02267l	keratan sulfate I, degradation product 37
+2610	m02268l	keratan sulfate I, degradation product 38
+2611	m02269l	keratan sulfate I, degradation product 39
+2612	m02270l	keratan sulfate I, degradation product 4
+2613	m02271l	keratan sulfate I, degradation product 40
+2614	m02272l	keratan sulfate I, degradation product 41
+2615	m02273l	keratan sulfate I, degradation product 5
+2616	m02274l	keratan sulfate I, degradation product 6
+2617	m02275l	keratan sulfate I, degradation product 7
+2618	m02276l	keratan sulfate I, degradation product 8
+2619	m02277l	keratan sulfate I, degradation product 9
+2620	m02278g	keratan sulfate I
+2621	m02278l	keratan sulfate I
+2622	m02278s	keratan sulfate I
+2623	m02279l	keratan sulfate II (core 2-linked), degradation product 1
+2624	m02280l	keratan sulfate II (core 2-linked), degradation product 2
+2625	m02281l	keratan sulfate II (core 2-linked), degradation product 3
+2626	m02282l	keratan sulfate II (core 2-linked), degradation product 4
+2627	m02283l	keratan sulfate II (core 2-linked), degradation product 5
+2628	m02284l	keratan sulfate II (core 2-linked), degradation product 6
+2629	m02285l	keratan sulfate II (core 2-linked), degradation product 7
+2630	m02286l	keratan sulfate II (core 2-linked), degradation product 8
+2631	m02287l	keratan sulfate II (core 2-linked), degradation product 9
+2632	m02288g	keratan sulfate II (core 2-linked)
+2633	m02288l	keratan sulfate II (core 2-linked)
+2634	m02288s	keratan sulfate II (core 2-linked)
+2635	m02289g	keratan sulfate II (core 4-linked), biosynthesis, precursor 1
+2636	m02290g	keratan sulfate II (core 4-linked), biosynthesis, precursor 10
+2637	m02291g	keratan sulfate II (core 4-linked), biosynthesis, precursor 2
+2638	m02292g	keratan sulfate II (core 4-linked), biosynthesis, precursor 3
+2639	m02293g	keratan sulfate II (core 4-linked), biosynthesis, precursor 4
+2640	m02294g	keratan sulfate II (core 4-linked), biosynthesis, precursor 5
+2641	m02295g	keratan sulfate II (core 4-linked), biosynthesis, precursor 6
+2642	m02296g	keratan sulfate II (core 4-linked), biosynthesis, precursor 7
+2643	m02297g	keratan sulfate II (core 4-linked), biosynthesis, precursor 8
+2644	m02298g	keratan sulfate II (core 4-linked), biosynthesis, precursor 9
+2645	m02299l	keratan sulfate II (core 4-linked), degradation product 1
+2646	m02300l	keratan sulfate II (core 4-linked), degradation product 2
+2647	m02301l	keratan sulfate II (core 4-linked), degradation product 3
+2648	m02302l	keratan sulfate II (core 4-linked), degradation product 4
+2649	m02303g	keratan sulfate II (core 4-linked)
+2650	m02303l	keratan sulfate II (core 4-linked)
+2651	m02303s	keratan sulfate II (core 4-linked)
+2652	m02304g	keratan sulfate II biosynthesis, precursor 1
+2653	m02305g	keratan sulfate II biosynthesis, precursor 10
+2654	m02306g	keratan sulfate II biosynthesis, precursor 2
+2655	m02307g	keratan sulfate II biosynthesis, precursor 3
+2656	m02308g	keratan sulfate II biosynthesis, precursor 4
+2657	m02309g	keratan sulfate II biosynthesis, precursor 5
+2658	m02310g	keratan sulfate II biosynthesis, precursor 6
+2659	m02311g	keratan sulfate II biosynthesis, precursor 7
+2660	m02312g	keratan sulfate II biosynthesis, precursor 8
+2661	m02313g	keratan sulfate II biosynthesis, precursor 9
+2662	m02319c	kynurenine
+2663	m02320c	L-1-pyrroline-3-hydroxy-5-carboxylate
+2664	m02320m	L-1-pyrroline-3-hydroxy-5-carboxylate
+2665	m02321m	L-2-amino-3-oxobutanoic acid
+2666	m02322c	L-2-aminoadipate
+2667	m02322m	L-2-aminoadipate
+2668	m02323g	l2fn2m2masn
+2669	m02324l	l2n2m2mn
+2670	m02326s	L-3-cyanoalanine
+2671	m02327m	L-4-hydroxyglutamate semialdehyde
+2672	m02328c	LacCer pool
+2673	m02328g	LacCer pool
+2674	m02328l	LacCer pool
+2675	m02328r	LacCer pool
+2676	m02328s	LacCer pool
+2677	m02329c	lactaldehyde
+2678	m02329m	lactaldehyde
+2679	m02330g	lactoneotetraosylceramide
+2680	m02332g	lactose
+2681	m02335c	L-alanyl-tRNA(ala)
+2682	m02336c	lanosterol
+2683	m02337c	L-arabinose
+2684	m02337s	L-arabinose
+2685	m02338c	L-arabitol
+2686	m02340c	L-arginyl-tRNA(arg)
+2687	m02341c	L-asparaginyl-tRNA(asn)
+2688	m02342c	L-aspartyl-tRNA(asp)
+2689	m02343c	lathosterol
+2690	m02344c	lauric acid
+2691	m02344r	lauric acid
+2692	m02344s	lauric acid
+2693	m02345c	lauroyl-CoA
+2694	m02345m	lauroyl-CoA
+2695	m02345p	lauroyl-CoA
+2696	m02345r	lauroyl-CoA
+2697	m02346c	lc3Cer
+2698	m02346g	lc3Cer
+2699	m02347c	lc4Cer
+2700	m02348c	L-carnitine
+2701	m02348m	L-carnitine
+2702	m02348p	L-carnitine
+2703	m02348r	L-carnitine
+2704	m02348s	L-carnitine
+2705	m02349c	L-cystathionine
+2706	m02350c	L-cysteate
+2707	m02350m	L-cysteate
+2708	m02351c	L-cysteinyl-tRNA(cys)
+2709	m02352l	LDL remnant
+2710	m02352s	LDL remnant
+2711	m02353s	LDL
+2712	m02354c	L-dopa
+2713	m02354s	L-dopa
+2714	m02356c	L-dopaquinone
+2715	m02358m	L-erythro-4-hydroxyglutamate
+2716	m02360c	leucine
+2717	m02360l	leucine
+2718	m02360m	leucine
+2719	m02360s	leucine
+2720	m02361c	leukoaminochrome
+2721	m02362c	leukotriene A4
+2722	m02362s	leukotriene A4
+2723	m02363c	leukotriene A5
+2724	m02364c	leukotriene B4
+2725	m02364m	leukotriene B4
+2726	m02364p	leukotriene B4
+2727	m02364r	leukotriene B4
+2728	m02365c	leukotriene B5
+2729	m02366c	leukotriene C4
+2730	m02366r	leukotriene C4
+2731	m02366s	leukotriene C4
+2732	m02367c	leukotriene C5
+2733	m02368c	leukotriene D5
+2734	m02369c	leukotriene E4
+2735	m02369n	leukotriene E4
+2736	m02369p	leukotriene E4
+2737	m02371c	L-formylkynurenine
+2738	m02372c	L-fucose-1-phosphate
+2739	m02374c	L-glutamate 5-semialdehyde
+2740	m02374m	L-glutamate 5-semialdehyde
+2741	m02376c	L-glutaminyl-tRNA(gln)
+2742	m02377c	L-glutamyl-tRNA(glu)
+2743	m02378c	L-gulonate
+2744	m02378r	L-gulonate
+2745	m02380c	L-histidyl-tRNA(his)
+2746	m02384c	L-iduronic acid
+2747	m02384l	L-iduronic acid
+2748	m02385c	lignocerate
+2749	m02385r	lignocerate
+2750	m02385s	lignocerate
+2751	m02387c	linoleate
+2752	m02387l	linoleate
+2753	m02387r	linoleate
+2754	m02387s	linoleate
+2755	m02388c	linoleic-carnitine
+2756	m02388m	linoleic-carnitine
+2757	m02388r	linoleic-carnitine
+2758	m02389c	linolenate
+2759	m02389l	linolenate
+2760	m02389r	linolenate
+2761	m02389s	linolenate
+2762	m02390c	linolenoyl-CoA
+2763	m02390m	linolenoyl-CoA
+2764	m02390r	linolenoyl-CoA
+2765	m02391c	linoleoyl-CoA
+2766	m02391m	linoleoyl-CoA
+2767	m02391p	linoleoyl-CoA
+2768	m02391r	linoleoyl-CoA
+2769	m02392c	lipid droplet
+2770	m02393m	lipoamide
+2771	m02394c	lipoic acid
+2772	m02394s	lipoic acid
+2773	m02395c	lipoxin A4
+2774	m02395n	lipoxin A4
+2775	m02395p	lipoxin A4
+2776	m02395r	lipoxin A4
+2777	m02396c	lipoxin B4
+2778	m02396n	lipoxin B4
+2779	m02396p	lipoxin B4
+2780	m02396r	lipoxin B4
+2781	m02401c	L-isoleucyl-tRNA(ile)
+2782	m02403c	L-lactate
+2783	m02403m	L-lactate
+2784	m02403p	L-lactate
+2785	m02403s	L-lactate
+2786	m02404c	L-leucyl-tRNA(leu)
+2787	m02405c	L-lysyl-tRNA(lys)
+2788	m02407c	L-metanephrine
+2789	m02408c	L-methionyl-tRNA(met)
+2790	m02409c	L-octanoylcarnitine
+2791	m02409m	L-octanoylcarnitine
+2792	m02409p	L-octanoylcarnitine
+2793	m02410c	L-oleoylcarnitine
+2794	m02410m	L-oleoylcarnitine
+2795	m02410r	L-oleoylcarnitine
+2796	m02411c	L-palmitoylcarnitine
+2797	m02411m	L-palmitoylcarnitine
+2798	m02411r	L-palmitoylcarnitine
+2799	m02412c	L-phenylalanyl-tRNA(phe)
+2800	m02415c	L-prolyl-tRNA(pro)
+2801	m02416c	L-seryl-tRNA(ser)
+2802	m02418c	LTD4
+2803	m02418r	LTD4
+2804	m02418s	LTD4
+2805	m02419c	L-threonyl-tRNA(thr)
+2806	m02420c	L-tryptophanyl-tRNA(trp)
+2807	m02421c	L-tyrosyl-tRNA(tyr)
+2808	m02423c	L-valyl-tRNA(val)
+2809	m02425c	L-xylulose
+2810	m02426c	lysine
+2811	m02426l	lysine
+2812	m02426m	lysine
+2813	m02426s	lysine
+2814	m02430r	m2emgacpail heparan sulfate
+2815	m02431r	m2gacpail heparan sulfate
+2816	m02432r	m3emgacpail heparan sulfate
+2817	m02433r	m3gacpail heparan sulfate
+2818	m02439c	malate
+2819	m02439m	malate
+2820	m02440c	malonate
+2821	m02440m	malonate
+2822	m02442c	malonyl-[ACP]
+2823	m02443c	malonyl-carnitin
+2824	m02443m	malonyl-carnitin
+2825	m02443p	malonyl-carnitin
+2826	m02443r	malonyl-carnitin
+2827	m02444c	malonyl-CoA
+2828	m02444m	malonyl-CoA
+2829	m02444p	malonyl-CoA
+2830	m02444r	malonyl-CoA
+2831	m02450c	maltose
+2832	m02450l	maltose
+2833	m02450s	maltose
+2834	m02453c	mannose
+2835	m02453g	mannose
+2836	m02453l	mannose
+2837	m02453r	mannose
+2838	m02453s	mannose
+2839	m02454c	mannose-1-phosphate
+2840	m02455c	mannose-6-phosphate
+2841	m02456c	margaric acid
+2842	m02456r	margaric acid
+2843	m02456s	margaric acid
+2844	m02457c	mead acid
+2845	m02457r	mead acid
+2846	m02457s	mead acid
+2847	m02460c	melatonin
+2848	m02461r	mem2emgacpail heparan sulfate
+2849	m02463r	memgacpail heparan sulfate
+2850	m02464c	mercaptopyruvate
+2851	m02465m	mesaconate
+2852	m02466m	mesaconyl-CoA
+2853	m02468m	methacrylyl-CoA
+2854	m02469c	methaneselenol
+2855	m02470c	methanol
+2856	m02470l	methanol
+2857	m02470s	methanol
+2858	m02471c	methionine
+2859	m02471l	methionine
+2860	m02471m	methionine
+2861	m02471s	methionine
+2862	m02473c	methylamine
+2863	m02475c	methylglyoxal
+2864	m02476c	methylimidazole-acetaldehyde
+2865	m02479c	methylmalonate
+2866	m02479m	methylmalonate
+2867	m02480m	methylmalonyl-CoA
+2868	m02481c	methylthioribose-1p
+2869	m02483r	mgacpail heparan sulfate
+2870	m02485c	mitoApo-[ACP]
+2871	m02485m	mitoApo-[ACP]
+2872	m02492c	myo-inositol-hexakisphosphate
+2873	m02492n	myo-inositol-hexakisphosphate
+2874	m02494c	myristic acid
+2875	m02494l	myristic acid
+2876	m02494r	myristic acid
+2877	m02494s	myristic acid
+2878	m02495c	myristoyl-CoA
+2879	m02495m	myristoyl-CoA
+2880	m02495p	myristoyl-CoA
+2881	m02495r	myristoyl-CoA
+2882	m02496c	N(omega)-(ADP-D-ribosyl)-L-arginine
+2883	m02498c	N,N-chitobiosyldiphosphodolichol
+2884	m02503c	N1-acetylspermidine
+2885	m02507g	n2m2masn
+2886	m02508l	n2m2mn
+2887	m02509l	n2m2nm
+2888	m02510g	n2m2nmasn
+2889	m02510l	n2m2nmasn
+2890	m02510s	n2m2nmasn
+2891	m02511l	n2m2nmn
+2892	m02512g	n3m2masn
+2893	m02514c	N4-acetylaminobutanal
+2894	m02515g	n4m2masn
+2895	m02517c	N6,N6,N6-trimethyl-L-lysine
+2896	m02517r	N6,N6,N6-trimethyl-L-lysine
+2897	m02519c	Na+
+2898	m02519p	Na+
+2899	m02519s	Na+
+2900	m02522c	N-acetyl-D-glucosaminyldiphosphodolichol
+2901	m02523c	N-acetyl-D-glucosaminylphosphatidylinositol
+2902	m02523r	N-acetyl-D-glucosaminylphosphatidylinositol
+2903	m02524c	N-acetyl-D-mannosamine
+2904	m02524r	N-acetyl-D-mannosamine
+2905	m02525c	N-acetylgalactosamine
+2906	m02525l	N-acetylgalactosamine
+2907	m02527c	N-acetylglucosamine
+2908	m02527l	N-acetylglucosamine
+2909	m02528c	N-acetylglucosamine-1-phosphate
+2910	m02529c	N-acetylglucosamine-6-phosphate
+2911	m02530c	N-acetyl-L-alanine
+2912	m02538c	N-acetyl-LTE4
+2913	m02538n	N-acetyl-LTE4
+2914	m02539c	N-acetylmannosamine-6-phosphate
+2915	m02540c	N-acetylmethionine
+2916	m02543c	N-acetylneuraminate
+2917	m02543l	N-acetylneuraminate
+2918	m02543n	N-acetylneuraminate
+2919	m02544c	N-acetylneuraminate-9-phosphate
+2920	m02546c	N-acetylornithine
+2921	m02547c	N-acetylputrescine
+2922	m02548c	N-acetyl-S-[2-carboxy-1-(1H-imidazol-4-yl)ethyl]-L-cysteine
+2923	m02552c	NAD+
+2924	m02552m	NAD+
+2925	m02552p	NAD+
+2926	m02552r	NAD+
+2927	m02552s	NAD+
+2928	m02553c	NADH
+2929	m02553m	NADH
+2930	m02553p	NADH
+2931	m02553r	NADH
+2932	m02554c	NADP+
+2933	m02554m	NADP+
+2934	m02554n	NADP+
+2935	m02554p	NADP+
+2936	m02554r	NADP+
+2937	m02554s	NADP+
+2938	m02555c	NADPH
+2939	m02555m	NADPH
+2940	m02555n	NADPH
+2941	m02555p	NADPH
+2942	m02555r	NADPH
+2943	m02556c	naphthalene
+2944	m02556s	naphthalene
+2945	m02559c	N-carbamoyl-L-aspartate
+2946	m02560s	NEFA blood pool in
+2947	m02564c	nervonic acid
+2948	m02564r	nervonic acid
+2949	m02564s	nervonic acid
+2950	m02565c	neungc
+2951	m02575c	N-formyl-GAR
+2952	m02578c	NH3
+2953	m02578m	NH3
+2954	m02578s	NH3
+2955	m02579c	NH4+
+2956	m02579s	NH4+
+2957	m02581c	nicotinamide D-ribonucleotide
+2958	m02581m	nicotinamide D-ribonucleotide
+2959	m02582c	nicotinamide ribonucleoside
+2960	m02583c	nicotinamide
+2961	m02583s	nicotinamide
+2962	m02584c	nicotinate D-ribonucleoside
+2963	m02585c	nicotinate ribonucleotide
+2964	m02585n	nicotinate ribonucleotide
+2965	m02586c	nicotinate
+2966	m02593c	nLc5Cer
+2967	m02593g	nLc5Cer
+2968	m02594c	nLc6Cer
+2969	m02594g	nLc6Cer
+2970	m02595c	nLc7Cer
+2971	m02595g	nLc7Cer
+2972	m02597g	nm2masn
+2973	m02598g	nm4masn
+2974	m02600c	N-methylethanolamine-phosphate
+2975	m02601c	N-methylhistamine
+2976	m02603c	N-methylsalsolinol
+2977	m02611c	nonadecanoylcarnitine
+2978	m02611m	nonadecanoylcarnitine
+2979	m02611r	nonadecanoylcarnitine
+2980	m02612c	nonadecanoyl-CoA
+2981	m02612m	nonadecanoyl-CoA
+2982	m02612r	nonadecanoyl-CoA
+2983	m02613c	nonadecylic acid
+2984	m02613r	nonadecylic acid
+2985	m02613s	nonadecylic acid
+2986	m02614c	nonanoic acid
+2987	m02614s	nonanoic acid
+2988	m02615c	nonanoyl-[ACP]
+2989	m02616m	nonanoyl-CoA
+2990	m02617c	noradrenaline
+2991	m02617s	noradrenaline
+2992	m02622c	normetanephrine
+2993	m02623c	N-pantothenoylcysteine
+2994	m02623m	N-pantothenoylcysteine
+2995	m02624c	N-retinylidene-N-retinylethanolamine
+2996	m02629c	O-1-alk-1-enyl-2-acyl-sn-glycero-3-phosphoethanolamine
+2997	m02630c	O2
+2998	m02631c	O2-
+2999	m02630m	O2
+3000	m02630n	O2
+3001	m02631n	O2-
+3002	m02630p	O2
+3003	m02631p	O2-
+3004	m02630r	O2
+3005	m02630s	O2
+3006	m02631s	O2-
+3007	m02632c	O2-4a-cyclic-tetrahydrobiopterin
+3008	m02632n	O2-4a-cyclic-tetrahydrobiopterin
+3009	m02633c	OAA
+3010	m02633m	OAA
+3011	m02634c	O-acetylcarnitine
+3012	m02634m	O-acetylcarnitine
+3013	m02634p	O-acetylcarnitine
+3014	m02634r	O-acetylcarnitine
+3015	m02635c	O-butanoylcarnitine
+3016	m02635m	O-butanoylcarnitine
+3017	m02636c	ocosatetraenoylcarnitine
+3018	m02636m	ocosatetraenoylcarnitine
+3019	m02636r	ocosatetraenoylcarnitine
+3020	m02637c	octadecatrienoylcarnitine
+3021	m02637m	octadecatrienoylcarnitine
+3022	m02637r	octadecatrienoylcarnitine
+3023	m02638c	octadecenoylcarnitine(11)
+3024	m02638m	octadecenoylcarnitine(11)
+3025	m02638r	octadecenoylcarnitine(11)
+3026	m02639c	octadecenoylcarnitine(5)
+3027	m02639m	octadecenoylcarnitine(5)
+3028	m02639r	octadecenoylcarnitine(5)
+3029	m02640c	octadecenoylcarnitine(7)
+3030	m02640m	octadecenoylcarnitine(7)
+3031	m02640r	octadecenoylcarnitine(7)
+3032	m02642c	octanoic acid
+3033	m02642s	octanoic acid
+3034	m02643c	octanoyl-[ACP]
+3035	m02644c	octanoyl-CoA
+3036	m02644m	octanoyl-CoA
+3037	m02644p	octanoyl-CoA
+3038	m02646c	oleate
+3039	m02646l	oleate
+3040	m02646r	oleate
+3041	m02646s	oleate
+3042	m02647c	oleoyl-CoA
+3043	m02647m	oleoyl-CoA
+3044	m02647p	oleoyl-CoA
+3045	m02647r	oleoyl-CoA
+3046	m02648c	omega-3-arachidonic acid
+3047	m02648l	omega-3-arachidonic acid
+3048	m02648r	omega-3-arachidonic acid
+3049	m02648s	omega-3-arachidonic acid
+3050	m02649m	omega-carboxy-trinor-LTB4
+3051	m02650p	omega-COOH-dinor-LTE4-CoA
+3052	m02657c	O-propanoylcarnitine
+3053	m02657m	O-propanoylcarnitine
+3054	m02657p	O-propanoylcarnitine
+3055	m02658c	ornithine
+3056	m02658m	ornithine
+3057	m02658s	ornithine
+3058	m02659c	orotate
+3059	m02660c	orotidine-5-phosphate
+3060	m02661c	oxalate
+3061	m02661m	oxalate
+3062	m02661s	oxalate
+3063	m02662c	oxalosuccinate
+3064	m02662m	oxalosuccinate
+3065	m02662p	oxalosuccinate
+3066	m02666c	oxidized thioredoxin
+3067	m02666m	oxidized thioredoxin
+3068	m02666n	oxidized thioredoxin
+3069	m02672g	PA6
+3070	m02672l	PA6
+3071	m02672s	PA6
+3072	m02674c	palmitate
+3073	m02674l	palmitate
+3074	m02674p	palmitate
+3075	m02674r	palmitate
+3076	m02674s	palmitate
+3077	m02675c	palmitolate
+3078	m02675l	palmitolate
+3079	m02675r	palmitolate
+3080	m02675s	palmitolate
+3081	m02676c	palmitoleoyl-carnitine
+3082	m02676m	palmitoleoyl-carnitine
+3083	m02676r	palmitoleoyl-carnitine
+3084	m02677c	palmitoleoyl-CoA
+3085	m02677m	palmitoleoyl-CoA
+3086	m02677p	palmitoleoyl-CoA
+3087	m02677r	palmitoleoyl-CoA
+3088	m02678c	palmitoyl-CoA
+3089	m02678m	palmitoyl-CoA
+3090	m02678p	palmitoyl-CoA
+3091	m02678r	palmitoyl-CoA
+3092	m02679c	pantetheine
+3093	m02679m	pantetheine
+3094	m02680c	pantothenate
+3095	m02680s	pantothenate
+3096	m02681c	PAP
+3097	m02681g	PAP
+3098	m02681l	PAP
+3099	m02682c	PAPS
+3100	m02682g	PAPS
+3101	m02682l	PAPS
+3102	m02683c	paragloboside
+3103	m02684c	PC-LD pool
+3104	m02684g	PC-LD pool
+3105	m02684l	PC-LD pool
+3106	m02684r	PC-LD pool
+3107	m02684s	PC-LD pool
+3108	m02685c	PE-LD pool
+3109	m02685l	PE-LD pool
+3110	m02685m	PE-LD pool
+3111	m02685r	PE-LD pool
+3112	m02686c	PE-NME-LD pool
+3113	m02687c	pentadecanoyl-[ACP]
+3114	m02688c	pentadecanoylcarnitine
+3115	m02688m	pentadecanoylcarnitine
+3116	m02688r	pentadecanoylcarnitine
+3117	m02689c	pentadecanoyl-CoA
+3118	m02689m	pentadecanoyl-CoA
+3119	m02689r	pentadecanoyl-CoA
+3120	m02690c	pentadecylic acid
+3121	m02690r	pentadecylic acid
+3122	m02690s	pentadecylic acid
+3123	m02691c	pentaglutamyl-folate(DHF)
+3124	m02691l	pentaglutamyl-folate(DHF)
+3125	m02691m	pentaglutamyl-folate(DHF)
+3126	m02691s	pentaglutamyl-folate(DHF)
+3127	m02692c	pentaglutamyl-folate(THF)
+3128	m02692l	pentaglutamyl-folate(THF)
+3129	m02692m	pentaglutamyl-folate(THF)
+3130	m02692s	pentaglutamyl-folate(THF)
+3131	m02693c	pentanoyl-[ACP]
+3132	m02694m	pentanoyl-CoA
+3133	m02696c	PEP
+3134	m02696m	PEP
+3135	m02697c	PE-PS-LD pool
+3136	m02715m	PG-CL pool
+3137	m02716c	PGH3
+3138	m02716n	PGH3
+3139	m02717m	PGP-CL pool
+3140	m02724c	phenylalanine
+3141	m02724l	phenylalanine
+3142	m02724m	phenylalanine
+3143	m02724s	phenylalanine
+3144	m02725c	phenylpyruvate
+3145	m02726c	phosphatidate-bile-PC pool
+3146	m02727m	phosphatidate-CL pool
+3147	m02728c	phosphatidate-LD-PC pool
+3148	m02728g	phosphatidate-LD-PC pool
+3149	m02728r	phosphatidate-LD-PC pool
+3150	m02729c	phosphatidate-LD-PE pool
+3151	m02730c	phosphatidate-LD-PI pool
+3152	m02731c	phosphatidate-LD-PS pool
+3153	m02732c	phosphatidate-LD-SM pool
+3154	m02733c	phosphatidate-LD-TAG pool
+3155	m02734c	phosphatidylinositol-3,4,5-trisphosphate
+3156	m02734n	phosphatidylinositol-3,4,5-trisphosphate
+3157	m02735c	phosphatidylinositol-3,5-bisphosphate
+3158	m02735r	phosphatidylinositol-3,5-bisphosphate
+3159	m02736c	phosphatidylinositol-4,5-bisphosphate
+3160	m02736n	phosphatidylinositol-4,5-bisphosphate
+3161	m02738c	phosphocholine
+3162	m02738l	phosphocholine
+3163	m02739c	phosphodimethylethanolamine
+3164	m02741c	phosphopantetheine
+3165	m02741m	phosphopantetheine
+3166	m02742c	phosphoprotein
+3167	m02745c	physeteric acid
+3168	m02745r	physeteric acid
+3169	m02745s	physeteric acid
+3170	m02746c	phytanic acid
+3171	m02746s	phytanic acid
+3172	m02747c	phytanoyl-CoA
+3173	m02747p	phytanoyl-CoA
+3174	m02750c	PI pool
+3175	m02750g	PI pool
+3176	m02750l	PI pool
+3177	m02750n	PI pool
+3178	m02750r	PI pool
+3179	m02751c	Pi
+3180	m02751g	Pi
+3181	m02751l	Pi
+3182	m02751m	Pi
+3183	m02751n	Pi
+3184	m02751p	Pi
+3185	m02751r	Pi
+3186	m02751s	Pi
+3187	m02754c	PNP
+3188	m02754s	PNP
+3189	m02756c	porphobilinogen
+3190	m02758c	PPE-NME2-LD pool
+3191	m02759c	PPi
+3192	m02759m	PPi
+3193	m02759n	PPi
+3194	m02759p	PPi
+3195	m02759r	PPi
+3196	m02759s	PPi
+3197	m02764c	presqualene-PP
+3198	m02766p	pristanic acid
+3199	m02769c	progesterone
+3200	m02770c	proline
+3201	m02770l	proline
+3202	m02770m	proline
+3203	m02770s	proline
+3204	m02771c	propane-1,2-diol
+3205	m02772c	propanoate
+3206	m02772m	propanoate
+3207	m02772s	propanoate
+3208	m02773c	propanoyl-[ACP]
+3209	m02774c	propanoyl-CoA
+3210	m02774m	propanoyl-CoA
+3211	m02774p	propanoyl-CoA
+3212	m02775c	propinol adenylate
+3213	m02775m	propinol adenylate
+3214	m02776c	prostaglandin A1
+3215	m02777c	prostaglandin A2
+3216	m02785c	prostaglandin E1
+3217	m02785s	prostaglandin E1
+3218	m02786c	prostaglandin E2
+3219	m02786r	prostaglandin E2
+3220	m02786s	prostaglandin E2
+3221	m02787c	prostaglandin E3
+3222	m02787n	prostaglandin E3
+3223	m02789c	prostaglandin F2alpha
+3224	m02789s	prostaglandin F2alpha
+3225	m02791c	prostaglandin G1
+3226	m02791r	prostaglandin G1
+3227	m02792r	prostaglandin G2
+3228	m02793c	prostaglandin H1
+3229	m02793r	prostaglandin H1
+3230	m02794c	prostaglandin H2
+3231	m02794r	prostaglandin H2
+3232	m02795r	prostaglandin I2
+3233	m02796c	prostaglandin J2
+3234	m02803c	protoporphyrin
+3235	m02803m	protoporphyrin
+3236	m02804c	protoporphyrinogen IX
+3237	m02804m	protoporphyrinogen IX
+3238	m02805c	provitamin D3
+3239	m02806c	PRPP
+3240	m02806s	PRPP
+3241	m02808c	PS-LD pool
+3242	m02808l	PS-LD pool
+3243	m02812c	putrescine
+3244	m02812s	putrescine
+3245	m02813c	pyridoxal
+3246	m02814c	pyridoxal-phosphate
+3247	m02815c	pyridoxamine
+3248	m02816c	pyridoxamine-phosphate
+3249	m02817c	pyridoxine
+3250	m02817s	pyridoxine
+3251	m02818c	pyridoxine-phosphate
+3252	m02819c	pyruvate
+3253	m02819m	pyruvate
+3254	m02819p	pyruvate
+3255	m02819s	pyruvate
+3256	m02822c	quinolinate
+3257	m02823c	quinonoid dihydrobiopterin
+3258	m02823n	quinonoid dihydrobiopterin
+3259	m02832c	retinal
+3260	m02832r	retinal
+3261	m02833c	retinoate
+3262	m02833r	retinoate
+3263	m02833s	retinoate
+3264	m02834c	retinol
+3265	m02834r	retinol
+3266	m02838c	retinyl-ester
+3267	m02842c	riboflavin
+3268	m02842s	riboflavin
+3269	m02843c	ribose
+3270	m02844c	ribose-1-phosphate
+3271	m02845c	ribose-5-phosphate
+3272	m02845r	ribose-5-phosphate
+3273	m02846c	ribulose-5-phosphate
+3274	m02846r	ribulose-5-phosphate
+3275	m02847c	RNA
+3276	m02850c	S-(1,2-dichlorovinyl)glutathione
+3277	m02853c	S-(2,2-dichloro-1-hydroxy)ethyl glutathione
+3278	m02856m	S-(2-methylbutanoyl)-dihydrolipoamide
+3279	m02857m	S-(2-methylpropanoyl)-dihydrolipoamide
+3280	m02858m	S-(3-methylbutanoyl)-dihydrolipoamide
+3281	m02859c	S-(9-deoxy-delta12-PGD2)-glutathione
+3282	m02860c	S-(9-deoxy-delta9,12-PGD2)-glutathione
+3283	m02861c	S-(formylmethyl)glutathione
+3284	m02862c	S-(PGA1)-glutathione
+3285	m02863c	S-(PGA2)-glutathione
+3286	m02864c	S-(PGJ2)-glutathione
+3287	m02867c	S-[2-carboxy-1-(1H-imidazol-4-yl)ethyl]-L-cysteine
+3288	m02868m	saccharopine
+3289	m02869m	S-acetyldihydrolipoamide
+3290	m02870c	S-adenosylmethioninamine
+3291	m02871c	SAH
+3292	m02871m	SAH
+3293	m02871n	SAH
+3294	m02871r	SAH
+3295	m02872c	SAICAR
+3296	m02875c	salsolinol
+3297	m02877c	SAM
+3298	m02877m	SAM
+3299	m02877n	SAM
+3300	m02877r	SAM
+3301	m02880c	sarcosine
+3302	m02883c	sedoheptulose-1,7-bisphosphate
+3303	m02884c	sedoheptulose-7-phosphate
+3304	m02885c	selenate
+3305	m02885s	selenate
+3306	m02886c	selenide
+3307	m02887c	selenite
+3308	m02891c	selenomethionine
+3309	m02896c	serine
+3310	m02896l	serine
+3311	m02896m	serine
+3312	m02896s	serine
+3313	m02897c	serotonin
+3314	m02897s	serotonin
+3315	m02899m	S-glutaryldihydrolipoamide
+3316	m02906g	sialyl-T antigen
+3317	m02908c	SM pool
+3318	m02908l	SM pool
+3319	m02910c	S-methyl-5-thio-D-ribulose-1-phosphate
+3320	m02912c	sn-glycerol-3-PC
+3321	m02913c	sn-glycerol-3-PE
+3322	m02914c	sn-glycerol-3-phosphate
+3323	m02914m	sn-glycerol-3-phosphate
+3324	m02923c	spermidine
+3325	m02926c	spermine
+3326	m02927c	sphinganine
+3327	m02927r	sphinganine
+3328	m02928c	sphinganine-1-phosphate
+3329	m02928r	sphinganine-1-phosphate
+3330	m02929c	sphingosine
+3331	m02929r	sphingosine
+3332	m02929s	sphingosine
+3333	m02930c	sphingosine-1-phosphate
+3334	m02930r	sphingosine-1-phosphate
+3335	m02930s	sphingosine-1-phosphate
+3336	m02931c	sphingosylphosphorylcholine
+3337	m02932c	squalene 2,3-oxide
+3338	m02933c	squalene
+3339	m02934m	S-succinyldihydrolipoamide
+3340	m02935c	STAR
+3341	m02938c	stearate
+3342	m02938l	stearate
+3343	m02938r	stearate
+3344	m02938s	stearate
+3345	m02939c	stearidonic acid
+3346	m02939l	stearidonic acid
+3347	m02939r	stearidonic acid
+3348	m02939s	stearidonic acid
+3349	m02940c	stearoylcarnitine
+3350	m02940m	stearoylcarnitine
+3351	m02940r	stearoylcarnitine
+3352	m02941c	stearoyl-CoA
+3353	m02941m	stearoyl-CoA
+3354	m02941p	stearoyl-CoA
+3355	m02941r	stearoyl-CoA
+3356	m02942m	succinate semialdehyde
+3357	m02943c	succinate
+3358	m02943m	succinate
+3359	m02943p	succinate
+3360	m02944c	succinyl-CoA
+3361	m02944m	succinyl-CoA
+3362	m02945s	sucrose
+3363	m02946c	sulfate
+3364	m02946l	sulfate
+3365	m02946m	sulfate
+3366	m02946s	sulfate
+3367	m02947g	sulfatide galactocerebroside
+3368	m02948l	sulfatide
+3369	m02949c	sulfite
+3370	m02949m	sulfite
+3371	m02952c	sulfotaurolithocholate
+3372	m02952s	sulfotaurolithocholate
+3373	m02954c	TAG epoxide
+3374	m02955c	tagatose-1,6-bisphosphate
+3375	m02956s	TAG-chylomicron pool
+3376	m02958c	TAG-LD pool
+3377	m02959s	TAG-VLDL pool
+3378	m02960g	T-antigen
+3379	m02961c	taurine
+3380	m02961p	taurine
+3381	m02961s	taurine
+3382	m02962c	taurochenodeoxycholate
+3383	m02962s	taurochenodeoxycholate
+3384	m02969c	testosterone
+3385	m02969r	testosterone
+3386	m02970c	tetracosanoylcarnitine
+3387	m02970r	tetracosanoylcarnitine
+3388	m02971c	tetracosanoyl-CoA
+3389	m02971p	tetracosanoyl-CoA
+3390	m02971r	tetracosanoyl-CoA
+3391	m02972c	tetradecanoyl-[ACP]
+3392	m02973c	tetradecanoylcarnitine
+3393	m02973m	tetradecanoylcarnitine
+3394	m02973r	tetradecanoylcarnitine
+3395	m02974c	tetradecenoylcarnitine(5)
+3396	m02974m	tetradecenoylcarnitine(5)
+3397	m02974r	tetradecenoylcarnitine(5)
+3398	m02975c	tetradecenoylcarnitine(7)
+3399	m02975m	tetradecenoylcarnitine(7)
+3400	m02975r	tetradecenoylcarnitine(7)
+3401	m02976c	tetradecenoylcarnitine(9)
+3402	m02976m	tetradecenoylcarnitine(9)
+3403	m02976r	tetradecenoylcarnitine(9)
+3404	m02978c	tetrahydrobiopterin
+3405	m02978n	tetrahydrobiopterin
+3406	m02980c	THF
+3407	m02980l	THF
+3408	m02980m	THF
+3409	m02980s	THF
+3410	m02981c	THF-hexaglutamate
+3411	m02982c	thiamin
+3412	m02982s	thiamin
+3413	m02984c	thiamin-PP
+3414	m02984m	thiamin-PP
+3415	m02986c	thiocyanate
+3416	m02986m	thiocyanate
+3417	m02990c	thioredoxin
+3418	m02990m	thioredoxin
+3419	m02990n	thioredoxin
+3420	m02991c	thiosulfate
+3421	m02991m	thiosulfate
+3422	m02993c	threonine
+3423	m02993l	threonine
+3424	m02993m	threonine
+3425	m02993s	threonine
+3426	m02996c	thymidine
+3427	m02996l	thymidine
+3428	m02996m	thymidine
+3429	m02996s	thymidine
+3430	m02997c	thymine
+3431	m02997s	thymine
+3432	m02998c	thyroxine
+3433	m02998s	thyroxine
+3434	m02999m	tiglyl-CoA
+3435	m03000g	Tn-antigen
+3436	m03000l	Tn-antigen
+3437	m03002c	trans,cis,cis,cis,cis-2,10,13,16,19-docosapentaenoyl-CoA
+3438	m03003c	trans,cis,cis,cis,cis-2,12,15,18,21-tetracosapentaenoyl-CoA
+3439	m03004c	trans,cis,cis,cis-2,10,13,16-docosatetraenoyl-CoA
+3440	m03005c	trans,cis,cis,cis-2,11,14,17-eicosatetraenoyl-CoA
+3441	m03006c	trans,cis,cis,cis-2,13,16,19-docosatetraenoyl-CoA
+3442	m03007c	trans,cis,cis-2,11,14-eicosatrienoyl-CoA
+3443	m03008c	trans,cis,cis-2,13,16-docasatrienoyl-CoA
+3444	m03009m	trans,cis,cis-2,7,10-hexadecatrienoyl-CoA
+3445	m03009p	trans,cis,cis-2,7,10-hexadecatrienoyl-CoA
+3446	m03010m	trans,cis,cis-2,9,12-octadecatrienoyl-CoA
+3447	m03010p	trans,cis,cis-2,9,12-octadecatrienoyl-CoA
+3448	m03011c	trans,cis-2,11-docosadienoyl-CoA
+3449	m03012c	trans,cis-2,11-eicosadienoyl-CoA
+3450	m03012m	trans,cis-2,11-eicosadienoyl-CoA
+3451	m03013c	trans,cis-2,13-docosadienoyl-CoA
+3452	m03013m	trans,cis-2,13-docosadienoyl-CoA
+3453	m03014c	trans,cis-2,13-eicosadienoyl-CoA
+3454	m03014m	trans,cis-2,13-eicosadienoyl-CoA
+3455	m03014p	trans,cis-2,13-eicosadienoyl-CoA
+3456	m03015c	trans,cis-2,15-tetracosadienoyl-CoA
+3457	m03015p	trans,cis-2,15-tetracosadienoyl-CoA
+3458	m03016c	trans,cis-2,17-hexacosadienoyl-CoA
+3459	m03016p	trans,cis-2,17-hexacosadienoyl-CoA
+3460	m03017c	trans,cis-2,8,11-eicosatrienoyl-CoA
+3461	m03018c	trans,cis-2,9-eicosadienoyl-CoA
+3462	m03019m	trans,cis-hexadeca-2,7-dienoyl-CoA
+3463	m03020m	trans,cis-hexadeca-2,9-dienoyl-CoA
+3464	m03020p	trans,cis-hexadeca-2,9-dienoyl-CoA
+3465	m03021m	trans,cis-lauro-2,6-dienoyl-CoA
+3466	m03022m	trans,cis-myristo-2,5-dienoyl-CoA
+3467	m03023m	trans,cis-myristo-2,7-dienoyl-CoA
+3468	m03023p	trans,cis-myristo-2,7-dienoyl-CoA
+3469	m03024m	trans,cis-octadeca-2,11-dienoyl-CoA
+3470	m03025m	trans,cis-octadeca-2,9-dienoyl-CoA
+3471	m03025p	trans,cis-octadeca-2,9-dienoyl-CoA
+3472	m03026c	trans,trans,cis-geranyl-geranyl-pp
+3473	m03027p	trans-2,3-dehydropristanoyl-CoA
+3474	m03028p	trans-2-all-cis-6,9,12,15,18-tetracosahexaenoyl-CoA
+3475	m03030m	trans-2-cis,cis-5,8-tetradecatrienoyl-CoA
+3476	m03030p	trans-2-cis,cis-5,8-tetradecatrienoyl-CoA
+3477	m03032c	trans-3,4-dihydro-3,4-dihydroxy-7,12-dimethylbenz[a]anthracene
+3478	m03035m	trans-3-decenoyl-CoA
+3479	m03035p	trans-3-decenoyl-CoA
+3480	m03037c	trans-4-hydroxy-L-proline
+3481	m03037m	trans-4-hydroxy-L-proline
+3482	m03038c	trans-5,6-dihydro-5,6-dihydroxy-7,12-dimethylbenz[a]anthracene
+3483	m03039s	trehalose
+3484	m03041c	trichloroacetate
+3485	m03043c	trichloroethanol
+3486	m03044c	trichloroethene
+3487	m03044s	trichloroethene
+3488	m03045c	tricosanoic acid
+3489	m03045r	tricosanoic acid
+3490	m03045s	tricosanoic acid
+3491	m03046c	tricosanoylcarnitine
+3492	m03046r	tricosanoylcarnitine
+3493	m03047c	tricosanoyl-CoA
+3494	m03047p	tricosanoyl-CoA
+3495	m03047r	tricosanoyl-CoA
+3496	m03048c	tridecanoyl-[ACP]
+3497	m03049c	tridecanoylcarnitine
+3498	m03049m	tridecanoylcarnitine
+3499	m03049r	tridecanoylcarnitine
+3500	m03050c	tridecanoyl-CoA
+3501	m03050m	tridecanoyl-CoA
+3502	m03050r	tridecanoyl-CoA
+3503	m03051c	tridecylic acid
+3504	m03051r	tridecylic acid
+3505	m03051s	tridecylic acid
+3506	m03052c	triiodothyronine
+3507	m03052s	triiodothyronine
+3508	m03055c	trioxilin A3
+3509	m03055p	trioxilin A3
+3510	m03055r	trioxilin A3
+3511	m03057c	triphosphate
+3512	m03057m	triphosphate
+3513	m03057n	triphosphate
+3514	m03063c	tRNA(ala)
+3515	m03064c	tRNA(arg)
+3516	m03065c	tRNA(asn)
+3517	m03066c	tRNA(asp)
+3518	m03067c	tRNA(cys)
+3519	m03068c	tRNA(gln)
+3520	m03069c	tRNA(glu)
+3521	m03070c	tRNA(gly)
+3522	m03071c	tRNA(his)
+3523	m03072c	tRNA(ile)
+3524	m03073c	tRNA(leu)
+3525	m03074c	tRNA(lys)
+3526	m03075c	tRNA(met)
+3527	m03076c	tRNA(phe)
+3528	m03077c	tRNA(pro)
+3529	m03078c	tRNA(ser)
+3530	m03079c	tRNA(thr)
+3531	m03080c	tRNA(trp)
+3532	m03081c	tRNA(tyr)
+3533	m03082c	tRNA(val)
+3534	m03088c	tryptamine
+3535	m03089c	tryptophan
+3536	m03089l	tryptophan
+3537	m03089s	tryptophan
+3538	m03099c	tyramine
+3539	m03100c	tyramine-O-sulfate
+3540	m03101c	tyrosine
+3541	m03101l	tyrosine
+3542	m03101m	tyrosine
+3543	m03101s	tyrosine
+3544	m03102m	ubiquinol
+3545	m03103m	ubiquinone
+3546	m03106c	UDP
+3547	m03106g	UDP
+3548	m03106l	UDP
+3549	m03106m	UDP
+3550	m03106n	UDP
+3551	m03106r	UDP
+3552	m03106s	UDP
+3553	m03107c	UDP-galactose
+3554	m03107g	UDP-galactose
+3555	m03107r	UDP-galactose
+3556	m03108c	UDP-glucose
+3557	m03108r	UDP-glucose
+3558	m03109c	UDP-glucuronate
+3559	m03109g	UDP-glucuronate
+3560	m03109r	UDP-glucuronate
+3561	m03110c	UDP-N-acetyl-D-galactosamine
+3562	m03110g	UDP-N-acetyl-D-galactosamine
+3563	m03110l	UDP-N-acetyl-D-galactosamine
+3564	m03111c	UDP-N-acetylglucosamine
+3565	m03111g	UDP-N-acetylglucosamine
+3566	m03111r	UDP-N-acetylglucosamine
+3567	m03112r	UDP-xylose
+3568	m03114c	UMP
+3569	m03114g	UMP
+3570	m03114l	UMP
+3571	m03114m	UMP
+3572	m03114n	UMP
+3573	m03114r	UMP
+3574	m03114s	UMP
+3575	m03115c	undecanoyl-[ACP]
+3576	m03116m	undecanoyl-CoA
+3577	m03117c	undecylic acid
+3578	m03117s	undecylic acid
+3579	m03118c	uracil
+3580	m03118s	uracil
+3581	m03120c	urate
+3582	m03120s	urate
+3583	m03121c	urea
+3584	m03121m	urea
+3585	m03121s	urea
+3586	m03123c	uridine
+3587	m03123l	uridine
+3588	m03123m	uridine
+3589	m03123s	uridine
+3590	m03127c	uroporphyrinogen I
+3591	m03128c	uroporphyrinogen III
+3592	m03130c	UTP
+3593	m03130m	UTP
+3594	m03130n	UTP
+3595	m03130s	UTP
+3596	m03134c	valeric acid
+3597	m03134s	valeric acid
+3598	m03135c	valine
+3599	m03135l	valine
+3600	m03135m	valine
+3601	m03135s	valine
+3602	m03136c	vanillylmandelate
+3603	m03142c	vitamin D3
+3604	m03142m	vitamin D3
+3605	m03146l	VLDL remnant
+3606	m03146s	VLDL remnant
+3607	m03147s	VLDL
+3608	m03148c	xanthine
+3609	m03149c	xanthosine
+3610	m03150c	xanthosine-5-phosphate
+3611	m03151c	xanthurenate
+3612	m03153c	ximenic acid
+3613	m03153r	ximenic acid
+3614	m03153s	ximenic acid
+3615	m03154c	XTP
+3616	m03154s	XTP
+3617	m03155c	xylitol
+3618	m03156g	Xyl-L-Ser-[protein]
+3619	m03156r	Xyl-L-Ser-[protein]
+3620	m03157c	zinc
+3621	m03157s	zinc
+3622	m03158c	zymosterol
+3623	m03161c	glycogen
+3624	m03168m	3-oxopropionyl-CoA
+3625	m00157x	(R)-3-hydroxybutanoate
+3626	m00228x	1,1-dichloroethylene
+3627	m00242x	1,2-dibromoethane
+3628	m00269x	10-formyl-THF-glu(7)
+3629	m00545x	1-nitronaphthalene
+3630	m00932x	4-(n-nitrosomethylamino)-1-(3-pyridyl)-1-butanone
+3631	m01020x	4-nitrophenyl-phosphate
+3632	m01100x	5-formyl-THF
+3633	m01174x	7,12-dimethylbenz[a]anthracene
+3634	m01256x	acetone
+3635	m01260x	acetylcholine
+3636	m01286x	ADP-glucose
+3637	m01287x	ADP-mannose
+3638	m01290x	adrenaline
+3639	m01296x	aflatoxin B1
+3640	m01327x	alpha-tocopherol
+3641	m01330x	alpha-tocotrienol
+3642	m01338x	androsterone
+3643	m01361x	aquacob(III)alamin
+3644	m01368x	ascorbate
+3645	m01370x	aspartate
+3646	m01374x	benzo[a]pyrene
+3647	m01383x	beta-alanine
+3648	m01401x	biotin
+3649	m01403x	bromobenzene
+3650	m01525x	chondroitin sulfate B - dermatan sulfate (IdoA2S-GalNAc4S) proteoglycan
+3651	m01533x	chondroitin sulfate C (GalNAc6S-GlcA) proteoglycan
+3652	m01543x	chondroitin sulfate D (GlcNAc6S-GlcA2S) proteoglycan
+3653	m01554x	chondroitin sulfate E (GalNAc4,6diS-GlcA) proteoglycan
+3654	m01570x	chylomicron
+3655	m01587x	citrate
+3656	m01588x	citrulline
+3657	m01714x	dITP
+3658	m01716x	D-lactate
+3659	m01736x	dopamine
+3660	m01796x	ethanol
+3661	m01913x	galactosylglycerol
+3662	m01935x	gamma-tocopherol
+3663	m01938x	gamma-tocotrienol
+3664	m01962x	glucosamine
+3665	m02023x	GQ1b
+3666	m02034x	GTP
+3667	m02054x	heparan sulfate proteoglycan
+3668	m02104x	heptaglutamyl-folate(DHF)
+3669	m02105x	heptaglutamyl-folate(THF)
+3670	m02145x	hydrogen-cyanide
+3671	m02161x	IDP
+3672	m02193x	ITP
+3673	m02278x	keratan sulfate I
+3674	m02288x	keratan sulfate II (core 2-linked)
+3675	m02303x	keratan sulfate II (core 4-linked)
+3676	m02337x	L-arabinose
+3677	m02353x	LDL
+3678	m02354x	L-dopa
+3679	m02362x	leukotriene A4
+3680	m02389x	linolenate
+3681	m02394x	lipoic acid
+3682	m02450x	maltose
+3683	m02453x	mannose
+3684	m02470x	methanol
+3685	m02510x	n2m2nmasn
+3686	m02552x	NAD+
+3687	m02554x	NADP+
+3688	m02556x	naphthalene
+3689	m02560x	NEFA blood pool in
+3690	m02617x	noradrenaline
+3691	m02631x	O2-
+3692	m02672x	PA6
+3693	m02680x	pantothenate
+3694	m02746x	phytanic acid
+3695	m02789x	prostaglandin F2alpha
+3696	m02817x	pyridoxine
+3697	m02833x	retinoate
+3698	m02885x	selenate
+3699	m02897x	serotonin
+3700	m02945x	sucrose
+3701	m02961x	taurine
+3702	m02982x	thiamin
+3703	m03039x	trehalose
+3704	m03044x	trichloroethene
+3705	m03052x	triiodothyronine
+3706	m03106x	UDP
+3707	m03130x	UTP
+3708	m03147x	VLDL
+3709	m03154x	XTP
+3710	m01004m	4-hydroxyphenyllactate
+3711	m00982m	4-coumaroyl-CoA
+3712	m00996m	4-hydroxybenzoyl-CoA
+3713	m02805r	provitamin D3
+3714	m01253p	acetoacetate
+3715	m00119p	(7Z,10Z,13Z,16Z)-docosatetraenoyl-CoA
+3716	alkylR1oh_p	Hydroxy Alkyl Chain
+3717	m01992s	glycogenin G4G7
+3718	glygn4_s	Glycogen, Structure 4 (Glycogenin-1,6-{2[1,4-Glc], [1,4-Glc]})
+3719	octd11ecoa_c	11-Octadecenoyl Coenzyme A
+3720	m00051c	(2E)-hexadecenoyl-CoA
+3721	dgcholcoa_p	Chenodeoxyglycocholoyl Coenzyme A
+3722	m01410m	butyrate
+3723	m00941r	4,4-dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol
+3724	m00367r	14-demethyllanosterol
+3725	m00953r	4alpha-carboxy-4beta-methyl-5alpha-cholesta-8,24-dien-3beta-ol
+3726	m00809r	3-keto-4-methylzymosterol
+3727	zym_int2_r	Zymosterol Intermediate 2
+3728	m03158r	zymosterol
+3729	m00121p	(7Z,10Z,13Z,16Z,19Z)-docosapentaenoyl-CoA
+3730	m02715c	PG-CL pool
+3731	2dpmhobq_m	2-Decaprenyl-5-Hydroxy-6-Methoxy-3-Methyl-1,4-Benzoquinone
+3732	2dp6mobq_m	2-Decaprenyl-6-Methoxy-1,4-Benzoquinone
+3733	2dp6mobq_me_m	2-Decaprenyl-6-Methoxy-3-Methyl-1,4-Benzoquinone
+3734	m00981m	4-coumarate
+3735	m00950p	4,8-dimethylnonanoylcarnitine
+3736	dmnoncoa_p	4,8-Dimethylnonanoyl Coenzyme A
+3737	m02733n	phosphatidate-LD-TAG pool
+3738	m01449r	cholestenol
+3739	m01066r	5alpha-cholesta-7,24-dien-3beta-ol
+3740	m02343r	lathosterol
+3741	m01675r	desmosterol
+3742	m01189r	7-dehydrodesmosterol
+3743	Ser_Thr_l	Protein-Linked Serine Or Threonine Residue (O-Glycosylation Site)
+3744	m01706p	dimethylallyl-PP
+3745	m01953p	geranyl-PP
+3746	m01731c	dolichyl-D-glucosyl-phosphate
+3747	m00164p	(R)-5-diphosphomevalonate
+3748	etfox_m	Electron Transfer Flavoprotein Oxidized
+3749	etfrd_m	Electron Transfer Flavoprotein Reduced
+3750	m00656s	2-lysolecithin pool
+3751	m01446s	cholest-5-ene-3beta,7alpha,24(S)-triol
+3752	pristcoa_c	Pristanoyl Coenzyme A
+3753	octd11ecoa_m	11-Octadecenoyl Coenzyme A
+3754	m00108p	(6Z,9Z,12Z,15Z)-octadecatetraenoyl-CoA
+3755	m00103p	(5Z,8Z,11Z,14Z,17Z)-eicosapentaenoyl-CoA
+3756	m01806p	farnesyl-PP
+3757	m01806r	farnesyl-PP
+3758	galgluside_hs_l	Galactosyl Glucosyl Ceramide
+3759	Ser_Thr_g	Protein-Linked Serine Or Threonine Residue (O-Glycosylation Site)
+3760	glyc_S_c	(S)-Glycerate
+3761	lnlncacrn_c	Alpha-Linolenyl Carnitine
+3762	lnlncacrn_m	Alpha-Linolenyl Carnitine
+3763	m02336r	lanosterol
+3764	m02932r	squalene 2,3-oxide
+3765	m00165p	(R)-5-phosphomevalonate
+3766	m02684m	PC-LD pool
+3767	pristcoa_p	Pristanoyl Coenzyme A
+3768	m02717c	PGP-CL pool
+3769	m02725m	phenylpyruvate
+3770	m02808m	PS-LD pool
+3771	phyt_p	Phytanate
+3772	m02933r	squalene
+3773	m00133m	(9Z,12Z,15Z,18Z,21Z)-tetracosapentaenoylcarnitine
+3774	m00109m	(6Z,9Z,12Z,15Z,18Z)-tetracosapentaenoylcarnitine
+3775	m00130m	(9Z,12Z,15Z,18Z)-tetracosatetraenoylcarnitine
+3776	m03103c	ubiquinone
+3777	m03102c	ubiquinol
+3778	m03039c	trehalose
+3779	m01155s	6-[(1S,2R)-1,2-dihydroxy-3-triphosphooxypropyl]-7,8-dihydropterin
+3780	m01686s	dGMP
+3781	m01688s	dGTP
+3782	m03127s	uroporphyrinogen I
+3783	m01605s	coproporphyrinogen I
+3784	m02011s	GM2
+3785	m02008s	GM1
+3786	m02764r	presqualene-PP
+3787	m00968r	4alpha-methylzymosterol
+3788	m00051r	(2E)-hexadecenoyl-CoA
+3789	HC02097_c	3-Oxostearoyl-ACP
+3790	HC02098_c	3-Hydroxystearoyl-ACP
+3791	HC02099_c	(2E)-Octadecenoyl-ACP
+3792	HC01988_c	Stearoyl-ACP
+3793	m01597s	CoA
+3794	m02444s	malonyl-CoA
+3795	m01773s	eicosanoyl-CoA
+3796	m00866s	3-oxodocosanoyl-CoA
+3797	m02736m	phosphatidylinositol-4,5-bisphosphate
+3798	m00554m	1-phosphatidyl-1D-myo-inositol-5-phosphate
+3799	m01182m	7alpha-hydroxycholest-4-en-3-one
+3800	m00570s	2,3-cyclic-UMP
+3801	m00921s	3-UMP
+3802	m02734r	phosphatidylinositol-3,4,5-trisphosphate
+3803	m00751c	3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-27-al
+3804	m01430s	ceramide pool
+3805	m02675m	palmitolate
+3806	C03968_c	1-Alkyl-Sn-Glycerol 3-Phosphate
+3807	CE5117_m	(3E,5Z,8Z)-Tetradecatrienoyl Coenzyme A
+3808	CE5118_m	Trans-2-Cis,Cis-4,8-Tetradecatrienoyl Coenzyme A
+3809	CE5119_m	Trans-3-Cis-8-Tetradecadienoyl Coenzyme A
+3810	CE5120_m	Trans-2-Cis-8-Tetradecadienoyl Coenzyme A
+3811	CE4790_m	(3S)-3-Hydroxy-Cis-8-Tetradecenoyl Coenzyme A
+3812	CE4792_m	3-Oxo-Cis-8-Tetradecenoyl Coenzyme A
+3813	CE4794_m	Cis-6-Dodecenoyl Coenzyme A
+3814	CE5123_p	3(S)-2-Hydroxyphytanoyl Coenzyme A
+3815	m01769r	eicosa-(2E,8Z,11Z,14Z,17Z)-pentaenoyl-CoA
+3816	m00811r	3-keto-eicosa-8,11,14,17-all-cis-tetraenoyl-CoA
+3817	m00708r	3(S)-hydroxy-all-cis-8,11,14,17-eicosatetraenoyl-CoA
+3818	m00679r	2-trans-7,10,13,16,19-all-cis-docosahexaenoyl-CoA
+3819	m00863r	3-oxo-docosa-7,10,13,16,19-all-cis-pentaenoyl-CoA
+3820	m00713r	3(S)-hydroxy-docosa-7,10,13,16,19-all-cis-pentaenoyl-CoA
+3821	CE2313_c	4,4-Dimethylcholesta-8(9),14-Dien-3Beta-Ol
+3822	m00716r	3(S)-hydroxy-tetracosa-12,15,18,21-all-cis-tetraenoyl-CoA
+3823	m00870r	3-oxoeicosa-cis,cis-11,14-dienoyl-CoA
+3824	m00087r	(3S)-hydroxy-eicosa-cis,cis-11,14-dienoyl-CoA
+3825	m03007r	trans,cis,cis-2,11,14-eicosatrienoyl-CoA
+3826	m00865r	3-oxo-docosa-cis,cis,cis-10,13,16-trienoyl-CoA
+3827	m00698r	3(S)-hydroxy-10,13,16-all-cis-docosatrienoyl-CoA
+3828	m03004r	trans,cis,cis,cis-2,10,13,16-docosatetraenoyl-CoA
+3829	m03002r	trans,cis,cis,cis,cis-2,10,13,16,19-docosapentaenoyl-CoA
+3830	m00861r	3-oxo-docosa-10,13,16,19-all-cis-tetraenoyl-CoA
+3831	m00711r	3(S)-hydroxy-docosa-10,13,16,19-all-cis-tetraenoyl-CoA
+3832	m03003r	trans,cis,cis,cis,cis-2,12,15,18,21-tetracosapentaenoyl-CoA
+3833	m00901r	3-oxo-tetracosa-12,15,18,21-all-cis-tetraenoyl-CoA
+3834	m00840r	3-oxo-11-cis-eicosenoyl-CoA
+3835	m00842r	3-oxo-13cis-docosenoyl-CoA
+3836	m00856r	3-oxo-cis-15-tetracosaenoyl-CoA
+3837	m00700r	3(S)-hydroxy-11-cis-eicosenoyl-CoA
+3838	m03012r	trans,cis-2,11-eicosadienoyl-CoA
+3839	m00701r	3(S)-hydroxy-13-cis-docosenoyl-CoA
+3840	m03013r	trans,cis-2,13-docosadienoyl-CoA
+3841	m00709r	3(S)-hydroxy-cis-15-tetracosaenoyl-CoA
+3842	m03015r	trans,cis-2,15-tetracosadienoyl-CoA
+3843	CE5160_c	3-Oxo-Cis-9-Octadecenoyl Coenzyme A
+3844	CE5160_r	3-Oxo-Cis-9-Octadecenoyl Coenzyme A
+3845	CE5161_r	3(S)-Hydroxy-Cis-9-Octadecenoyl Coenzyme A
+3846	CE5162_r	Trans,Cis-2,9-Octadecadienoyl Coenzyme A
+3847	m00252r	10,11-dihydro-12-epi-LTB4
+3848	m01123m	5-oxo-12-HETE
+3849	m01126m	5-oxo-ETE
+3850	m02999c	tiglyl-CoA
+3851	m00159c	(R)-3-hydroxybutanoyl-CoA
+3852	adpcoa_c	Adipoyl Coenzyme A
+3853	adpac_p	Adipic Acid
+3854	adpcoa_p	Adipoyl Coenzyme A
+3855	c6dc_p	Adipoyl Carnitine
+3856	3bcrn_c	3-Hydroxy Butyryl Carnitine
+3857	c10crn_c	Decanoyl Carnitine
+3858	c10dc_p	Sebacoyl Carnitine
+3859	c10dc_c	Sebacoyl Carnitine
+3860	sebcoa_c	Sebacoyl Coenzyme A
+3861	m00181c	(S)-hydroxydecanoyl-CoA
+3862	3deccrn_c	3-Hydroxydecanoylcarnitine
+3863	ddeccrn_c	Lauroyl Carnitine
+3864	c12dccoa_p	Dodecanedioyl Coenzyme A
+3865	dodecanac_p	Dodecanedioic Acid
+3866	c12dccoa_c	Dodecanedioyl Coenzyme A
+3867	c12dc_c	Dodecanedioyl Carnitine
+3868	c12dc_s	Dodecanedioyl Carnitine
+3869	m00174c	(S)-3-hydroxydodecanoyl-CoA
+3870	3ddcrn_c	3-Hydroxydodecanoylcarnitine
+3871	3tetd7ecoa_m	3-Hydroxy Tetradecenoyl-7 Coenzyme A
+3872	3tetd7ecoa_c	3-Hydroxy Tetradecenoyl-7 Coenzyme A
+3873	3tetd7ecoacrn_c	3-Hydroxy Tetradecenoyl-7-Carnitine
+3874	3ttetddcoa_m	3-Hydroxy Trans5,8Tetradecadienoyl Coenzyme A
+3875	3ttetddcoa_c	3-Hydroxy Trans5,8Tetradecadienoyl Coenzyme A
+3876	tetdec2coa_c	Tetradecadienoyl Coenzyme A
+3877	tetdec2crn_c	Tetradecadienoyl Carnitine
+3878	3ttetddcoacrn_c	3-Hydroxy Trans5,8Tetradecadienoyl Carnitine
+3879	m00178c	(S)-3-hydroxytetradecanoyl-CoA
+3880	3tdcrn_c	3-Hydroxy-Tetradecanoyl Carnitine
+3881	3hdeccoa_c	3-Hydroxyhexadecenoyl Coenzyme A
+3882	3hdececrn_c	3-Hydroxyhexadecenoylcarnitine
+3883	3thexddcoa_m	3-Hydroxy Trans7,10-Hexadecadienoyl Coenzyme A
+3884	3thexddcoa_c	3-Hydroxy Trans7,10-Hexadecadienoyl Coenzyme A
+3885	3thexddcoacrn_c	3-Hydroxy Trans7,10-Hexadecadienoyl Carnitine
+3886	hexdicoa_c	Hexadecanedioyl Coenzyme A
+3887	c16dc_c	Hexadecanedioic Acid Mono-L-Carnitine Ester
+3888	c16dc_s	Hexadecanedioic Acid Mono-L-Carnitine Ester
+3889	3hexdcoa_c	3-Hydroxyhexadecanoyl Coenzyme A
+3890	3hexdcrn_c	3-Hydroxyhexadecanoylcarnitine
+3891	3ocddcoa_c	3-Hydroxyoctadecadienoyl Coenzyme A
+3892	3octdec2crn_c	3-Hydroxyoctadecadienoylcarnitine
+3893	3hodcoa_c	(S)-3-Hydroxyoctadecanoyl Coenzyme A
+3894	3octdeccrn_c	3-Hydroxyoctadecanoyl Carnitine
+3895	c3dc_c	Malonyl Carnitine
+3896	c4dc_p	Succinyl Carnitine
+3897	c4dc_c	Succinyl Carnitine
+3898	m02635p	O-butanoylcarnitine
+3899	m02189c	isovaleryl-CoA
+3900	ivcrn_c	Isovaleryl Carnitine
+3901	c51crn_c	Tiglyl Carnitine
+3902	c5dc_c	Glutaryl Carnitine
+3903	c6crn_c	Hexanoyl Carnitine
+3904	c6crn_p	Hexanoyl Carnitine
+3905	c6dc_c	Adipoyl Carnitine
+3906	sbcoa_c	Suberyl Coenzyme A
+3907	c8dc_c	Suberyl Carnitine
+3908	c8dc_s	Suberyl Carnitine
+3909	doco13ecoa_c	13-Docosenoyl Coenzyme A
+3910	dec47dicoa_m	4,7-Decadienoyl Coenzyme A
+3911	dectricoa_m	2,4,7-Decatrienoyl Coenzyme A
+3912	dec47dicoa_p	4,7-Decadienoyl Coenzyme A
+3913	dectricoa_p	2,4,7-Decatrienoyl Coenzyme A
+3914	2decdicoa_m	2,7-Decadienoyl Coenzyme A
+3915	octe5coa_m	5-Octenoyl Coenzyme A
+3916	2decdicoa_p	2,7-Decadienoyl Coenzyme A
+3917	octe5coa_p	5-Octenoyl Coenzyme A
+3918	3decdicoa_m	3,7-Decadienoyl Coenzyme A
+3919	3decdicoa_p	3,7-Decadienoyl Coenzyme A
+3920	sebcoa_p	Sebacoyl Coenzyme A
+3921	sbcoa_p	Suberyl Coenzyme A
+3922	undcoa_m	Undecanoyl Coenzyme A
+3923	dd5ecoa_m	5-Dodecenoyl Coenzyme A
+3924	2ddecdicoa_m	2,6-Dodecadienoyl Coenzyme A
+3925	3ddecdicoa_m	3,6-Dodecadienoyl Coenzyme A
+3926	2ddecdicoa_p	2,6-Dodecadienoyl Coenzyme A
+3927	3ddecdicoa_p	3,6-Dodecadienoyl Coenzyme A
+3928	2dodtricoa_m	2,6,9-Dodecatrienoyl Coenzyme A
+3929	2dodtricoa_p	2,6,9-Dodecatrienoyl Coenzyme A
+3930	3dodtricoa_m	3,6,9-Dodecatrienoyl Coenzyme A
+3931	3dodtricoa_p	3,6,9-Dodecatrienoyl Coenzyme A
+3932	c12dc_p	Dodecanedioyl Carnitine
+3933	tridcoa_m	Tridecanoyl Coenzyme A
+3934	tetd7ecoa_m	7-Tetradecenoyl Coenzyme A
+3935	tetdecdicoa_m	5,8-Tetradecadienoyl Coenzyme A
+3936	tetdecdicoa_p	5,8-Tetradecadienoyl Coenzyme A
+3937	ttetddcoa_m	Trans5,8Tetradecadienoyl Coenzyme A
+3938	5tedtricoa_m	5,8,11-Tetradecatrienoyl Coenzyme A
+3939	5tedtricoa_p	5,8,11-Tetradecatrienoyl Coenzyme A
+3940	3hdeccoa_m	3-Hydroxyhexadecenoyl Coenzyme A
+3941	hexddcoa_m	7,10-Hexadecadienoyl Coenzyme A
+3942	thexddcoa_m	Trans7,10-Hexadecadienoyl Coenzyme A
+3943	2hexdtricoa_p	2,7,10-Hexadecatrienoyl Coenzyme A
+3944	hexdtrcoa_m	7,10,13-Hexadecatrienoyl Coenzyme A
+3945	4hexdtricoa_m	4,7,10-Hexadecatrienoyl Coenzyme A
+3946	hexdectecoa_m	2,4,7,10-Hexadecatetraenoyl Coenzyme A
+3947	4hexdtricoa_p	4,7,10-Hexadecatrienoyl Coenzyme A
+3948	hexdectecoa_p	2,4,7,10-Hexadecatetraenoyl Coenzyme A
+3949	2hexdtricoa_m	2,7,10-Hexadecatrienoyl Coenzyme A
+3950	3hexdtricoa_m	3,7,10-Hexadecatrienoyl Coenzyme A
+3951	3hexdtricoa_p	3,7,10-Hexadecatrienoyl Coenzyme A
+3952	2hexdtetcoa_m	2,7,10,13-Hexadecatetraenoyl Coenzyme A
+3953	2hexdtetcoa_p	2,7,10,13-Hexadecatetraenoyl Coenzyme A
+3954	4hexdtetcoa_m	4,7,10,13-Hexadecatetraenoyl Coenzyme A
+3955	hexdpencoa_m	2,4,7,10,13-Hexadecapentaenoyl Coenzyme A
+3956	4hexdtetcoa_p	4,7,10,13-Hexadecatetraenoyl Coenzyme A
+3957	hexdpencoa_p	2,4,7,10,13-Hexadecapentaenoyl Coenzyme A
+3958	3hexdtetcoa_m	3,7,10,13-Hexadecatetraenoyl Coenzyme A
+3959	3hexdtetcoa_p	3,7,10,13-Hexadecatetraenoyl Coenzyme A
+3960	3hexdcoa_m	3-Hydroxyhexadecanoyl Coenzyme A
+3961	hexdicoa_p	Hexadecanedioyl Coenzyme A
+3962	hexdicoa_r	Hexadecanedioyl Coenzyme A
+3963	3ocddcoa_m	3-Hydroxyoctadecadienoyl Coenzyme A
+3964	2octdectecoa_m	2,6,9,12-Octadecatetraenoyl Coenzyme A
+3965	2octdectecoa_p	2,6,9,12-Octadecatetraenoyl Coenzyme A
+3966	3octdectecoa_m	3,6,9,12-Octadecatetraenoyl Coenzyme A
+3967	3octdectecoa_p	3,6,9,12-Octadecatetraenoyl Coenzyme A
+3968	2octpencoa_m	2,6,9,12,15-Octadecapentenoyl Coenzyme A
+3969	3octpencoa_m	3,6,9,12,15-Octadecapentenoyl Coenzyme A
+3970	3hodcoa_m	(S)-3-Hydroxyoctadecanoyl Coenzyme A
+3971	eitetcoa_m	5,8,11,14-Eicosatetraenoyl Coenzyme A
+3972	eitetcoa_p	5,8,11,14-Eicosatetraenoyl Coenzyme A
+3973	eipencoa_p	2,5,8,11,14-Eicosapentaenoyl Coenzyme A
+3974	5eipencoa_m	5,8,11,14,17-Eicosapentenoyl Coenzyme A
+3975	2docopencoa_m	2,7,10,13,16-Docosapentenoyl Coenzyme A
+3976	2docopencoa_p	2,7,10,13,16-Docosapentenoyl Coenzyme A
+3977	docohexcoa_m	2,4,7,10,13,16-Docosahexenoyl Coenzyme A
+3978	docohexcoa_p	2,4,7,10,13,16-Docosahexenoyl Coenzyme A
+3979	3docopencoa_m	3,7,10,13,16-Docosapentenoyl Coenzyme A
+3980	3docopencoa_p	3,7,10,13,16-Docosapentenoyl Coenzyme A
+3981	2docohexecoa_m	2,7,10,13,16,19-Docosahexenoyl Coenzyme A
+3982	docohepcoa_m	2,4,7,10,13,16,19-Docosaheptenoyl Coenzyme A
+3983	docosahexcoa_m	3,7,10,13,16,19-Docosahexenoyl Coenzyme A
+3984	m01977c	glutaryl-CoA
+3985	3ivcoa_m	3-Hydroxyisovaleryl Coenzyme A
+3986	3ivcrn_c	3-Hydroxy-Isovaleryl Carnitine
+3987	3ivcoa_c	3-Hydroxyisovaleryl Coenzyme A
+3988	hexe3coa_m	3-Hexenoyl Coenzyme A
+3989	hexe3coa_p	3-Hexenoyl Coenzyme A
+3990	m02944p	succinyl-CoA
+3991	tdec4ecoa_m	Trans4Decenoyl Coenzyme A
+3992	ctdecdcoa_m	Cis2Trans4Decadienoyl Coenzyme A
+3993	tddedi2coa_m	Trans2,6Dodecadienoyl Coenzyme A
+3994	tddedicoa_m	Trans3,6Dodecadienoyl Coenzyme A
+3995	ocdececrn_c	11-Octadecenoyl Carnitine
+3996	ocdececrn_m	11-Octadecenoyl Carnitine
+3997	subeac_p	Suberic Acid
+3998	c8dc_p	Suberyl Carnitine
+3999	m03037s	trans-4-hydroxy-L-proline
+4000	alaala_c	D-Alanyl-D-Alanine
+4001	glygly_c	Glycyl-Glycine
+4002	glypro_c	Glycylproline
+4003	glysar_c	Glycylsarcosine
+4004	leuleu_c	Leucylleucine
+4005	progly_c	L-Prolinylglycine
+4006	m01828s	FMN
+4007	m02319s	kynurenine
+4008	m00788s	3-hydroxy-L-kynurenine
+4009	m02822s	quinolinate
+4010	m02832s	retinal
+4011	m02411s	L-palmitoylcarnitine
+4012	ttdceacoa_c	Tetradecenoyl Coenzyme A (N-C14:1)
+4013	pcholmyr_hs_s	1-Myristoylglycerophosphocholine
+4014	pcholole_hs_s	1-Oleoylglycerophosphocholine (Delta 9)
+4015	peole_hs_s	1-Oleoylglycerophosphoethanolamine (Delta 9)
+4016	pcholpalme_hs_s	1-Palmitoleoylglycerophosphocholine (Delta 9)
+4017	pcholpalm_hs_s	1-Palmitoylglycerophosphocholine
+4018	pepalm_hs_s	1-Palmitoylglycerophosphoethanolamine
+4019	pcholste_hs_s	1-Stearoylglycerophosphocholine
+4020	peste_hs_s	1-Stearoylglycerophosphoethanolamine
+4021	pchol2linl_hs_s	2-Linoleoylglycerophosphocholine
+4022	pe2linl_hs_s	2-Linoleoylglycerophosphoethanolamine
+4023	pchol2ole_hs_s	2-Oleoylglycerophosphocholine
+4024	pchol2ste_hs_s	2-Stearoylglycerophosphocholine
+4025	pcholn15_hs_s	1-Pentadecanoylglycerophosphocholine, Sn1-Lpc (15:0)
+4026	pcholar_hs_s	1-Arachidonoyl-Glycero-3-Phosphocholine
+4027	pcholn183_hs_s	1-Octadeca-Trienoylglycerophosphocholine, Sn1-Lpc (18:3, Delta 9, 12, 15)
+4028	pcholn1836_hs_s	1-Octadeca-Trienoylglycerophosphocholine, Sn1-Lpc (18:3, Delta 6, 9, 12)
+4029	pcholn19_hs_s	1-Nonadecanoylglycerophosphocholine, Sn1-Lpc (19:0)
+4030	pcholn201_hs_s	1-Eicosenoylglycerophosphocholine (Delta 11) ,Sn1-Lpc (20:1)
+4031	pcholn204_hs_s	1-Eicosatetraenoylglycerophosphocholine (Delta 8, 11, 14, 17), Sn1-Lpc (20:4)
+4032	pcholn205_hs_s	1-Eicosapentenoylglycerophosphocholine (Delta 5, 8, 11, 14, 17), Sn1-Lpc (20:5)
+4033	pcholn224_hs_s	1-Docosatetraenoylglycerophosphocholine (Delta 7, 10, 13, 16), Sn1-Lpc (22:4)
+4034	pcholn225_hs_s	1-Docosapentenoylglycerophosphocholine (Delta 7, 10, 13, 16, 19), Sn1-Lpc (22:5)-W3
+4035	pcholn2254_hs_s	1-Docosapentenoylglycerophosphocholine (Delta 4, 7, 10, 13, 16), Sn1-Lpc (22:5)-W6
+4036	pcholn226_hs_s	1-Docosahexenoylglycerophosphocholine (Delta 4, 7, 10, 13, 16, 19), Sn1-Lpc (22:6)
+4037	pear_hs_s	1-Arachidonoyl-Sn-Glycero-3-Phosphoethanolamine
+4038	pe203_hs_s	1-Eicosatrienoylglycerophosphoethanolamine (Delta 11, 14, 17), Lpe (20:3)
+4039	pe226_hs_s	1-Docosahexenoylglyceroethanolamine (Delta 4, 7, 10, 13, 16, 19), Lpe (22:6)
+4040	pedh203_hs_s	1-Dihomo-Linolenoylglycerophosphoethanolamine (20:3, Delta 8, 11, 14)
+4041	pe12_hs_s	1-Didecanoylglycerophosphoethanolamine (C12:0 Pe)
+4042	pe14_hs_s	1-Myristoylglycerophosphoethanolamine (C14:0 Pe)
+4043	pe161_hs_s	1-Hexadecenoylglycerophosphoethanolamine (C16:1 Pe, Delta 9)
+4044	pe13_hs_s	1-Tridecanoylglycerophosphoethanolamine (C13:0 Pe)
+4045	pe15_hs_s	1-Pentadecanoylglycerophosphoethanolamine (C15:0 Pe)
+4046	pe17_hs_s	1-Heptadecanoylglycerophosphoethanolamine (C17:0 Pe)
+4047	pcholn203_hs_s	1-Dihomo-Linolenoylglycerophosphocholine (20:3, Delta 8, 11, 14), Lysopc A C20:3
+4048	pcholn24_hs_s	1-Lignocericylglycerophosphocholine (24:0), Lysopc A C24
+4049	pcholdoc_hs_s	1-Docosahexaenoylglycerophosphocholine
+4050	pcholeic_hs_s	1-Eicosadienoylglycerophosphocholine (Delta 11,14)
+4051	pcholet_hs_s	1-Eicosatrienoylglycerophosphocholine (Delta 11, 14, 17)
+4052	pcholhep_hs_s	1-Heptadecanoylglycerophosphocholine
+4053	pchollinl_hs_s	1-Linoleoylglycerophosphocholine (Delta 9,12)
+4054	pelinl_hs_s	1-Linoleoylglycerophosphoethanolamine (Delta 9,12)
+4055	sphmyln18114_hs_c	Sm (D18:1/14:0), Sphingomyelin
+4056	sphmyln18121_hs_c	Sm (D18:1/21:0), Sphingomyelin
+4057	sphmyln181221_hs_c	Sm (D18:1/22:1), Sphingomyelin
+4058	sphmyln18122_hs_c	Sm (D18:1/22:0), Sphingomyelin
+4059	sphmyln18123_hs_c	Sm (D18:1/23:0), Sphingomyelin
+4060	sphmyln180241_hs_c	Sm (D18:0/24:1), Sphingomyelin
+4061	sphmyln1824_hs_c	Sm (D18:0/24:0), Sphingomyelin
+4062	sphmyln1825_hs_c	Sm (D18:0/25:0), Sphingomyelin
+4063	sphmyln18115_hs_c	Sm (D18:1/15:0), Sphingomyelin
+4064	sphmyln181161_hs_c	Sm (D18:1/16:1), Sphingomyelin
+4065	sphmyln18116_hs_c	Sm (D18:1/16:0), Sphingomyelin
+4066	sphmyln18117_hs_c	Sm (D18:1/17:0), Sphingomyelin
+4067	sphmyln18118_hs_c	Sm (D18:1/18:0), Sphingomyelin
+4068	sphmyln181181_hs_c	Sm (D18:1/18:1), Sphingomyelin
+4069	sphmyln181201_hs_c	Sm (D18:1/20:1), Sphingomyelin
+4070	sphmyln18120_hs_c	Sm (D18:1/20:0), Sphingomyelin
+4071	pcholmyr_hs_c	1-Myristoylglycerophosphocholine
+4072	pcholole_hs_c	1-Oleoylglycerophosphocholine (Delta 9)
+4073	peole_hs_c	1-Oleoylglycerophosphoethanolamine (Delta 9)
+4074	pcholpalme_hs_c	1-Palmitoleoylglycerophosphocholine (Delta 9)
+4075	pcholpalm_hs_c	1-Palmitoylglycerophosphocholine
+4076	pepalm_hs_c	1-Palmitoylglycerophosphoethanolamine
+4077	pcholste_hs_c	1-Stearoylglycerophosphocholine
+4078	pchol2linl_hs_c	2-Linoleoylglycerophosphocholine
+4079	pe2linl_hs_c	2-Linoleoylglycerophosphoethanolamine
+4080	pchol2ole_hs_c	2-Oleoylglycerophosphocholine
+4081	pchol2ste_hs_c	2-Stearoylglycerophosphocholine
+4082	pcholn15_hs_c	1-Pentadecanoylglycerophosphocholine, Sn1-Lpc (15:0)
+4083	pcholar_hs_c	1-Arachidonoyl-Glycero-3-Phosphocholine
+4084	pcholn183_hs_c	1-Octadeca-Trienoylglycerophosphocholine, Sn1-Lpc (18:3, Delta 9, 12, 15)
+4085	pcholn1836_hs_c	1-Octadeca-Trienoylglycerophosphocholine, Sn1-Lpc (18:3, Delta 6, 9, 12)
+4086	pcholn19_hs_c	1-Nonadecanoylglycerophosphocholine, Sn1-Lpc (19:0)
+4087	pcholn201_hs_c	1-Eicosenoylglycerophosphocholine (Delta 11) ,Sn1-Lpc (20:1)
+4088	pcholn204_hs_c	1-Eicosatetraenoylglycerophosphocholine (Delta 8, 11, 14, 17), Sn1-Lpc (20:4)
+4089	pcholn205_hs_c	1-Eicosapentenoylglycerophosphocholine (Delta 5, 8, 11, 14, 17), Sn1-Lpc (20:5)
+4090	pcholn224_hs_c	1-Docosatetraenoylglycerophosphocholine (Delta 7, 10, 13, 16), Sn1-Lpc (22:4)
+4091	pcholn225_hs_c	1-Docosapentenoylglycerophosphocholine (Delta 7, 10, 13, 16, 19), Sn1-Lpc (22:5)-W3
+4092	pcholn2254_hs_c	1-Docosapentenoylglycerophosphocholine (Delta 4, 7, 10, 13, 16), Sn1-Lpc (22:5)-W6
+4093	pcholn226_hs_c	1-Docosahexenoylglycerophosphocholine (Delta 4, 7, 10, 13, 16, 19), Sn1-Lpc (22:6)
+4094	pear_hs_c	1-Arachidonoyl-Sn-Glycero-3-Phosphoethanolamine
+4095	pe203_hs_c	1-Eicosatrienoylglycerophosphoethanolamine (Delta 11, 14, 17), Lpe (20:3)
+4096	pe226_hs_c	1-Docosahexenoylglyceroethanolamine (Delta 4, 7, 10, 13, 16, 19), Lpe (22:6)
+4097	pedh203_hs_c	1-Dihomo-Linolenoylglycerophosphoethanolamine (20:3, Delta 8, 11, 14)
+4098	pe12_hs_c	1-Didecanoylglycerophosphoethanolamine (C12:0 Pe)
+4099	pe14_hs_c	1-Myristoylglycerophosphoethanolamine (C14:0 Pe)
+4100	pe161_hs_c	1-Hexadecenoylglycerophosphoethanolamine (C16:1 Pe, Delta 9)
+4101	pe13_hs_c	1-Tridecanoylglycerophosphoethanolamine (C13:0 Pe)
+4102	pe15_hs_c	1-Pentadecanoylglycerophosphoethanolamine (C15:0 Pe)
+4103	pe17_hs_c	1-Heptadecanoylglycerophosphoethanolamine (C17:0 Pe)
+4104	pcholn203_hs_c	1-Dihomo-Linolenoylglycerophosphocholine (20:3, Delta 8, 11, 14), Lysopc A C20:3
+4105	pcholn24_hs_c	1-Lignocericylglycerophosphocholine (24:0), Lysopc A C24
+4106	pcholdoc_hs_c	1-Docosahexaenoylglycerophosphocholine
+4107	pcholeic_hs_c	1-Eicosadienoylglycerophosphocholine (Delta 11,14)
+4108	pcholet_hs_c	1-Eicosatrienoylglycerophosphocholine (Delta 11, 14, 17)
+4109	pcholhep_hs_c	1-Heptadecanoylglycerophosphocholine
+4110	pchollinl_hs_c	1-Linoleoylglycerophosphocholine (Delta 9,12)
+4111	pelinl_hs_c	1-Linoleoylglycerophosphoethanolamine (Delta 9,12)
+4112	glyc2p_c	Glycerol 2-Phosphate
+4113	m01042s	5(S)-HPETE
+4114	m00337s	13(S)-HPODE
+4115	m00378s	15(S)-HETrE
+4116	sphmyln180241_hs_s	Sm (D18:0/24:1), Sphingomyelin
+4117	sphmyln18114_hs_s	Sm (D18:1/14:0), Sphingomyelin
+4118	sphmyln18115_hs_s	Sm (D18:1/15:0), Sphingomyelin
+4119	sphmyln18116_hs_s	Sm (D18:1/16:0), Sphingomyelin
+4120	sphmyln181161_hs_s	Sm (D18:1/16:1), Sphingomyelin
+4121	sphmyln18117_hs_s	Sm (D18:1/17:0), Sphingomyelin
+4122	sphmyln18118_hs_s	Sm (D18:1/18:0), Sphingomyelin
+4123	sphmyln181181_hs_s	Sm (D18:1/18:1), Sphingomyelin
+4124	sphmyln18120_hs_s	Sm (D18:1/20:0), Sphingomyelin
+4125	sphmyln181201_hs_s	Sm (D18:1/20:1), Sphingomyelin
+4126	sphmyln18121_hs_s	Sm (D18:1/21:0), Sphingomyelin
+4127	sphmyln18122_hs_s	Sm (D18:1/22:0), Sphingomyelin
+4128	sphmyln181221_hs_s	Sm (D18:1/22:1), Sphingomyelin
+4129	sphmyln18123_hs_s	Sm (D18:1/23:0), Sphingomyelin
+4130	sphmyln1824_hs_s	Sm (D18:0/24:0), Sphingomyelin
+4131	sphmyln1825_hs_s	Sm (D18:0/25:0), Sphingomyelin
+4132	mettrpphe_s	Methionyl-Tryptophanyl-Phenylalanine
+4133	mettrpphe_c	Methionyl-Tryptophanyl-Phenylalanine
+4134	glyleu_c	Glycylleucine
+4135	m02908s	SM pool
+4136	m02543s	N-acetylneuraminate
+4137	m02525s	N-acetylgalactosamine
+4138	m01991s	glycogenin G4G4
+4139	m00752s	3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanate
+4140	m02725s	phenylpyruvate
+4141	m03099s	tyramine
+4142	m00654s	2-hydroxyphenylacetate
+4143	vanilpyr_c	Vanilpyruvic Acid
+4144	2h3mv_c	2-Hydroxy-3-Methyl-Valerate
+4145	2hiv_c	2-Hydroxy-Isovalerate
+4146	2m3ovcoa_m	2-Methyl-3-Oxo-Valeryl Coenzyme A
+4147	3hadicoa_p	3-Hydroxy-Adipoyl Coenzyme A
+4148	3ohsubcoa_p	3-Hydoxy-Suberyl Coenzyme A
+4149	peste_hs_c	1-Stearoylglycerophosphoethanolamine
+4150	thexdd_m	7Z,10Z-Hexadecadienoic Acid
+4151	hexdtr_m	(Z,Z,Z)-7,10,13-Hexadecatrienoic Acid
+4152	hpdececoa_m	Trans-Delta-2-Heptadecanoyl Coenzyme A
+4153	hpdece_m	Trans-Delta-2-Heptadecanoic Acid
+4154	eic21114tr_c	Trans,Cis,Cis-2,11,14-Eicosatrienoic Acid
+4155	5eipenc_m	5,8,11,14,17-Eicosapentenoic Acid
+4156	m02601s	N-methylhistamine
+4157	m02603s	N-methylsalsolinol
+4158	m01045s	5,10-methylene-THF
+4159	m03088s	tryptamine
+4160	m02891s	selenomethionine
+4161	m00028s	(18R)-HEPE
+4162	m02823s	quinonoid dihydrobiopterin
+4163	m00248s	1,3-diaminopropane
+4164	m02117s	hexadecenoylcarnitine(9)
+4165	m02503s	N1-acetylspermidine
+4166	m01601s	cocaine
+4167	dopa4glcur_c	Dopamine-4-O-Glucuronide
+4168	dopa3glcur_c	Dopamine-3-O-Glucuronide
+4169	34dhpe_c	3,4-Dihydroxyphenylethanol
+4170	dopa4glcur_s	Dopamine-4-O-Glucuronide
+4171	dopa3glcur_s	Dopamine-3-O-Glucuronide
+4172	m01139s	5-S-glutathionyl-L-dopa
+4173	5cysgly34dhphe_s	5-S-Cysteinylglycine Dopa
+4174	23dh1i56dio_c	2,3-Dihydro-1H-Indole-5,6-Dione
+4175	m01138s	5-S-glutathionyl-dopamine
+4176	galgluside_hs_s	Galactosyl Glucosyl Ceramide
+4177	gm1_hs_l	Ganglioside Gm1
+4178	m01905l	GA2
+4179	m01904l	GA1
+4180	m01946l	GD2
+4181	m01943l	GD1b
+4182	m01947s	GD3
+4183	m02015s	GM3
+4184	m01904s	GA1
+4185	m01947l	GD3
+4186	gm1_hs_s	Ganglioside Gm1
+4187	m02010s	GM1b
+4188	m01943s	GD1b
+4189	m02030s	GT1b
+4190	m01592s	CMP-N-acetylneuraminate
+4191	temp001c	biomass
+4192	atvacid_s	atorvastatin-acid
+4193	atvacid_c	atorvastatin-acid
+4194	crvsm1_r	cerivastatin-M1
+4195	crvsm23_r	cerivastatin-M23
+4196	cvm1gluc_r	cerivastatin-M1-glucuronide
+4197	cvm23gluc_r	cerivastatin-M23-glucuronide
+4198	ibup_R_s	ibuprofen-R
+4199	ibup_R_c	ibuprofen-R
+4200	ibupcoa_R_c	ibuprofen-CoA-R form
+4201	ibupcoa_S_c	ibuprofen-CoA-S form
+4202	ibup_S_c	ibuprofen-S
+4203	simvgluc_r	simvastatin-acyl-glucuronide
+4204	smvacid_r	simvastatin dihydroxy acid form
+4205	m02039i	H+
+4206	m00337x	13(S)-HPODE
+4207	m00788x	3-hydroxy-L-kynurenine
+4208	m00752x	3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanate
+4209	m01042x	5(S)-HPETE
+4210	m01371x	ATP
+4211	m01592x	CMP-N-acetylneuraminate
+4212	c12dc_x	Dodecanedioyl Carnitine
+4213	m01828x	FMN
+4214	m02008x	GM1
+4215	m02010x	GM1b
+4216	c16dc_x	Hexadecanedioic Acid Mono-L-Carnitine Ester
+4217	m02411x	L-palmitoylcarnitine
+4218	mettrpphe_x	Methionyl-Tryptophanyl-Phenylalanine
+4219	c8dc_x	Suberyl Carnitine
+4220	m01350x	apoA1
+4221	m01439x	chitobiose
+4222	m01446x	cholest-5-ene-3beta,7alpha,24(S)-triol
+4223	m01601x	cocaine
+4224	m01773x	eicosanoyl-CoA
+4225	m01926x	gamma-glutamyl-beta-cyanoalanine
+4226	m01991x	glycogenin G4G4
+4227	m01992x	glycogenin G4G7
+4228	m02117x	hexadecenoylcarnitine(9)
+4229	m02124x	histamine
+4230	ibup_R_x	ibuprofen-R
+4231	m02444x	malonyl-CoA
+4232	m02822x	quinolinate
+4233	m02823x	quinonoid dihydrobiopterin
+4234	m02832x	retinal
+4235	m02891x	selenomethionine
+4236	m03088x	tryptamine
+4237	m03099x	tyramine
+4238	temp001s	biomass
+4239	m10005c	fatty acid pool
+4240	m10005l	fatty acid pool
+4241	m10005p	fatty acid pool
+4242	m10006m	1-acylglycerol-3P pool
+4243	m10006c	1-acylglycerol-3P pool
+4244	m10007c	acyl-CoA pool
+4245	m10007m	acyl-CoA pool
+4246	m10007p	acyl-CoA pool
+4247	m02956l	TAG-chylomicron pool
+4248	m00235s	1,2-diacylglycerol-LD-PC pool
+4249	m00237n	1,2-diacylglycerol-LD-PI pool
+4250	m01426c	CDP-diacylglycerol-CL pool
+4251	m01807c	fatty acid-chylomicron pool
+4252	m01820c	fatty acid-VLDL pool
+4253	m00196r	[protein]
+4254	m10012c	cofactor_pool_biomass
+4255	m10013c	protein_pool_biomass
+4256	m10014c	lipid_pool_biomass
+4257	m10015c	metabolite_pool_biomass
+4258	m00097x	(5-L-glutamyl)-L-amino acid
+4259	m00266x	10-formyl-THF
+4260	m00267x	10-formyl-THF-glu(5)
+4261	m00268x	10-formyl-THF-glu(6)
+4262	m00516x	1-alkyl-2-lysoglycerol-3-phosphocholine
+4263	m00626x	2-acetyl-1-alkyl-sn-glycero-3-phosphocholine
+4264	m00648x	2-hydroxybutyrate
+4265	m01111x	5-L-gamma-glutamyl
+4266	m01159x	6-deoxy-L-galactose
+4267	m01252x	acetate
+4268	m01253x	acetoacetate
+4269	m01279x	adenine
+4270	m01280x	adenosine
+4271	m01285x	ADP
+4272	m01288x	ADP-ribose
+4273	m01289x	ADP-ribose-2-phosphate
+4274	m01306x	AKG
+4275	m01307x	alanine
+4276	m01334x	AMP
+4277	m01365x	arginine
+4278	m01369x	asparagine
+4279	m01397x	bilirubin-bisglucuronoside
+4280	m01398x	bilirubin-monoglucuronoside
+4281	m01410x	butyrate
+4282	m01413x	Ca2+
+4283	m01419x	cAMP
+4284	m01433x	cGMP
+4285	m01442x	chloride
+4286	m01450x	cholesterol
+4287	m01513x	choline
+4288	m01517x	chondroitin sulfate A (GalNAc4S-GlcA) proteoglycan
+4289	m01569x	chylomicron remnant
+4290	m01590x	CMP
+4291	m01596x	CO2
+4292	m01619x	creatine
+4293	m01626x	cys-gly
+4294	m01628x	cysteine
+4295	m01630x	cytidine
+4296	m01632x	cytosine
+4297	m01648x	decanoic acid
+4298	m01652x	de-Fuc form of PA6
+4299	m01655x	dehydroascorbic acid
+4300	m01666x	deoxyadenosine
+4301	m01668x	deoxycytidine
+4302	m01669x	deoxyguanosine
+4303	m01671x	deoxyinosine
+4304	m01673x	deoxyuridine
+4305	m01682x	D-glucitol
+4306	m01695x	digalactosylceramidesulfate
+4307	m01700x	dihydrofolate
+4308	m01704x	dihydroneopterin
+4309	m01758x	D-xylose
+4310	m01797x	ethanolamine
+4311	m01821x	Fe2+
+4312	m01822x	Fe3+
+4313	m01830x	folate
+4314	m01833x	formate
+4315	m01840x	fructose
+4316	m01910x	galactose
+4317	m01948x	GDP
+4318	m01965x	glucose
+4319	m01974x	glutamate
+4320	m01975x	glutamine
+4321	m01983x	glycerol
+4322	m01986x	glycine
+4323	m02016x	GMP
+4324	m02026x	GSH
+4325	m02027x	GSSG
+4326	m02037x	guanine
+4327	m02038x	guanosine
+4328	m02039x	H+
+4329	m02040x	H2O
+4330	m02041x	H2O2
+4331	m02042x	H2S
+4332	m02046x	HCO3-
+4333	m02108x	heptylic acid
+4334	m02118x	hexaglutamyl-folate(DHF)
+4335	m02119x	hexaglutamyl-folate(THF)
+4336	m02120x	hexanoic acid
+4337	m02125x	histidine
+4338	m02136x	homoserine
+4339	m02139x	hyaluronan biosynthesis, precursor 1
+4340	m02141x	hyaluronate
+4341	m02147x	hydroxide
+4342	m02159x	hypoxanthine
+4343	m02167x	IMP
+4344	m02170x	inosine
+4345	m02171x	inositol
+4346	m02184x	isoleucine
+4347	m02200x	K+
+4348	m02237x	keratan sulfate I, degradation product 1
+4349	m02348x	L-carnitine
+4350	m02352x	LDL remnant
+4351	m02360x	leucine
+4352	m02366x	leukotriene C4
+4353	m02387x	linoleate
+4354	m02403x	L-lactate
+4355	m02418x	LTD4
+4356	m02426x	lysine
+4357	m02471x	methionine
+4358	m02519x	Na+
+4359	m02578x	NH3
+4360	m02583x	nicotinamide
+4361	m02614x	nonanoic acid
+4362	m02630x	O2
+4363	m02642x	octanoic acid
+4364	m02658x	ornithine
+4365	m02661x	oxalate
+4366	m02691x	pentaglutamyl-folate(DHF)
+4367	m02692x	pentaglutamyl-folate(THF)
+4368	m02724x	phenylalanine
+4369	m02751x	Pi
+4370	m02754x	PNP
+4371	m02770x	proline
+4372	m02772x	propanoate
+4373	m02785x	prostaglandin E1
+4374	m02786x	prostaglandin E2
+4375	m02819x	pyruvate
+4376	m02842x	riboflavin
+4377	m02896x	serine
+4378	m02930x	sphingosine-1-phosphate
+4379	m02946x	sulfate
+4380	m02962x	taurochenodeoxycholate
+4381	m02980x	THF
+4382	m02993x	threonine
+4383	m02996x	thymidine
+4384	m02997x	thymine
+4385	m02998x	thyroxine
+4386	m03089x	tryptophan
+4387	m03101x	tyrosine
+4388	m03114x	UMP
+4389	m03117x	undecylic acid
+4390	m03118x	uracil
+4391	m03120x	urate
+4392	m03121x	urea
+4393	m03123x	uridine
+4394	m03134x	valeric acid
+4395	m03135x	valine
+4396	m03146x	VLDL remnant
+4397	m03157x	zinc
+4398	temp001x	biomass
+4399	m01451x	cholesterol-ester pool
+4400	m00003x	(10Z)-heptadecenoic acid
+4401	m00008x	(11Z,14Z)-eicosadienoic acid
+4402	m00010x	(11Z,14Z,17Z)-eicosatrienoic acid
+4403	m00017x	(13Z)-eicosenoic acid
+4404	m00019x	(13Z)-octadecenoic acid
+4405	m00021x	(13Z,16Z)-docosadienoic acid
+4406	m00028x	(18R)-HEPE
+4407	m00094x	(4Z,7Z,10Z,13Z,16Z)-DPA
+4408	m00104x	(6Z,9Z)-octadecadienoic acid
+4409	m00111x	(6Z,9Z,12Z,15Z,18Z)-TPA
+4410	m00114x	(6Z,9Z,12Z,15Z,18Z,21Z)-THA
+4411	m00115x	(7Z)-octadecenoic acid
+4412	m00117x	(7Z)-tetradecenoic acid
+4413	m00128x	(9E)-tetradecenoic acid
+4414	m00132x	(9Z,12Z,15Z,18Z)-TTA
+4415	m00135x	(9Z,12Z,15Z,18Z,21Z)-TPA
+4416	m00241x	1,2-diacylglycerol-VLDL pool
+4417	m00234x	1,2-diacylglycerol-chylomicron pool
+4418	m00248x	1,3-diaminopropane
+4419	pcholar_hs_x	1-Arachidonoyl-Glycero-3-Phosphocholine
+4420	pear_hs_x	1-Arachidonoyl-Sn-Glycero-3-Phosphoethanolamine
+4421	pe12_hs_x	1-Didecanoylglycerophosphoethanolamine (C12:0 Pe)
+4422	pcholn203_hs_x	1-Dihomo-Linolenoylglycerophosphocholine (20:3, Delta 8, 11, 14), Lysopc A C20:3
+4423	pedh203_hs_x	1-Dihomo-Linolenoylglycerophosphoethanolamine (20:3, Delta 8, 11, 14)
+4424	pcholdoc_hs_x	1-Docosahexaenoylglycerophosphocholine
+4425	pe226_hs_x	1-Docosahexenoylglyceroethanolamine (Delta 4, 7, 10, 13, 16, 19), Lpe (22:6)
+4426	pcholn226_hs_x	1-Docosahexenoylglycerophosphocholine (Delta 4, 7, 10, 13, 16, 19), Sn1-Lpc (22:6)
+4427	pcholn2254_hs_x	1-Docosapentenoylglycerophosphocholine (Delta 4, 7, 10, 13, 16), Sn1-Lpc (22:5)-W6
+4428	pcholn225_hs_x	1-Docosapentenoylglycerophosphocholine (Delta 7, 10, 13, 16, 19), Sn1-Lpc (22:5)-W3
+4429	pcholn224_hs_x	1-Docosatetraenoylglycerophosphocholine (Delta 7, 10, 13, 16), Sn1-Lpc (22:4)
+4430	pcholeic_hs_x	1-Eicosadienoylglycerophosphocholine (Delta 11,14)
+4431	pcholn205_hs_x	1-Eicosapentenoylglycerophosphocholine (Delta 5, 8, 11, 14, 17), Sn1-Lpc (20:5)
+4432	pcholn204_hs_x	1-Eicosatetraenoylglycerophosphocholine (Delta 8, 11, 14, 17), Sn1-Lpc (20:4)
+4433	pcholet_hs_x	1-Eicosatrienoylglycerophosphocholine (Delta 11, 14, 17)
+4434	pe203_hs_x	1-Eicosatrienoylglycerophosphoethanolamine (Delta 11, 14, 17), Lpe (20:3)
+4435	pcholn201_hs_x	1-Eicosenoylglycerophosphocholine (Delta 11) ,Sn1-Lpc (20:1)
+4436	pcholhep_hs_x	1-Heptadecanoylglycerophosphocholine
+4437	pe17_hs_x	1-Heptadecanoylglycerophosphoethanolamine (C17:0 Pe)
+4438	pe161_hs_x	1-Hexadecenoylglycerophosphoethanolamine (C16:1 Pe, Delta 9)
+4439	pcholn24_hs_x	1-Lignocericylglycerophosphocholine (24:0), Lysopc A C24
+4440	pchollinl_hs_x	1-Linoleoylglycerophosphocholine (Delta 9,12)
+4441	pelinl_hs_x	1-Linoleoylglycerophosphoethanolamine (Delta 9,12)
+4442	pcholmyr_hs_x	1-Myristoylglycerophosphocholine
+4443	pe14_hs_x	1-Myristoylglycerophosphoethanolamine (C14:0 Pe)
+4444	pcholn19_hs_x	1-Nonadecanoylglycerophosphocholine, Sn1-Lpc (19:0)
+4445	pcholn1836_hs_x	1-Octadeca-Trienoylglycerophosphocholine, Sn1-Lpc (18:3, Delta 6, 9, 12)
+4446	pcholn183_hs_x	1-Octadeca-Trienoylglycerophosphocholine, Sn1-Lpc (18:3, Delta 9, 12, 15)
+4447	pcholole_hs_x	1-Oleoylglycerophosphocholine (Delta 9)
+4448	peole_hs_x	1-Oleoylglycerophosphoethanolamine (Delta 9)
+4449	pcholpalme_hs_x	1-Palmitoleoylglycerophosphocholine (Delta 9)
+4450	pcholpalm_hs_x	1-Palmitoylglycerophosphocholine
+4451	pepalm_hs_x	1-Palmitoylglycerophosphoethanolamine
+4452	pcholn15_hs_x	1-Pentadecanoylglycerophosphocholine, Sn1-Lpc (15:0)
+4453	pe15_hs_x	1-Pentadecanoylglycerophosphoethanolamine (C15:0 Pe)
+4454	pcholste_hs_x	1-Stearoylglycerophosphocholine
+4455	peste_hs_x	1-Stearoylglycerophosphoethanolamine
+4456	pe13_hs_x	1-Tridecanoylglycerophosphoethanolamine (C13:0 Pe)
+4457	m00510x	1-acylglycerol-VLDL pool
+4458	m00503x	1-acylglycerol-chylomicron pool
+4459	m00260x	10,13,16,19-docosatetraenoic acid
+4460	m00265x	10,13,16-docosatriynoic acid
+4461	m00309x	12(S)-HPETE
+4462	m00315x	12,15,18,21-tetracosatetraenoic acid
+4463	m00341x	13,16,19-docosatrienoic acid
+4464	m00378x	15(S)-HETrE
+4465	m00570x	2,3-cyclic-UMP
+4466	pchol2linl_hs_x	2-Linoleoylglycerophosphocholine
+4467	pe2linl_hs_x	2-Linoleoylglycerophosphoethanolamine
+4468	pchol2ole_hs_x	2-Oleoylglycerophosphocholine
+4469	pchol2ste_hs_x	2-Stearoylglycerophosphocholine
+4470	m00654x	2-hydroxyphenylacetate
+4471	m00656x	2-lysolecithin pool
+4472	m00921x	3-UMP
+4473	m00866x	3-oxodocosanoyl-CoA
+4474	m01045x	5,10-methylene-THF
+4475	5cysgly34dhphe_x	5-S-Cysteinylglycine Dopa
+4476	m01139x	5-S-glutathionyl-L-dopa
+4477	m01138x	5-S-glutathionyl-dopamine
+4478	m01155x	6-[(1S,2R)-1,2-dihydroxy-3-triphosphooxypropyl]-7,8-dihydropterin
+4479	m01197x	7-palmitoleic acid
+4480	m01207x	8,11-eicosadienoic acid
+4481	m01235x	9-eicosenoic acid
+4482	m01238x	9-heptadecylenic acid
+4483	m01597x	CoA
+4484	m01689x	DHA
+4485	m01690x	DHAP
+4486	m01741x	DPA
+4487	dopa3glcur_x	Dopamine-3-O-Glucuronide
+4488	dopa4glcur_x	Dopamine-4-O-Glucuronide
+4489	m01784x	EPA
+4490	m01802x	FAD
+4491	m01904x	GA1
+4492	m01943x	GD1b
+4493	m01947x	GD3
+4494	m02011x	GM2
+4495	m02015x	GM3
+4496	m02030x	GT1b
+4497	galgluside_hs_x	Galactosyl Glucosyl Ceramide
+4498	gm1_hs_x	Ganglioside Gm1
+4499	glygn4_x	Glycogen, Structure 4 (Glycogenin-1,6-{2[1,4-Glc], [1,4-Glc]})
+4500	m02326x	L-3-cyanoalanine
+4501	m02525x	N-acetylgalactosamine
+4502	m02543x	N-acetylneuraminate
+4503	m02601x	N-methylhistamine
+4504	m02603x	N-methylsalsolinol
+4505	m02503x	N1-acetylspermidine
+4506	m02579x	NH4+
+4507	m02684x	PC-LD pool
+4508	m02759x	PPi
+4509	m02806x	PRPP
+4510	m02908x	SM pool
+4511	sphmyln1824_hs_x	Sm (D18:0/24:0), Sphingomyelin
+4512	sphmyln180241_hs_x	Sm (D18:0/24:1), Sphingomyelin
+4513	sphmyln1825_hs_x	Sm (D18:0/25:0), Sphingomyelin
+4514	sphmyln18114_hs_x	Sm (D18:1/14:0), Sphingomyelin
+4515	sphmyln18115_hs_x	Sm (D18:1/15:0), Sphingomyelin
+4516	sphmyln18116_hs_x	Sm (D18:1/16:0), Sphingomyelin
+4517	sphmyln181161_hs_x	Sm (D18:1/16:1), Sphingomyelin
+4518	sphmyln18117_hs_x	Sm (D18:1/17:0), Sphingomyelin
+4519	sphmyln18118_hs_x	Sm (D18:1/18:0), Sphingomyelin
+4520	sphmyln181181_hs_x	Sm (D18:1/18:1), Sphingomyelin
+4521	sphmyln18120_hs_x	Sm (D18:1/20:0), Sphingomyelin
+4522	sphmyln181201_hs_x	Sm (D18:1/20:1), Sphingomyelin
+4523	sphmyln18121_hs_x	Sm (D18:1/21:0), Sphingomyelin
+4524	sphmyln18122_hs_x	Sm (D18:1/22:0), Sphingomyelin
+4525	sphmyln181221_hs_x	Sm (D18:1/22:1), Sphingomyelin
+4526	sphmyln18123_hs_x	Sm (D18:1/23:0), Sphingomyelin
+4527	m02959x	TAG-VLDL pool
+4528	m02956x	TAG-chylomicron pool
+4529	m01291x	adrenic acid
+4530	m01315x	alloxan
+4531	m01362x	arachidonate
+4532	atvacid_x	atorvastatin-acid
+4533	m01373x	behenic acid
+4534	m01421x	carbonate
+4535	m01430x	ceramide pool
+4536	m01432x	cerotic acid
+4537	m01582x	cis-cetoleic acid
+4538	m01583x	cis-erucic acid
+4539	m01584x	cis-gondoic acid
+4540	m01585x	cis-vaccenic acid
+4541	m01605x	coproporphyrinogen I
+4542	m01686x	dGMP
+4543	m01688x	dGTP
+4544	m01696x	dihomo-gamma-linolenate
+4545	m01771x	eicosanoate
+4546	m01778x	elaidate
+4547	m01820x	fatty acid-VLDL pool
+4548	m01807x	fatty acid-chylomicron pool
+4549	m01925x	gamma-glutamyl-3-aminopropiononitrile
+4550	m01932x	gamma-linolenate
+4551	m01972x	glucosylceramide pool
+4552	m01984x	glycerone
+4553	m02035x	guanidine
+4554	m02053x	henicosanoic acid
+4555	m02096x	hepoxilin A3
+4556	m02319x	kynurenine
+4557	m02344x	lauric acid
+4558	m02385x	lignocerate
+4559	m02456x	margaric acid
+4560	m02457x	mead acid
+4561	m02494x	myristic acid
+4562	m02564x	nervonic acid
+4563	m02613x	nonadecylic acid
+4564	m02646x	oleate
+4565	m02648x	omega-3-arachidonic acid
+4566	m02674x	palmitate
+4567	m02675x	palmitolate
+4568	m02690x	pentadecylic acid
+4569	m02725x	phenylpyruvate
+4570	m02745x	physeteric acid
+4571	m02812x	putrescine
+4572	m02929x	sphingosine
+4573	m02938x	stearate
+4574	m02939x	stearidonic acid
+4575	m02952x	sulfotaurolithocholate
+4576	m03037x	trans-4-hydroxy-L-proline
+4577	m03045x	tricosanoic acid
+4578	m03051x	tridecylic acid
+4579	m03127x	uroporphyrinogen I
+4580	m03153x	ximenic acid
+4581	m01435x	chenodiol
+4582	m02328x	LacCer pool
+4583	m00235x	1,2-diacylglycerol-LD-PC pool
